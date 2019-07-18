@@ -1,7 +1,7 @@
-#Ahgni Blog
+# Ahgni Blog
 
-###[View Live Ahgni Blog &rarr;](https://ahgni.github.io/)
-###[This blog is cited from &rarr;](https://huangxuan.me)
+### [View Live Ahgni Blog &rarr;](https://ahgni.github.io/)
+### [This blog is cited from &rarr;](https://huangxuan.me)
 
 
 ## License
