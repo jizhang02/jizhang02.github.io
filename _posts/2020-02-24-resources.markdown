@@ -22,7 +22,6 @@ Leave a comment if you know some awesome resources.
 
 
 * [Overleaf](https://www.overleaf.com/)
-
 It's a online LaTeX editor. You can share your work with others.
 
 
