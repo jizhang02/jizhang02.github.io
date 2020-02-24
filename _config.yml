@@ -89,34 +89,28 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+    #    title: "乱序",
+    #    href: "http://mida.re/"
+    #},{
+    #    title: "前端外刊评论",
+    #    href: "http://qianduan.guru/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "Spurs",
+        href: "https://www.nba.com/spurs/"
     },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
+        title: "NetEaseMusic",
+        href: "https://music.163.com/"
     },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
+        title: "李子柒",
+        href: "https://www.weibo.com/mianyangdanshen?is_hot=1"
     },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
+        title: "张佳玮",
+        href: "https://www.zhihu.com/people/zhang-jia-wei"
     },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
+        title: "LITIS",
+        href: "https://www.insa-rouen.fr/en/recherche/laboratoires/litis"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+        title: "NWAFU",
+        href: "https://en.nwsuaf.edu.cn/"
     }
 ]
