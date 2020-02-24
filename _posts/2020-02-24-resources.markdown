@@ -21,7 +21,8 @@ The reason why I wrote this article is because I think everything should be shar
 Leave a comment if you know some awesome resources.
 
 
-⋅⋅* [Overleaf](https://www.overleaf.com/)
+* [Overleaf](https://www.overleaf.com/)
+
 It's a online LaTeX editor. You can share your work with others.
 
 
