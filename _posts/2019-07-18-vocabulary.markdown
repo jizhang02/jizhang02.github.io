@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "计算机科学专业英语论文词汇摘录。"
+title:      "Vocabulary in Computer Science Paper"
+subtitle:   "计算机科学专业英语论文词汇摘录"
 date:       2019-07-18 18:47:00
 author:     "Ahgni"
 header-img: "img/post-bg.jpg"
