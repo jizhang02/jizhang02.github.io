@@ -4,7 +4,7 @@ title:      "Information：Computer Science and AI Recruitment"
 subtitle:   "计算机人工智能方向招聘信息"
 date:       2020-02-26 15:00:00
 author:     "Ahgni"
-header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-img: "img/post-bg.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
