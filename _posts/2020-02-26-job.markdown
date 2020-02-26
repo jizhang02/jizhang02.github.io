@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "Information：Computer Science and AI Recruitment"
+subtitle:   "计算机人工智能方向招聘信息"
+date:       2020-02-26 15:00:00
+author:     "Ahgni"
+header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-mask: 0.3
+catalog:    true
+tags:
+    - Computer Science
+    - AI
+    - Job
+---
+
+
+> 这篇博客收集了一些招聘信息，希望能对你有所帮助。 ;) <br><br>
+
+
+## 博士后招聘
+* [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm)，北京
+* [鹏程实验室](http://www.pcl.ac.cn/)，深圳
+
