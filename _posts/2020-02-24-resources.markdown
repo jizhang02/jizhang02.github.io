@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Resources that I know"
+title:      "Resources in different fields"
 date:       2020-02-24 11:47:00
 author:     "Ahgni"
 header-img: "img/post-bg.jpg"
