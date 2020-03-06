@@ -20,11 +20,18 @@ tags:
 ## 博士后招聘
 * [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm)，北京
 * [鹏程实验室](http://www.pcl.ac.cn/)，深圳
-## 人才引进
-* [杭州海外人才网](http://www.hzzjlx.com/)，杭州
-* [天津人才工作网](https://www.tjrc.gov.cn/Index.aspx)，天津
-* [陕西人才发展网](http://www.sxrcfz.org/)，陕西
+* [中国西部海外博士后创新示范中心](http://pdc.xjtu.edu.cn/)，西安
+
 ## 高校招聘
+### 内蒙古
 * [内蒙古大学](http://www.imu.edu.cn/info/1032/1340.htm)，呼和浩特
+### 陕西
 * [西北农林科技大学](https://cie.nwafu.edu.cn/dtytz/tzgg/437370.htm)，杨凌
 * [西安交通大学](http://www.aiar.xjtu.edu.cn/info/1005/1484.htm)，西安
+* [西北工业大学](http://renshi.nwpu.edu.cn/info/1261/5539.htm)，西安
+* [西安电子科技大学](https://rsc.xidian.edu.cn/html/zhaopin/jsgw/2020/0218/3178.html)，西安
+* [西安电子科技大学，人工智能学院](http://sai.xidian.edu.cn/info/1008/4482.htm)，西安
+* [长安大学](http://zp.chd.edu.cn/base/frame/recruitNotice.jsp)，西安
+* [陕西师范大学](http://ccs.snnu.edu.cn/info/1162/5714.htm)，西安
+* [西北大学](http://rsc.nwu.edu.cn/home/index/article/mid/459/id/253359.html)，西安
+* [陕西科技大学](http://rsc.www.sust.edu.cn/info/1013/1569.htm)，西安
