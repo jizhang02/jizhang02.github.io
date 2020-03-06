@@ -27,3 +27,4 @@ tags:
 ## 高校招聘
 * [内蒙古大学](http://www.imu.edu.cn/info/1032/1340.htm)，呼和浩特
 * [西北农林科技大学](https://cie.nwafu.edu.cn/dtytz/tzgg/437370.htm)，杨凌
+* [西安交通大学](http://www.aiar.xjtu.edu.cn/info/1005/1484.htm)，西安
