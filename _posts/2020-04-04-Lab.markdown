@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Labs of Medical Imaging"
+subtitle: "医学图像实验室汇总"
+date:       2020-04-04 14:10:00
+author:     "Ahgni"
+header-img: "img/post-bg.jpg"
+tags:
+    - Computer Science
+    - Deep Learning
+    - Medical Imaging
+---
+
+## This post is mainly the information of labs that including medical imaging.
+
+
+* [Creatis](https://www.creatis.insa-lyon.fr/site7/en), Lyon, France.
+
+
+
+
