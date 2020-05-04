@@ -32,5 +32,7 @@ The first website in the world to provide mass & public access to research paper
 Web interface for browsing, search and filtering recent arxiv submissions.
 * [Tables Generator](https://www.tablesgenerator.com/)
 Entering tables in LaTeX documents can be burdensome because of the necessary formatting directives. For this purpose we created this online generator which (hopefully) will allow you to generate LaTeX code you can just copy & paste into your document's source. Our editor is close to WYSIWYG (What You See Is What You Got) principle, i.e. the table displayed in the editor should resemble the final table.
+* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+CNN EXPLAINER: Learning Convolutional Neural Networks with Interactive Visualization. It is a web-based interavtive CNN explainer. A very good tool to understand how the CNN works visually.
 
 
