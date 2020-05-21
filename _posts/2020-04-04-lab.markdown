@@ -15,7 +15,7 @@ tags:
 
 * [Litis(Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS))](http://www.litislab.fr/), Rouen, France.
 * [Creatis(Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé)](https://www.creatis.insa-lyon.fr/site7/en), Lyon, France.
-* [Dr. Wojciech Samek)](http://iphome.hhi.de/samek/), Berlin, Germany.
+* [Dr. Wojciech Samek](http://iphome.hhi.de/samek/), Berlin, Germany.
 
 
 
