@@ -11,7 +11,8 @@ tags:
     - Medical Imaging
 ---
 
-## This post is mainly the information of labs that including medical imaging.
+### Know more friends from the world
+This post is mainly the information of labs that including medical imaging, and some scholars who are the experts in machine learning fields.
 
 * [Litis(Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS))](http://www.litislab.fr/), Rouen, France.
 * [Creatis(Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé)](https://www.creatis.insa-lyon.fr/site7/en), Lyon, France.
