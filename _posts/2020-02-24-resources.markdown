@@ -36,4 +36,6 @@ Entering tables in LaTeX documents can be burdensome because of the necessary fo
 CNN EXPLAINER: Learning Convolutional Neural Networks with Interactive Visualization. It is a web-based interavtive CNN explainer. A very good tool to understand how the CNN works visually.
 * [Explainable AI Demos](https://lrpserver.hhi.fraunhofer.de/)
 Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many cases, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artifacts. This demo shows how decisions made by systems based on artificial intelligence can be explained by LRP.
+* [Speechnotes](https://speechnotes.co/)
+Speechnotes is a powerful speech-enabled online notepad, designed to empower your ideas by implementing a clean & efficient design, so you can focus on your thoughts.
 
