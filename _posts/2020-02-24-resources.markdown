@@ -38,4 +38,5 @@ CNN EXPLAINER: Learning Convolutional Neural Networks with Interactive Visualiza
 Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many cases, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artifacts. This demo shows how decisions made by systems based on artificial intelligence can be explained by LRP.
 * [Speechnotes](https://speechnotes.co/)
 Speechnotes is a powerful speech-enabled online notepad, designed to empower your ideas by implementing a clean & efficient design, so you can focus on your thoughts.
-
+* [CVPR 2020 Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
+CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.
