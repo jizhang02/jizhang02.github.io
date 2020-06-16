@@ -17,8 +17,10 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Litis(Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS))](http://www.litislab.fr/), Rouen, France.
 * [Creatis(Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé)](https://www.creatis.insa-lyon.fr/site7/en), Lyon, France.
 * [Dr. Wojciech Samek](http://iphome.hhi.de/samek/), Berlin, Germany.
+* [Heatmapping](http://www.heatmapping.org/), This webpage aims to regroup publications and software produced as part of a joint project at Fraunhofer HHI, TU Berlin and SUTD Singapore on developing new method to understand nonlinear predictions of state-of-the-art machine learning models. 
 * [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/), Harvard University, USA.
 * [Smart Medical Imaging](https://www.imagingcdt.com/), London, England.
+
 
 
 
