@@ -21,6 +21,8 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/), Harvard University, USA.
 * [Smart Medical Imaging](https://www.imagingcdt.com/), London, England.
 * [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), London, England.
+* [邱锡鹏](https://xpqiu.github.io/index.html),Shanghai, China.
+* [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), Hongkong, China.
 
 
 
