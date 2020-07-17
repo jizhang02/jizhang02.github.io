@@ -86,30 +86,38 @@ service-worker: true
 # Friends
 Interested: [
     {
-         title: "邱锡鹏",
-         href: "https://xpqiu.github.io/"
-     },{
         title: "网易云音乐",
        href: "https://music.163.com/"
-    },{
+    },
+    {
         title: "Spotify",
         href: "https://www.spotify.com/fr/"
-    },{
+    },
+    {
         title: "Spurs",
         href: "https://www.nba.com/spurs/"
-    },{
+    },
+    {
         title: "哔哩哔哩",
         href: "https://www.bilibili.com/"
-    },{
+    },
+    {
         title: "李子柒",
         href: "https://www.weibo.com/mianyangdanshen?is_hot=1"
-    },{
+    },
+    {
+        title:"阿木爷爷"，
+        href:"https://www.ixigua.com/home/54200533861/"
+    },
+    {
         title: "张佳玮",
         href: "https://www.zhihu.com/people/zhang-jia-wei"
-    },{
+    },
+    {
         title: "LITIS",
         href: "https://www.insa-rouen.fr/en/recherche/laboratoires/litis"
-    },{
+    },
+    {
         title: "NWAFU",
         href: "https://en.nwsuaf.edu.cn/"
     }
