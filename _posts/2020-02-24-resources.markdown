@@ -40,3 +40,7 @@ Machine learning models, in particular deep neural networks (DNNs), are characte
 Speechnotes is a powerful speech-enabled online notepad, designed to empower your ideas by implementing a clean & efficient design, so you can focus on your thoughts.
 * [CVPR 2020 Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
 CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.
+* [Machine Learning Summer Schools](http://mlss.cc/index.html)
+The machine learning summer school series was started in 2002 with the motivation to promulgate modern methods of statistical machine learning and inference. It was motivated by the observation that while many students are keen to learn about machine learning, and an increasing number of researchers want to apply machine learning methods to their research problems, only few machine learning courses are taught at universities. Machine learning summer schools present topics which are at the core of modern Machine Learning, from fundamentals to state-of-the-art practice. The speakers are leading experts in their field who talk with enthusiasm about their subjects.
+* [Conference Partner](https://www.myhuiban.com/) "Conference Partner" was created in 2011. It is an academic website for conferences and journals information.
+* [W3Schools Online Web Tutorials](https://www.w3schools.com/)THE WORLD'S LARGEST WEB DEVELOPER SITE
