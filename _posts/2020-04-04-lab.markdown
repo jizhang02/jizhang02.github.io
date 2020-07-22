@@ -25,6 +25,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), Hongkong, China.
 * [MIRACLE](http://miracle.ict.ac.cn/?page_id=2&lang=zh) The Medical Imaging, Robotics, Analytical Computing Laboratory & Engineering (MIRACLE) group, a part of the Key Laboratory of Intelligent Information Processing of the Chinese Academy of Sciences, was established in June 2018. 
 * [Computer Science Rankings](http://csrankings.org/#/index?vision&graph&world) CSRankings is a metrics-based ranking of top computer science institutions around the world.
+* [MUSIC](http://www.music-bme.net/),SHENZHEN UNIVERSITY HEALTH SCIENCE CENTER SCHOOL OF BIOMEDICAL ENGINEERING
 
 
 
