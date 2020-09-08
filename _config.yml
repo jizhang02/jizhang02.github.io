@@ -84,41 +84,40 @@ service-worker: true
 
 
 # Friends
+
+
+
+# Friends
 friends: [
     {
-        title: "网易云音乐",
-       href: "https://music.163.com/"
-    },
-    {
-        title: "Spotify",
-        href: "https://www.spotify.com/fr/"
-    },
-    {
-        title: "Spurs",
-        href: "https://www.nba.com/spurs/"
-    },
-    {
-        title: "哔哩哔哩",
-        href: "https://www.bilibili.com/"
-    },
-    {
-        title: "李子柒",
-        href: "https://www.weibo.com/mianyangdanshen?is_hot=1"
-    },
-    {
-        title: "阿木爷爷"，
-        href: "https://www.ixigua.com/home/54200533861/"
-    },
-    {
-        title: "张佳玮",
-        href: "https://www.zhihu.com/people/zhang-jia-wei"
-    },
-    {
-        title: "LITIS",
-        href: "https://www.insa-rouen.fr/en/recherche/laboratoires/litis"
-    },
-    {
-        title: "NWAFU",
-        href: "https://en.nwsuaf.edu.cn/"
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+        title: "乱序",
+        href: "http://mida.re/"
+    },{
+        title: "Sherry Wu",
+        href: "https://xuechundesign.github.io"
+    },{
+        title: "Luke 的自留地",
+        href: "http://hmqk1995.github.io"
+    },{
+        title: "Ebn's Blog",
+        href: "http://ebnbin.com/"
+    },{
+        title: "SmdCn's Blog",
+        href: "http://blog.smdcn.net"
+    },{
+        title: "JiyinYiyong",
+        href: "http://tiye.me/"
+    },{
+        title: "David's Game",
+        href: "https://www.ruoyaowu.com/"
+    },{
+        title: "DHong Say",
+        href: "http://dhong.co"
+    },{
+        title: "尹峰以为",
+        href: "http://ingf.github.io/"
     }
-]
+  ]
