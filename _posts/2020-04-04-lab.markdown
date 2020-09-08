@@ -21,8 +21,6 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/), Harvard University, USA.
 * [Smart Medical Imaging](https://www.imagingcdt.com/), London, England.
 * [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), London, England.
-* [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), London, England.
-
 * [邱锡鹏](https://xpqiu.github.io/index.html), Shanghai, China.
 * [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), Hongkong, China.
 * [MIRACLE](http://miracle.ict.ac.cn/?page_id=2&lang=zh) The Medical Imaging, Robotics, Analytical Computing Laboratory & Engineering (MIRACLE) group, a part of the Key Laboratory of Intelligent Information Processing of the Chinese Academy of Sciences, was established in June 2018. 
