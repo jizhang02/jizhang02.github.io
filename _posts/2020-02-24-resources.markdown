@@ -45,3 +45,4 @@ The machine learning summer school series was started in 2002 with the motivatio
 * [Conference Partner](https://www.myhuiban.com/) "Conference Partner" was created in 2011. It is an academic website for conferences and journals information.
 * [W3Schools Online Web Tutorials](https://www.w3schools.com/)THE WORLD'S LARGEST WEB DEVELOPER SITE
 * [Personnal website by Jack Cui](https://cuijiahua.com/) A personnal website which is about Machine learning and Deep learning.
+* [Papers with code](https://paperswithcode.com/) The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.
