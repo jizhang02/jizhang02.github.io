@@ -30,7 +30,11 @@ This post is mainly the information of labs that including medical imaging, and 
 * [DeepMind](https://deepmind.com/), London, United Kingdom.
 * [User Interface Research Group, IGARASHI Lab](https://www-ui.is.s.u-tokyo.ac.jp/en/), Tokyo, Japan.
 * [Wang Shusen](http://wangshusen.github.io/index.html),USA. p.s His [tutorial](https://www.youtube.com/channel/UC9qKcEgXHPFP2-ywYoA-E0Q) is very good. 
-* [MIPAV](http://www.mipav.net/), Suzhou, Chine. Medical Image Processing， Analysis and Visualization, MIPAV. 苏州大学医学影响处理与分析实验室
+* [MIPAV](http://www.mipav.net/), Suzhou, China. Medical Image Processing， Analysis and Visualization, MIPAV. 苏州大学医学影响处理与分析实验室
+* [Key Laboratory of Molecular Imaging, Chinese Academy of Sciences](http://www.3dmed.net/), Beijing, China.中科院分子影像重点实验室
+* [BMEC](https://bmec.ustc.edu.cn/), Hefei, China. 中科大医学影响中心
+* [BEIJING INSTITUTE OF BIG DATA RESEARCH](http://www.bibdr.org/), Beijing, China. 北京大数据研究院
+* [Artificial Intelligence and Biomedical Image Analysis Lab](https://www.yanglinlab.com/), Hangzhou, China. 杨林实验室-人工智能与生物医学影响实验室
 
 
 
