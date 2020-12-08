@@ -37,7 +37,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Artificial Intelligence and Biomedical Image Analysis Lab](https://www.yanglinlab.com/), Hangzhou, China. 杨林实验室-人工智能与生物医学影响实验室
 * [Thierry Denoeux](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/start), Compiègne, France. Professor in Belief Functions.
 * [Kaiming He](http://kaiminghe.com/), USA.
-* [Zhifan Gao](https://zhifan-gao.github.io/index.html), Guangzhou, China.
+* [Zhifan Gao](https://zhifan-gao.github.io/index.html), Guangzhou, China. Professor in medical image analysis.
 
 
 
