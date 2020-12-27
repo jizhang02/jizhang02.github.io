@@ -43,3 +43,5 @@ tags:
 * [华南理工大学](http://www2.scut.edu.cn/hr/2019/0506/c4457a317013/page.htm)，广州
 ### 四川
 * [电子科技大学](https://www.uestc.edu.cn/), 成都
+### 上海
+* [上海科技大学生物医学工程学院](https://bme.shanghaitech.edu.cn/),上海
