@@ -49,5 +49,6 @@ tags:
 * [深圳大学人力资源部](https://hr.szu.edu.cn/rczp1.htm)，深圳
 ### 四川
 * [电子科技大学视觉智能研究中心](https://medialab.uestc.edu.cn/), 成都
+* [电子科技大学智慧医疗实验室](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm), 成都
 ### 上海
 * [上海科技大学生物医学工程学院](https://bme.shanghaitech.edu.cn/),上海
