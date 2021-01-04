@@ -39,6 +39,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Kaiming He](http://kaiminghe.com/), USA.
 * [Zhifan Gao](https://zhifan-gao.github.io/index.html), Guangzhou, China. Professor in medical image analysis.
 * [电子科技大学智慧医疗实验室](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm), 成都
+* [杨杰](https://person.zju.edu.cn/jieyang#0), Hangzhou, Zhejiang University, China
 
 
 
