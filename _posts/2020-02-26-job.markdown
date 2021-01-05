@@ -18,37 +18,51 @@ tags:
 
 
 ## 博士后招聘
-* [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm), 北京
-* [鹏程实验室](http://www.pcl.ac.cn/), 深圳
-* [深圳湾实验室](https://www.szbl.ac.cn/index.aspx), 深圳
-* [中国西部海外博士后创新示范中心](http://pdc.xjtu.edu.cn/), 西安
+* [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm)， 北京，Beijing
+* [鹏程实验室](http://www.pcl.ac.cn/)， 深圳，Shenzhen
+* [深圳湾实验室](https://www.szbl.ac.cn/index.aspx)， 深圳，Shenzhen
+* [中国西部海外博士后创新示范中心](http://pdc.xjtu.edu.cn/)， 西安，Xi'an
+
+## 公司
+* [柏视医疗](https://www.pvmedtech.com/index.html)，广州，Guangzhou
+* [腾讯觅影](https://miying.qq.com/official/)，深圳，Shenzhen
+* [商汤](https://www.sensetime.com/cn)，北京，Beijing
+* [依图医疗](https://www.yitutech.com/cn)，上海，Shanghai
+* [九峰医疗](http://www.jfhealthcare.com/index.html)，北京，Beijing
+* [讯飞晓医](https://www.iflytek.com/health)，合肥，Hefei
+* [深睿医疗](http://www.deepwise.com/)，北京，Beijing
+* [视见科技](https://www.imsightmed.com/)，深圳，Shenzhen
+* [汇医慧影](https://www.huiyihuiying.com/)，北京，Beijing
+* [迈瑞医疗](https://www.mindray.com/cn/index.html)，深圳，Shenzhen
+* [医准智能](http://www.yizhun-ai.com/)，北京，Beijing
+* [联影医疗](https://www.united-imaging.com/cn/home/)，上海，Shanghai
 
 ## [中国大陆高等学校列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%88%97%E8%A1%A8)
-### 内蒙古
-* [内蒙古大学](http://www.imu.edu.cn/info/1032/1340.htm)，呼和浩特
-### 陕西
-* [西北农林科技大学](https://cie.nwafu.edu.cn/dtytz/tzgg/437370.htm)，杨凌
-* [西安交通大学](http://www.aiar.xjtu.edu.cn/info/1005/1484.htm)，西安
-* [西北工业大学](http://renshi.nwpu.edu.cn/info/1261/5539.htm)，西安
-* [西安电子科技大学](https://rsc.xidian.edu.cn/html/zhaopin/jsgw/2020/0218/3178.html)，西安
-* [西安电子科技大学，人工智能学院](http://sai.xidian.edu.cn/info/1008/4482.htm)，西安
-* [长安大学](http://zp.chd.edu.cn/base/frame/recruitNotice.jsp)，西安
-* [陕西师范大学](http://ccs.snnu.edu.cn/info/1162/5714.htm)，西安
-* [西北大学](http://rsc.nwu.edu.cn/home/index/article/mid/459/id/253359.html)，西安
-* [陕西科技大学](http://rsc.www.sust.edu.cn/info/1013/1569.htm)，西安
-### 浙江
-* [西湖大学](https://www.westlake.edu.cn/)，杭州
-### 江苏
-* [徐州医学院-医学信息学院](https://xxxy.xzhmu.edu.cn/index.jsp)，徐州
-### 广东
-* [中山大学](http://sdcs.sysu.edu.cn/)，广州
-* [中山大学智能工程学院](http://ise.sysu.edu.cn/rs/rs01/1383196.htm)，广州
-* [暨南大学](https://xxxy2016.jnu.edu.cn/Category_47/Index.aspx)，广州
-* [汕头大学](http://job.stu.edu.cn/engage_job/positionDetail.aspx?jobID=827)，汕头
-* [华南理工大学](http://www2.scut.edu.cn/hr/2019/0506/c4457a317013/page.htm)，广州
-* [深圳大学人力资源部](https://hr.szu.edu.cn/rczp1.htm)，深圳
-### 四川
-* [电子科技大学视觉智能研究中心](https://medialab.uestc.edu.cn/), 成都
-* [电子科技大学智慧医疗实验室](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm), 成都
-### 上海
-* [上海科技大学生物医学工程学院](https://bme.shanghaitech.edu.cn/),上海
+### 内蒙古 Inner Mongolia
+* [内蒙古大学](http://www.imu.edu.cn/info/1032/1340.htm)，呼和浩特，Huhhot
+### 陕西 Shaanxi
+* [西北农林科技大学](https://cie.nwafu.edu.cn/dtytz/tzgg/437370.htm)，杨凌，Yangling
+* [西安交通大学](http://www.aiar.xjtu.edu.cn/info/1005/1484.htm)，西安，Xi'an
+* [西北工业大学](http://renshi.nwpu.edu.cn/info/1261/5539.htm)，西安，Xi'an
+* [西安电子科技大学](https://rsc.xidian.edu.cn/html/zhaopin/jsgw/2020/0218/3178.html)，西安，Xi'an
+* [西安电子科技大学，人工智能学院](http://sai.xidian.edu.cn/info/1008/4482.htm)，西安，Xi'an
+* [长安大学](http://zp.chd.edu.cn/base/frame/recruitNotice.jsp)，西安，Xi'an
+* [陕西师范大学](http://ccs.snnu.edu.cn/info/1162/5714.htm)，西安，Xi'an
+* [西北大学](http://rsc.nwu.edu.cn/home/index/article/mid/459/id/253359.html)，西安，Xi'an
+* [陕西科技大学](http://rsc.www.sust.edu.cn/info/1013/1569.htm)，西安，Xi'an
+### 浙江 Zhejiang
+* [西湖大学](https://www.westlake.edu.cn/)，杭州，Hangzhou
+### 江苏 Jiangsu
+* [徐州医学院-医学信息学院](https://xxxy.xzhmu.edu.cn/index.jsp)，徐州，Xuzhou
+### 广东 Guangdong
+* [中山大学](http://sdcs.sysu.edu.cn/)，广州，Guangzhou
+* [中山大学智能工程学院](http://ise.sysu.edu.cn/rs/rs01/1383196.htm)，广州，Guangzhou
+* [暨南大学](https://xxxy2016.jnu.edu.cn/Category_47/Index.aspx)，广州，Guangzhou
+* [汕头大学](http://job.stu.edu.cn/engage_job/positionDetail.aspx?jobID=827)，汕头，Shantou
+* [华南理工大学](http://www2.scut.edu.cn/hr/2019/0506/c4457a317013/page.htm)，广州，Guangzhou
+* [深圳大学人力资源部](https://hr.szu.edu.cn/rczp1.htm)，深圳，Shenzhen
+### 四川 Sichuan
+* [电子科技大学视觉智能研究中心](https://medialab.uestc.edu.cn/)，成都，Chengdu
+* [电子科技大学智慧医疗实验室](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)，成都，Chengdu
+### 上海 Shanghai
+* [上海科技大学生物医学工程学院](https://bme.shanghaitech.edu.cn/)，上海，Shanghai
