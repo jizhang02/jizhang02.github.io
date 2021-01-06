@@ -51,4 +51,5 @@ The machine learning summer school series was started in 2002 with the motivatio
 * [Model Zoo](https://modelzoo.co/) Discover open source deep learning code and pretrained models.
 * [Top Computer Science conference](http://www.guide2research.com/topconf/) The Top Conferences Ranking for Computer Science & Electronics was prepared by Guide2Research, one of the leading portals for computer science research providing trusted data on scientific contributions since 2014.
 * [OpenCV Tutorials](https://github.com/JimmyHHua/opencv_tutorials) This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0.
+* [Chinese Medical Knowledge Graph](http://cmekg.pcl.ac.cn/), 中文医学知识图谱
 
