@@ -3,7 +3,7 @@ layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
 date:       2020-02-24 11:47:00
-author:     "Ahgni"
+author:     "Jing Zhang"
 header-img: "img/post-bg.jpg"
 tags:
     - Computer Science
