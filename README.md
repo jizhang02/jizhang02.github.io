@@ -1,6 +1,6 @@
-# Ahgni Blog
+# Jing Blog
 
-### [View Live Ahgni Blog &rarr;](https://zhangji02.github.io/)
+### [View Live Jing Blog &rarr;](https://zhangji02.github.io/)
 ### [This blog is cited from Hux Blog;](https://huangxuan.me)
 
 
