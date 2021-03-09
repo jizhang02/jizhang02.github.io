@@ -1,9 +1,9 @@
 # Site settings
 title: Jing3Jour Blog
-SEOTitle: 张晶的博客 | Jing3Jour Blog
+SEOTitle: 张晶的博客 | Jing's Blog
 header-img: img/home-bg.jpg
 email: jing.zhang92@qq.com
-description: "2018级CSC公派计算机博士 | 张晶 | 这里是 @zhangji02张晶 的个人博客。"
+description: "2018级CSC公派计算机博士 | 张晶 | 这里是 @Jing 张晶 的个人博客。"
 keyword: "Medical Image Segmentation，Deep Learning"
 url: "https://zhangji02.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
