@@ -30,6 +30,8 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 Web interface for browsing, search and filtering recent arxiv submissions.
 * [Tables Generator](https://www.tablesgenerator.com/)
 Entering tables in LaTeX documents can be burdensome because of the necessary formatting directives. For this purpose we created this online generator which (hopefully) will allow you to generate LaTeX code you can just copy & paste into your document's source. Our editor is close to WYSIWYG (What You See Is What You Got) principle, i.e. the table displayed in the editor should resemble the final table.
+* [Draw.io](https://app.diagrams.net/)
+Online drawing tool.
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 CNN EXPLAINER: Learning Convolutional Neural Networks with Interactive Visualization. It is a web-based interavtive CNN explainer. A very good tool to understand how the CNN works visually.
 * [Explainable AI Demos](https://lrpserver.hhi.fraunhofer.de/)
