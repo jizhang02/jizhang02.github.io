@@ -1,6 +1,6 @@
 
 #### Who am I?
-Hi, I am *@ahgni* (ZHANG, Jing), a PhD student in [LITIS](http://www.litislab.fr/), [INSA Rouen](https://www.insa-rouen.fr/), France. I previously studied in at [NWAFU](https://www.nwsuaf.edu.cn/), China.Now I am studying Medical Image Segmentation using Deep Learning.
+Hi, I am Jing, a PhD student in [LITIS](http://www.litislab.fr/), [INSA Rouen](https://www.insa-rouen.fr/), France. I previously studied in at [NWAFU](https://www.nwsuaf.edu.cn/), China.Now I am studying Medical Image Segmentation using Deep Learning.
 
 
 ##### Publications
