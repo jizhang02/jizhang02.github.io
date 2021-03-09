@@ -3,7 +3,7 @@ layout:     post
 title:      "Labs of Medical Imaging&Deep Learning"
 subtitle: "医学图像实验室&深度学习汇总"
 date:       2020-04-04 14:10:00
-author:     "Ahgni"
+author:     "Jing Zhang"
 header-img: "img/post-bg.jpg"
 tags:
     - Computer Science
