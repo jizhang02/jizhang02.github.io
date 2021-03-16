@@ -42,7 +42,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [杨杰](https://person.zju.edu.cn/jieyang#0), Hangzhou, Zhejiang University, China
 * [Developing Brain Computing Lab](http://liwang.web.unc.edu/), North Carolina, USA. 
 * [Chunhua Shen](https://cshen.github.io/), Adelaide, Australia.
-* [张拳石](http://qszhang.com/), Shanghai, China.
+* [张拳石](http://qszhang.com/),  Shanghai Jiao Tong University, Shanghai, China.
 * [叶初阳](https://chuyangye.wixsite.com/website), Beijing Institute of Technology, Beijing, China.
 
 
