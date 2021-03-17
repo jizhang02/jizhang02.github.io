@@ -46,3 +46,10 @@ In this article, I would like to share you with some awesome work from GitHub th
 |👉 Emoji for markdown 🐈 🐴 🐕 🐄 🐖 🐟 🐑.|
 
 ---
+
+|<img align="left" src="https://img.shields.io/github/stars/badges/shields?style=social">|
+|------|
+|⭐ [ShieldsIO](https://github.com/badges/shields)|
+|👉 Legible badges extracts from users on GitHub to get various statistic information.|
+
+---
