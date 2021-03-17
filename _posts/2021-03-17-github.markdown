@@ -19,9 +19,9 @@ In this article, I would like to share you with some awesome work from GitHub th
 
 ❤️ Leave a comment if you know some awesome resources.<br>
 
-#### ⭐ [OpenCV Tutorials](https://github.com/JimmyHHua/opencv_tutorials) ![emoji](https://img.shields.io/github/stars/JimmyHHua/opencv_tutorials?style=social)<br>
+#### ⭐ [OpenCV Tutorials](https://github.com/JimmyHHua/opencv_tutorials) ![emoji]( https://img.shields.io/github/stars/JimmyHHua/opencv_tutorials?style=social)
 &nbsp; &nbsp;&nbsp;&nbsp;  👉 This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0.
 
-#### ⭐ [Free programming books](https://github.com/EbookFoundation/free-programming-books) ![emoji](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social)<br>
+#### ⭐ [Free programming books](https://github.com/EbookFoundation/free-programming-books) ![emoji]( https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social)
 &nbsp; &nbsp;&nbsp;&nbsp;  👉 List of Free Learning Resources In Many Languages.
 
