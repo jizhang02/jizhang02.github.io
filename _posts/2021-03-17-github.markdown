@@ -10,20 +10,19 @@ tags:
     - Github
 ---
 
-
-
-
 ## Say something
 
 In this article, I would like to share you with some awesome work from GitHub that I starred which I think is worthy to be a specific report. 
 
 ❤️ Leave a comment if you know some awesome resources.<br>
 
+
+
 ⭐ [OpenCV Tutorials](https://github.com/JimmyHHua/opencv_tutorials)  
-<img align="left" src="https://img.shields.io/github/stars/JimmyHHua/opencv_tutorials?style=social">  
+ <img align="left" src="https://img.shields.io/github/stars/JimmyHHua/opencv_tutorials?style=social">  😼  
 👉 This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0.  
 
 ⭐ [Free programming books](https://github.com/EbookFoundation/free-programming-books)   
- <img align="left" src=" https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social"/>  
+ <img align="left" src="https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social">  🙀  
 👉 List of Free Learning Resources In Many Languages.  
 
