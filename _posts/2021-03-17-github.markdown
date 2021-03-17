@@ -3,7 +3,7 @@ layout:     post
 title:      "My stars in GitHub"
 subtitle: "GitHub中实用工具和资源"
 date:       2021-03-17 10:25:00
-author:     "Jing Zhang"
+author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
     - Tools
@@ -18,12 +18,14 @@ In this article, I would like to share you with some awesome work from GitHub th
 
 
 ---
+
 | <img align="left" src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub?style=social"> |
 |------|
 | ⭐ [Hello GitHub](https://hellogithub.com/)  |
 | 👉 Share interesting, entry-level open source projects on GitHub. |
 
 ---
+
 |<img align="left" src="https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social">|
 |------|
 |⭐ [Free programming books](https://github.com/EbookFoundation/free-programming-books)|
