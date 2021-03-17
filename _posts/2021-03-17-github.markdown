@@ -20,11 +20,16 @@ In this article, I would like to share you with some awesome work from GitHub th
 
 ⭐ [OpenCV Tutorials](https://github.com/JimmyHHua/opencv_tutorials)    
 👉 This repository contains source code of OpenCV Tutorial application, the environment is python3.0 and opencv4.0.    
- <img align="left" src="https://img.shields.io/github/stars/JimmyHHua/opencv_tutorials?style=social">   
- 
+<img align="left" src="https://img.shields.io/github/stars/JimmyHHua/opencv_tutorials?style=social">   
+
 ---
 ⭐ [Free programming books](https://github.com/EbookFoundation/free-programming-books)     
 👉 List of Free Learning Resources In Many Languages.    
- <img align="left" src="https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social">      
+<img align="left" src="https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social">      
+
+---
+⭐ [Hello GitHub](https://hellogithub.com/)     
+👉 Share interesting, entry-level open source projects on GitHub.    
+<img align="left" src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub?style=social">      
 
 ---
