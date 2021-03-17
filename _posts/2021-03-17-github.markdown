@@ -30,7 +30,7 @@ In this article, I would like to share you with some awesome work from GitHub th
 
 ---
 
-<img align="left" src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub?style=social">    
+<img align="left" src="https://img.shields.io/github/stars/521xueweihan/HelloGitHub?style=social">    <br/>
 
 ⭐ [Hello GitHub](https://hellogithub.com/)   
 👉 Share interesting, entry-level open source projects on GitHub.    
