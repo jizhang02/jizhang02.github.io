@@ -46,6 +46,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [叶初阳](https://chuyangye.wixsite.com/website), Beijing Institute of Technology, Beijing, China.
 * [隋婧](http://people.ucas.ac.cn/~suijing), Chinese Academy of Sciences, Beijing, China.
 * [夏勇](https://teacher.nwpu.edu.cn/yongxia.html), Northwestern Polytechnical University, Xi’an, China
+* [MICS](http://www.mics.net.cn/Index/index.html), Medical Imaging Computing Seminar, 医学图像计算青年研讨会.
 
 
 
