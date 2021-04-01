@@ -21,15 +21,15 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/), Harvard University, USA.
 * [Smart Medical Imaging](https://www.imagingcdt.com/), London, England.
 * [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), London, England.
-* [邱锡鹏](https://xpqiu.github.io/index.html), Shanghai, China.
-* [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), Hongkong, China.
+* [邱锡鹏](https://xpqiu.github.io/index.html), Fudan Universtiy, Shanghai, China.
+* [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), The Chinese University of Hong Kong, Hongkong, China.
 * [MIRACLE](http://miracle.ict.ac.cn/?page_id=2&lang=zh) The Medical Imaging, Robotics, Analytical Computing Laboratory & Engineering (MIRACLE) group, a part of the Key Laboratory of Intelligent Information Processing of the Chinese Academy of Sciences, was established in June 2018. 
 * [Computer Science Rankings](http://csrankings.org/#/index?vision&graph&world) CSRankings is a metrics-based ranking of top computer science institutions around the world.
 * [MUSIC](http://www.music-bme.net/),SHENZHEN UNIVERSITY HEALTH SCIENCE CENTER SCHOOL OF BIOMEDICAL ENGINEERING
 * [CBICA](https://www.med.upenn.edu/cbica/), Center for Biomedical Image Computing & Analytics, University of Pennsylvania, USA.
 * [DeepMind](https://deepmind.com/), London, United Kingdom.
 * [User Interface Research Group, IGARASHI Lab](https://www-ui.is.s.u-tokyo.ac.jp/en/), Tokyo, Japan.
-* [Wang Shusen](http://wangshusen.github.io/index.html),USA. p.s His [tutorial](https://www.youtube.com/channel/UC9qKcEgXHPFP2-ywYoA-E0Q) is very good. 
+* [Wang Shusen](http://wangshusen.github.io/index.html), USA. p.s His [tutorial](https://www.youtube.com/channel/UC9qKcEgXHPFP2-ywYoA-E0Q) is very good. 
 * [MIPAV](http://www.mipav.net/), Suzhou, China. Medical Image Processing， Analysis and Visualization, MIPAV. 苏州大学医学影响处理与分析实验室
 * [Key Laboratory of Molecular Imaging, Chinese Academy of Sciences](http://www.3dmed.net/), Beijing, China.中科院分子影像重点实验室
 * [BMEC](https://bmec.ustc.edu.cn/), Hefei, China. 中科大医学影响中心
@@ -37,14 +37,15 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Artificial Intelligence and Biomedical Image Analysis Lab](https://www.yanglinlab.com/), Hangzhou, China. 杨林实验室-人工智能与生物医学影响实验室
 * [Thierry Denoeux](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/start), Compiègne, France. Professor in Belief Functions.
 * [Kaiming He](http://kaiminghe.com/), USA.
-* [Zhifan Gao](https://zhifan-gao.github.io/index.html), Guangzhou, China. Professor in medical image analysis.
-* [电子科技大学智慧医疗实验室](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm), 成都
+* [Zhifan Gao](https://zhifan-gao.github.io/index.html), Sun Yat-sen University, Guangzhou, China. 
+* [电子科技大学智慧医疗实验室](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm), Chengdu, China.
 * [杨杰](https://person.zju.edu.cn/jieyang#0), Hangzhou, Zhejiang University, China
 * [Developing Brain Computing Lab](http://liwang.web.unc.edu/), North Carolina, USA. 
 * [Chunhua Shen](https://cshen.github.io/), Adelaide, Australia.
 * [张拳石](http://qszhang.com/),  Shanghai Jiao Tong University, Shanghai, China.
 * [叶初阳](https://chuyangye.wixsite.com/website), Beijing Institute of Technology, Beijing, China.
 * [隋婧](http://people.ucas.ac.cn/~suijing), Chinese Academy of Sciences, Beijing, China.
+* [夏勇](https://teacher.nwpu.edu.cn/yongxia.html), Northwestern Polytechnical University, Xi’an, China
 
 
 
