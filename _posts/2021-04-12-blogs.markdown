@@ -15,4 +15,7 @@ tags:
 This post is the collection of very insigthful blogs in various areas, mainly focus on scitific blogs. 
 
 * [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet), up to date.
+🚩 The leaderboard of deep learning architectures on ImageNet.
+* [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215), Feb 11, 2019.
+🚩 Easy to understand convolution. Including vivid explanation such as animations.
 
