@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Very insightful blogs in various areas."
+subtitle: "医学图像实验室&深度学习汇总"
+date:       2021-04-12 16:03:00
+author:     "Jing"
+header-img: "img/post-bg.jpg"
+tags:
+    - Computer Science
+    - Deep Learning
+    - Scitific Blogs
+---
+
+### Know more knowledge from excellent people
+This post is the collection of very insigthful blogs in various areas, mainly focus on scitific blogs. 
+
+* [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet), up to date.
+
