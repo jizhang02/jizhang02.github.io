@@ -18,4 +18,6 @@ This post is the collection of very insigthful blogs in various areas, mainly fo
 🚩 The leaderboard of deep learning architectures on ImageNet.
 * [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215), Feb 11, 2019.    
 🚩 Easy to understand convolution. Including vivid explanation such as animations.
+* [Bland-Altman Plot](https://cloud.tencent.com/developer/article/1556951), Dec 19, 2019. ✒️: 中文    
+🚩 Bland-Altman Plot analysis in Python.
 
