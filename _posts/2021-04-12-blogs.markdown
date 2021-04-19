@@ -19,5 +19,11 @@ This post is the collection of very insigthful blogs in various areas, mainly fo
 * [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215), Feb 11, 2019.    
 🚩 Easy to understand convolution. Including vivid explanation such as animations.
 * [Bland-Altman Plot](https://cloud.tencent.com/developer/article/1556951), Dec 19, 2019. ✒️: 中文    
-🚩 Bland-Altman Plot analysis in Python.
+🚩 Bland-Altman Plot analysis in Python.    
+* [bugstack](https://bugstack.cn/), up to date.  ✒️: 中文          
+🚩 A blog about Java techniques applied in companies.    
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/),  up to date.  ✒️: 中文          
+🚩 A personal blog about wide information if you are interested in.    
+* [美团技术团队](https://tech.meituan.com/), up to date.  ✒️: 中文          
+🚩 A scitific blog maintained by a company Meituan, which is practical.
 
