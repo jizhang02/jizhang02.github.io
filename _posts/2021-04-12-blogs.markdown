@@ -25,5 +25,5 @@ This post is the collection of very insigthful blogs in various areas, mainly fo
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/),  up to date.  ✒️: 中文          
 🚩 A personal blog about wide information if you are interested in.    
 * [美团技术团队](https://tech.meituan.com/), up to date.  ✒️: 中文          
-🚩 A scitific blog maintained by a company Meituan, which is practical.
+🚩 A scientific blog maintained by a company Meituan, which is practical.
 
