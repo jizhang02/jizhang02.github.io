@@ -8,7 +8,7 @@ header-img: "img/post-bg.jpg"
 tags:
     - Computer Science
     - Deep Learning
-    - Scitific Blogs
+    - Scientific Blogs
 ---
 
 ### Know more knowledge from excellent people
