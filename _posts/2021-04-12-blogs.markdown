@@ -25,5 +25,8 @@ This post is the collection of very insigthful blogs in various areas, mainly fo
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/),  up to date.  ✒️: 中文          
 🚩 A personal blog about wide information if you are interested in.    
 * [美团技术团队](https://tech.meituan.com/), up to date.  ✒️: 中文          
-🚩 A scientific blog maintained by a company Meituan, which is practical.
-
+🚩 A scientific blog maintained by a company Meituan, which is practical.    
+* [医学图像预处理之重采样](https://blog.csdn.net/qq_41776781/article/details/111816242), Dec 27, 2020.  ✒️: 中文          
+🚩 Why and how to do resampling in medical images.
+* [速度与精度的结合 - EfficientNet 详解](https://github.com/qubvel/efficientnet), Dec 06, 2019.  ✒️: 中文          
+🚩 Introduction to EfficientNet in a understandable way.
