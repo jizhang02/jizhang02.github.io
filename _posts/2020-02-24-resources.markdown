@@ -24,6 +24,7 @@ Leave a comment if you know some awesome resources.
 
 * [Overleaf](https://www.overleaf.com/)
 It's a online LaTeX editor. You can share your work with other colleages.
+* [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
 * [WikiCFP](http://www.wikicfp.com/cfp/)
 WikiCFP is a semantic wiki for Calls For Papers in science and technology fields. There are about 50,000 CFPs on WikiCFP. Over 100,000 researchers use WikiCFP each month.
 * [Arxiv Sanity Preserver](https://www.arxiv-sanity.com/)
@@ -66,6 +67,8 @@ This repository contains source code of OpenCV Tutorial application, the environ
 to remove all the barries in the way of science. The first website in the world to provide mass & public access to research papers.
 * [Free programming books](https://github.com/EbookFoundation/free-programming-books)
 List of Free Learning Resources In Many Languages.
+* [SlidesLive](https://library.slideslive.com/)
+Recording worldwide, take your event to the next level with streaming & highlight videos.
 
 
 
