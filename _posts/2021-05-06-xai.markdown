@@ -29,7 +29,7 @@ This post is the collection of explainable AI techniques, tools, applications an
 ◾ [Layer-wise Relevance Propagation](https://doi.org/10.1371/journal.pone.0130140)    
 ◾ [LayerConductance](https://arxiv.org/abs/1807.09946)    
 ◾ [Local Rule-based Explanations](https://arxiv.org/abs/1805.10820)    
-◾ [LIME](https://doi.org/10.1145/2939672.2939778)    
+◾ [LIME](https://doi.org/10.1145/2939672.2939778) 📝[Introduction](https://www.oreilly.com/content/introduction-to-local-interpretable-model-agnostic-explanations-lime/)    
 ◾ [RISE](https://arxiv.org/abs/1806.07421)    
 ◾ [Gradient * input](https://arxiv.org/abs/1605.01713)    
 ◾ [Gradient SHAP](https://arxiv.org/abs/1705.07874)    
