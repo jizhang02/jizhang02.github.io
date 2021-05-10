@@ -76,6 +76,7 @@ This post is the collection of explainable AI techniques, tools, applications an
 🔸  [DeepExplain](https://github.com/marcoancona/DeepExplain)[library]    
 🔸  [iNNvestigate](https://github.com/albermax/innvestigate)[library]  
 🔸  [TensorFlow Graph Visualizer](https://www.tensorflow.org/tensorboard/graphs)[library]    
+🔸  [tf-explain](https://tf-explain.readthedocs.io/en/latest/)[library]    
 🔸  [TorchRay](https://github.com/facebookresearch/TorchRay)[library]    
 🔸  [Captum](https://captum.ai/)[library]    
 🔸  [Explainable AI](https://cloud.google.com/explainable-ai)[commercial]    
@@ -87,16 +88,22 @@ This post is the collection of explainable AI techniques, tools, applications an
 
 🔹  [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) A Guide for Making Black Box Models Explainable.
 Christoph Molnar    
+🔹  [Towards Robust Interpretability with Self-Explaining Neural Networks](https://arxiv.org/abs/1806.07538), 2018    
 🔹  [Towards Explainable Artificial Intelligence](https://doi.org/10.1007/978-3-030-28954-6_1), 2019    
+🔹  [On the Integration of Knowledge Graphs into Deep Learning Models for a More Comprehensible AI—Three Challenges for Future Research](https://doi.org/10.3390/info11020122), 2020    
 🔹  [Explainable Deep Learning: A Field Guide for the Uninitiated](https://arxiv.org/abs/2004.14545), 2020    
 🔹  [A Survey on Explainable Artificial Intelligence (XAI): Towards Medical XAI](https://arxiv.org/abs/1907.07374), 2020    
+🔹  [Explainable Artificial Intelligence (xAI) Approaches and Deep Meta-Learning Models](10.5772/intechopen.92172), 2020    
 🔹  [Explainable Deep Learning Models in Medical Image Analysis](https://doi.org/10.3390/jimaging6060052), 2020    
 🔹  [Achievements and Challenges in Explaining Deep Learning based Computer-Aided Diagnosis Systems](https://arxiv.org/abs/2011.13169), 2020    
 🔹  [Interpretability and Explainability: A Machine Learning Zoo Mini-tour](https://arxiv.org/abs/2012.01805), 2020    
 🔹  [Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications](10.1109/JPROC.2021.3060483), 2021    
 
 
-
+### ✅ Evaluations
+◽ [The (Un)reliability of Saliency Methods: input variant](https://doi.org/10.1007/978-3-030-28954-6_14)    
+◽ [Sanity Checks for Saliency Maps: model and data](https://arxiv.org/abs/1810.03292)      
+◽ [Evaluating the Visualization of What a Deep Neural Network Has Learned: AOPC](https://ieeexplore.ieee.org/abstract/document/7552539)      
 
 
 
