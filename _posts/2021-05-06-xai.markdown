@@ -33,6 +33,7 @@ This post is the collection of explainable AI techniques, tools, applications an
 ◾ [RISE](https://arxiv.org/abs/1806.07421)    
 ◾ [Gradient * input](https://arxiv.org/abs/1605.01713)    
 ◾ [Gradient SHAP](https://arxiv.org/abs/1705.07874)    
+◾ [FullGrad](https://arxiv.org/abs/1705.07874)    
 ◾ [GradCAM](https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html)    
 ◾ [Guided GradCAM](https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html)    
 ◾ [Integrated Gradients](http://proceedings.mlr.press/v70/sundararajan17a.html)   
@@ -59,6 +60,8 @@ This post is the collection of explainable AI techniques, tools, applications an
 ◾ [TCAV with RCV](https://doi.org/10.1007/978-3-030-02628-8_14)    
 ◾ [UBS](https://doi.org/10.1007/978-3-030-33850-3_2)    
 ◾ [VarGrad](https://arxiv.org/abs/1810.03307)    
+◾ [SENN](https://arxiv.org/abs/1810.03307)    
+
 
 
 
