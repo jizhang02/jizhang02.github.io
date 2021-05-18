@@ -35,4 +35,6 @@ This post is the collection of very insigthful blogs in various areas, mainly fo
 * [Towards data science](https://towardsdatascience.com/), up to date.    
 🚩 Understanding of data science.    
 * [Unsplash](https://unsplash.com/), up to date.    
-🚩 Beautiful free images & pictures.
+🚩 Beautiful free images & pictures.    
+* [Understanding Latent Space in Machine Learning](https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d), Feb 4, 2020.    
+🚩 Understanding what is Latent Space.
