@@ -52,6 +52,7 @@ This post is the collection of explainable AI techniques, tools, applications an
 ◾ [SHAP Interaction Index](https://doi.org/10.1038/s42256-019-0138-9)    
 ◾ [Occlusion](https://doi.org/10.1007/978-3-319-10590-1_53)    
 ◾ [Meaningful Perturbation](https://openaccess.thecvf.com/content_iccv_2017/html/Fong_Interpretable_Explanations_of_ICCV_2017_paper.html)    
+◾ [FIDO](https://openreview.net/forum?id=B1MXz20cYQ)    
 ◾ [Representation Erasure](https://arxiv.org/abs/1612.08220)    
 ◾ [NeuronConductance](https://arxiv.org/abs/1805.12233)    
 ◾ [TotalConductance](https://arxiv.org/abs/1805.12233)    
