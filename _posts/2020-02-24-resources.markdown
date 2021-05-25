@@ -33,10 +33,10 @@ Web interface for browsing, search and filtering recent arxiv submissions.
 Entering tables in LaTeX documents can be burdensome because of the necessary formatting directives. For this purpose we created this online generator which (hopefully) will allow you to generate LaTeX code you can just copy & paste into your document's source. Our editor is close to WYSIWYG (What You See Is What You Got) principle, i.e. the table displayed in the editor should resemble the final table.
 * [Draw.io](https://app.diagrams.net/)
 Online drawing tool.
-* [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-CNN EXPLAINER: Learning Convolutional Neural Networks with Interactive Visualization. It is a web-based interavtive CNN explainer. A very good tool to understand how the CNN works visually.
-* [Explainable AI Demos](https://lrpserver.hhi.fraunhofer.de/)
-Machine learning models, in particular deep neural networks (DNNs), are characterized by very high predictive power, but in many cases, are not easily interpretable by a human. Interpreting a nonlinear classifier is important to gain trust into the prediction, and to identify potential data selection biases or artifacts. This demo shows how decisions made by systems based on artificial intelligence can be explained by LRP.
+* [Connected Papers](https://www.connectedpapers.com/)
+Connected papers is a unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.
+* [Scidown](https://www.xueky.com/) 
+Paper downloader.
 * [Speechnotes](https://speechnotes.co/)
 Speechnotes is a powerful speech-enabled online notepad, designed to empower your ideas by implementing a clean & efficient design, so you can focus on your thoughts.
 * [CVPR 2020 Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
