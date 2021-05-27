@@ -104,6 +104,7 @@ Christoph Molnar
 🔹  [Achievements and Challenges in Explaining Deep Learning based Computer-Aided Diagnosis Systems](https://arxiv.org/abs/2011.13169), 2020    
 🔹  [Interpretability and Explainability: A Machine Learning Zoo Mini-tour](https://arxiv.org/abs/2012.01805), 2020    
 🔹  [Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications](https://doi.org/10.1109/JPROC.2021.3060483), 2021    
+🔹 [Awesome machine learning interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability), up to date
 
 
 ### ✅ Evaluations
