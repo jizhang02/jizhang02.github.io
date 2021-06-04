@@ -48,6 +48,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [夏勇](https://teacher.nwpu.edu.cn/yongxia.html), Northwestern Polytechnical University, Xi’an, China
 * [MICS](http://www.mics.net.cn/Index/index.html), Medical Imaging Computing Seminar, 医学图像计算青年研讨会.
 * [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/), INRIA, France.
+* [Artificial Intelligence Doctoral Academy](http://www.i-aida.org/), European projects.
 
 
 
