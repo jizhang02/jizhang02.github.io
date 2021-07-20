@@ -45,10 +45,11 @@ This post is mainly the information of labs that including medical imaging, and 
 * [张拳石](http://qszhang.com/),  Shanghai Jiao Tong University, Shanghai, China.
 * [叶初阳](https://chuyangye.wixsite.com/website), Beijing Institute of Technology, Beijing, China.
 * [隋婧](http://people.ucas.ac.cn/~suijing), Chinese Academy of Sciences, Beijing, China.
-* [夏勇](https://teacher.nwpu.edu.cn/yongxia.html), Northwestern Polytechnical University, Xi’an, China
+* [夏勇](https://teacher.nwpu.edu.cn/yongxia.html), Northwestern Polytechnical University, Xi’an, China.
 * [MICS](http://www.mics.net.cn/Index/index.html), Medical Imaging Computing Seminar, 医学图像计算青年研讨会.
 * [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/), INRIA, France.
 * [Artificial Intelligence Doctoral Academy](http://www.i-aida.org/), European projects.
+* [雷柏英](http://bme.szu.edu.cn/20181/0612/66.html), Shenzhen University Health Science Center, Shenzhen, China.
 
 
 
