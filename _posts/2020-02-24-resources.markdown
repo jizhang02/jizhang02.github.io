@@ -69,6 +69,9 @@ to remove all the barries in the way of science. The first website in the world 
 List of Free Learning Resources In Many Languages.
 * [SlidesLive](https://library.slideslive.com/)
 Recording worldwide, take your event to the next level with streaming & highlight videos.
-
+* [Snipaste](https://www.snipaste.com/)
+Snipaste is a simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen.
+* [uTools](https://u.tools/)
+uTools 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。
 
 
