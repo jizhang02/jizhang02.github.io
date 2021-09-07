@@ -1,14 +1,14 @@
 {
-    "name": "ahgni-blog",
-    "title": "Ahgni Blog",
-    "author": "Ahgni <jing.zhang92@qq.com>",
+    "name": "jizhang02-blog",
+    "title": "Jing's Blog",
+    "author": "Jing <jing.zhang92@qq.com>",
     "version": "1.7.0",
-    "homepage": "http://ahgni.github.io",
+    "homepage": "http://jizhang02.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Ahgni/Ahgni.github.io"
+        "url": "https://github.com/jizhang02/jizhang02.github.io"
     },
-    "bugs": "https://github.com/Ahgni/Ahgni.github.io/issues",
+    "bugs": "https://github.com/jizhang02/jizhang02.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
