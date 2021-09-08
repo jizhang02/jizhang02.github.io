@@ -13,7 +13,7 @@ tags:
 
 ### Let you know the principle of AI models from excellent works
 This post is an introduction to the Transformer, in terms of its origin, application and development.
-![roadmap](https://github.com/jizhang02/jizhang02.github.io/blob/master/img/20210908_transformer.bmp)
+![roadmap](https://github.com/jizhang02/jizhang02.github.io/blob/master/img/20210908_transformer.png)
 
 ## ![#60A917](https://via.placeholder.com/60/60A917/FFFFFF?text=2015) RNN 2015
 ⭐    
