@@ -29,6 +29,13 @@ This post is an introduction to the Transformer, in terms of its origin, applica
 📄 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929), 2021
 ## ![#0050EF](https://via.placeholder.com/60/0050EF/FFFFFF?text=2021) Vision Transformer 2021
 ⭐ It first uses Transformer to do the image segmentation task. At the same time, it combines the CNN in encoder part to better restore the low level information, in decoder part, it also uses CNN.    
-📄 [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306), 2021    
-        
+📄 [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306), 2021-02-08    
+📄 [Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/abs/2102.10662), 2021-02-21    
+📄 [Pyramid Medical Transformer for Medical Image Segmentation](https://arxiv.org/abs/2104.14702), 2021-04-29        
+📄 [UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation](https://arxiv.org/abs/2107.00781), 2021-07-02    
+📄 [DS-TransUNet:Dual Swin Transformer U-Net for Medical Image Segmentation](https://arxiv.org/abs/2106.06716), 2021-07-12    
+📄 [TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation](https://arxiv.org/abs/2107.05274), 2021-07-12    
+📄 [UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer](https://arxiv.org/abs/2109.04335), 2021-09-09   
+📄 [nnFormer: Interleaved Transformer for Volumetric Segmentation](https://arxiv.org/abs/2109.03201), 2021-09-07    
+📄 [MISSFormer: An Effective Medical Image Segmentation Transformer](https://arxiv.org/abs/2109.07162v1), 2021-09-15                
 👉 Acknowledgements: [Wang Shusen](https://youtu.be/aButdUV0dxI)
