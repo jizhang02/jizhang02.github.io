@@ -30,8 +30,12 @@ This post is an introduction to the Transformer, in terms of its origin, applica
 ## ![#0050EF](https://via.placeholder.com/60/0050EF/FFFFFF?text=2021) Vision Transformer 2021
 ⭐ It first uses Transformer to do the image segmentation task. At the same time, it combines the CNN in encoder part to better restore the low level information, in decoder part, it also uses CNN.    
 📄 [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306), 2021-02-08    
-📄 [Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/abs/2102.10662), 2021-02-21    
-📄 [Pyramid Medical Transformer for Medical Image Segmentation](https://arxiv.org/abs/2104.14702), 2021-04-29        
+📄 [Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/abs/2102.10662), 2021-02-21   
+📄 [CoTr: Efficiently Bridging CNN and Transformer for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.03024), 2021-03-04   
+📄 [TransBTS: Multimodal Brain Tumor Segmentation Using Transformer](https://arxiv.org/abs/2103.04430), 2021-03-07    
+📄 [UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.10504), 2021-03-18    
+📄 [Pyramid Medical Transformer for Medical Image Segmentation](https://arxiv.org/abs/2104.14702), 2021-04-29     
+📄 [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537), 2021-05-12    
 📄 [UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation](https://arxiv.org/abs/2107.00781), 2021-07-02    
 📄 [DS-TransUNet:Dual Swin Transformer U-Net for Medical Image Segmentation](https://arxiv.org/abs/2106.06716), 2021-07-12    
 📄 [TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation](https://arxiv.org/abs/2107.05274), 2021-07-12    
