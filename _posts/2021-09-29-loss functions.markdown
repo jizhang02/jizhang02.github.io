@@ -12,7 +12,7 @@ tags:
 ---
 
 ### Let you know the principle of AI models from excellent works
-This post is an introduction to the loss functions. It's necessary in deep neural networks in supervised/semi-supervised learning architectures. Mabe in the future, these concepts will be out of date!
+This post is an introduction to the loss functions. It's necessary in deep neural networks in supervised/semi-supervised learning architectures. Maybe in the future, these concepts will be out of date!
 
 
 
