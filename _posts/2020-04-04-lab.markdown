@@ -50,6 +50,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/), INRIA, France.
 * [Artificial Intelligence Doctoral Academy](http://www.i-aida.org/), European projects.
 * [雷柏英](http://bme.szu.edu.cn/20181/0612/66.html), Shenzhen University Health Science Center, Shenzhen, China.
+* [李霄霄](https://xxlya.github.io/xiaoxiao/), UBC, Canada.
 
 
 
