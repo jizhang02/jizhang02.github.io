@@ -52,6 +52,7 @@ This post is mainly the information of labs that including medical imaging, and 
 * [雷柏英](http://bme.szu.edu.cn/20181/0612/66.html), Shenzhen University Health Science Center, Shenzhen, China.
 * [李霄霄](https://xxlya.github.io/xiaoxiao/), UBC, Canada.
 * [Veronika Cheplygina](https://veronikach.com/), IT University of Copenhagen, Denmark.
+* [Graph deep learning](https://graphdeeplearning.github.io/), National University of Singapore, Singapore.
 
 
 
