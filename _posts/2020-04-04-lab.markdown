@@ -11,7 +11,7 @@ tags:
     - Medical Imaging
 ---
 
-### Know more schloars from the world
+### Know more scholars from the world
 This post is mainly the information of labs that including medical imaging, and some scholars who are the experts in machine learning fields.
 
 * [Litis(Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes (LITIS))](http://www.litislab.fr/), Rouen, France.
