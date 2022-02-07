@@ -1,0 +1,63 @@
+---
+layout:     post
+title:      "Automate Machine learning"
+subtitle: "机器学习自动化"
+date:       2022-02-07 18:07:00
+author:     "Jing"
+header-img: "img/post-bg.jpg"
+tags:
+    - Computer Science
+    - Deep Learning
+    - Optimization
+---
+
+### A collection of machine learning optimization toolkits.
+A simple introduction for Hyperparameter Optimization.
+
+
+#### ⭐ AutoKeras  
+🧰 [AutoKeras: An AutoML system based on Keras.](https://autokeras.com/)
+
+#### ⭐ KerasTuner  
+🧰 [KerasTuner comes with Bayesian Optimization, Hyperband, and Random Search algorithms built-in.](https://keras.io/keras_tuner/)
+
+#### ⭐ Talos
+🧰 [Hyperparameter Optimization for Keras, TensorFlow and PyTorch.](https://github.com/autonomio/talos)
+
+#### ⭐ AutoGluon    
+🧰 [AutoGluon: AutoML for Text, Image, and Tabular Data.](https://auto.gluon.ai/stable/index.html)
+
+#### ⭐ Ray Tune    
+🧰 [Tune is a library for hyperparameter tuning at any scale.](https://www.ray.io/)
+
+#### ⭐ Optuna
+🧰[A hyperparameter optimization framework.](https://optuna.org/)
+
+#### ⭐ BOHB
+🧰 [BOHB: Robust and Efficient Hyperparameter Optimization at Scale.](https://www.automl.org/blog_bohb/)
+
+#### ⭐ HpBandSter    
+🧰 [A distributed Hyperband implementation on Steroids.](https://github.com/automl/HpBandSter)
+
+#### ⭐ Hyperopt
+🧰 [Distributed Asynchronous Hyper-parameter Optimization.](http://hyperopt.github.io/hyperopt/)
+
+#### ⭐ HiPlot
+🧰 [ High dimensional Interactive Plotting.](https://facebookresearch.github.io/hiplot/)
+
+#### ⭐ Polyaxon
+🧰 [A platform for building, training, and monitoring large scale deep learning applications.](https://polyaxon.com/)
+
+#### ⭐ Bayesian Optimization
+🧰 [Pure Python implementation of bayesian global optimization with gaussian processes.](https://github.com/fmfn/BayesianOptimization)
+
+#### ⭐ SHERPA
+🧰 [SHERPA: A Python Hyperparameter Optimization Library.](https://github.com/sherpa-ai/sherpa)
+
+#### ⭐ Scikit-optimize
+🧰 [Sequential model-based optimization.](https://scikit-optimize.github.io/stable/)
+
+#### ⭐ GPyOpt
+🧰 [A Python open-source library for Bayesian Optimization(Maintenance terminated).](http://sheffieldml.github.io/GPyOpt/)
+
+Reference: https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
