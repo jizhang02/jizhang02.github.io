@@ -60,4 +60,4 @@ A simple introduction for Hyperparameter Optimization.
 #### ⭐ GPyOpt
 🧰 [A Python open-source library for Bayesian Optimization(Maintenance terminated).](http://sheffieldml.github.io/GPyOpt/)
 
-Reference: https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
+Reference: [10 Hyperparameter optimization frameworks (Towards Data Science).](https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3)
