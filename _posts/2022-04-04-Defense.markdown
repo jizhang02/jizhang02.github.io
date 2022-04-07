@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "Slides, video, and manuscript of PhD Defense"
+subtitle: "博士答辩的幻灯片、视频和手稿"
+date:       2022-04-07 14:27:00
+author:     "Jing"
+header-img: "img/post-bg.jpg"
+tags:
+    - Computer Science
+    - Deep Learning
+    - PhD defense
+---
+
+### Hello everyone, I am pleased to post my slides, video and manuscript of my PhD defense.
+📃 [Manuscript](Attachments/Doctorant_Thesis_Jing0307_compressed.pdf)
+
+📃 <a href="jizhang02.github.io/_posts/Attachments/Doctorant_Thesis_Jing0307_compressed.pdf" target="_blank">Manuscript</a>
+
+🎦 <a href = "https://onedrive.live.com/embed?cid=ED2E624AB88AB8B4&resid=ED2E624AB88AB8B4%213198&authkey=AO_IIVo7YUFCE2I">Defense Video</a>
+
+🖼️ [Slides](Attachments/Presentation_Jing0404_compressed.pdf)
