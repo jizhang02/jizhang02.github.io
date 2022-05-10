@@ -54,6 +54,8 @@ This post is mainly the information of labs that including medical imaging, and 
 * [Veronika Cheplygina](https://veronikach.com/), IT University of Copenhagen, Denmark.
 * [Graph deep learning](https://graphdeeplearning.github.io/), National University of Singapore, Singapore.
 * [许永超](https://sites.google.com/view/yongchaoxu/home), Wuhan University, China.
+* [王研](https://faculty.ecnu.edu.cn/_s15/wy2_19241/main.psp), East China Normal University, China.
+
 
 
 
