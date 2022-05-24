@@ -22,6 +22,8 @@ tags:
 * [鹏程实验室](http://www.pcl.ac.cn/)， 深圳，Shenzhen
 * [深圳湾实验室](https://www.szbl.ac.cn/index.aspx)， 深圳，Shenzhen
 * [中国西部海外博士后创新示范中心](http://pdc.xjtu.edu.cn/)， 西安，Xi'an
+* [上海人工智能实验室](https://www.shlab.org.cn/)，上海，Shanghai
+* [之江实验室](https://www.zhejianglab.com/)，杭州，Hangzhou
 
 ## 公司
 * [柏视医疗](https://www.pvmedtech.com/index.html)，广州，Guangzhou
