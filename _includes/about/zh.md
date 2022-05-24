@@ -21,15 +21,15 @@ Hey，我是张晶，来自中国内蒙古乌海市，是一名博士，所学�
 #### 学术活动
   - 2022年5月22日，中文线上研讨会，可解释的人工智能，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
   - 2022年4月6日，博士论文答辩，[News](https://www.litislab.fr/event/soutenance-these-jing-zhang)，鲁昂，法国
-  - 2020年11月30日，LITIS QUANTIF团队学术研讨会，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai)，鲁昂，法国
+  - 2020年11月30日，LITIS [QUANTIF团队](https://www.litislab.fr/equipe/quantif)学术研讨会，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai)，鲁昂，法国
   - 2020年11月28日，中文线上学术交流，[PPT](https://1drv.ms/p/s!ArS4irhKYi7tlRzSKHe64gbHHNzC?e=xfJkF6)
   - 2020年9月26日，中文线上学术交流，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVwOZRsVk7UTzC37?e=kYHp7c)
-  - 2020年10月，MICCAI2020 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVV5aMtWWwOI2Fx8?e=B7W4xk)
-  - 2020年6月，MIDL2020 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVjV5rOg3z_fnVrb?e=6woVQ3)，[视频](https://1drv.ms/v/s!ArS4irhKYi7tmVcWxHuplpvauJZQ?e=1Vk0Hm)，[Teaser](https://1drv.ms/v/s!ArS4irhKYi7tmVaZcqWjV8bOm2NZ?e=CR2cCd)
-  - 2020年4月，ISBI2020 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVlvM0DmwZpBBdx4?e=lJUOAh)，[视频](https://1drv.ms/v/s!ArS4irhKYi7tmVp7DCZB_XdmRdik?e=WMojb6)
+  - 2020年10月，[MICCAI2020](https://www.miccai2020.org/en/) 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVV5aMtWWwOI2Fx8?e=B7W4xk)
+  - 2020年6月，[MIDL2020](https://2020.midl.io/) 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVjV5rOg3z_fnVrb?e=6woVQ3)，[视频](https://1drv.ms/v/s!ArS4irhKYi7tmVcWxHuplpvauJZQ?e=1Vk0Hm)，[Teaser](https://1drv.ms/v/s!ArS4irhKYi7tmVaZcqWjV8bOm2NZ?e=CR2cCd)
+  - 2020年4月，[ISBI2020](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/index.htm) 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVlvM0DmwZpBBdx4?e=lJUOAh)，[视频](https://1drv.ms/v/s!ArS4irhKYi7tmVp7DCZB_XdmRdik?e=WMojb6)
   - 2019年7月，博士生日，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVvgQY-YeF5zDNHi?e=VZgo55)，Le Havre，法国
   - 2019年4月，[基于深度学习的医学影像春令营](https://deepimaging2019.sciencesconf.org/)，里昂，法国
-  - 2017年11月，[日本樱花科技项目](https://ssp.jst.go.jp/cn/)，岩手大学，日本
+  - 2017年11月，[日本樱花科技项目](https://ssp.jst.go.jp/cn/)，[岩手大学](https://www.iwate-u.ac.jp/)，日本
   - 2017年7月，ICIA2017智能农业国际学术会议，长春，吉林，中国
   - 2016年6月，陕西省第三届研究生电子设计竞赛，西安，陕西，中国
   
