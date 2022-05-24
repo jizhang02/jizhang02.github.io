@@ -3,18 +3,18 @@ Hey，我是张晶，来自中国内蒙古乌海市，是一名博士，所学�
 
 #### 教育经历
  
- - 2018年10月-2022年4月，[法国国立鲁昂应用科学学院](https://www.insa-rouen.fr/)，[LITIS实验室](https://www.litislab.fr/)，计算机科学与技术专业，工学博士。
+ - 2018年10月-2022年4月，[法国国立鲁昂应用科学学院](https://www.insa-rouen.fr/)，[LITIS实验室](https://www.litislab.fr/)，计算机科学与技术专业，工学博士
     + 研究方向：计算机视觉；医学图像分析；深度学习
     + 毕业论文：Biomarker estimation from medical images: segmentation-based and segmentation-free approaches，[论文](https://1drv.ms/b/s!ArS4irhKYi7tmQOPCC-orh67gccy?e=TZl8nD)，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmH-dvZpkKS_fDv4f?e=WZj5TU)，[视频](https://1drv.ms/v/s!ArS4irhKYi7tmH59q3NMITchVb_M?e=3IbFNz)
     + 导师：[Caroline Petitjean](https://pagesperso.litislab.fr/cpetitjean/), [Samia Ainouz](https://pagesperso.litislab.fr/sainouz/)
  - 2018年3月-2018年6月，上海外国语大学，法语培训，TEF考试B1层次(卷面成绩，不代表真实水平)；
     + 指定教材：走遍法国
     + 法语老师：Monsieur 王，Madam 高，外教 Boris  
-  - 2015年9月-2018年6月，西北农林科技大学，信息工程学院，计算机科学与技术专业，工学硕士；
+  - 2015年9月-2018年6月，西北农林科技大学，信息工程学院，计算机科学与技术专业，工学硕士
     + 研究方向：计算机图形学；植物点云处理；光线跟踪
     + 毕业论文：苹果树冠层光照模型关键技术研究，[论文](https://1drv.ms/b/s!ArS4irhKYi7tmVLdz6QvoJ8pp4Bz?e=Cw8IiT)，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVPJDVSdfcvbMTOg?e=cTTgYS)，[代码](https://github.com/jizhang02/Digital-Plants-Illumination-Simulation)
     + 导师：[耿楠](https://cie.nwsuaf.edu.cn/szdw/js/2008114695/index.htm)，[张志毅](https://cie.nwsuaf.edu.cn/szdw/js/2008118167/index.htm)，[胡少军](https://cie.nwsuaf.edu.cn/szdw/fjs/2010110086/index.htm)
-  - 2011年8月-2015年6月，[西北农林科技大学](https://www.nwafu.edu.cn/)，[信息工程学院](https://cie.nwafu.edu.cn/)，信息管理与信息系统专业，工学学士；
+  - 2011年8月-2015年6月，[西北农林科技大学](https://www.nwafu.edu.cn/)，[信息工程学院](https://cie.nwafu.edu.cn/)，信息管理与信息系统专业，工学学士
     + 毕业设计：基于DEM的平地水流方向处理算法设计与实现，[论文](https://1drv.ms/b/s!ArS4irhKYi7tmVBKrSRqXTtjxAoy?e=aBGRTg)，[PPT](https://1drv.ms/p/s!ArS4irhKYi7tmVFaJnC2JyO2gSAD?e=1hxYxL)，[代码](https://github.com/jizhang02/DEM_WaterFlowDirection)，[演示视频](https://1drv.ms/v/s!ArS4irhKYi7tmU90yMFnjMDYuMTS?e=i9dmQc)
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
