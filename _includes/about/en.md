@@ -1,6 +1,6 @@
 
 #### Who am I?
-Hi, I am Jing, a PhD in [LITIS](http://www.litislab.fr/), [INSA Rouen](https://www.insa-rouen.fr/), France. I previously studied in at [NWAFU](https://www.nwsuaf.edu.cn/), China.Now I am studying Medical Image Analysis using Deep Learning.
+Hi, I am Jing, a PhD from [LITIS](http://www.litislab.fr/), [INSA Rouen](https://www.insa-rouen.fr/), France. I previously studied in at [NWAFU](https://www.nwsuaf.edu.cn/), China. Now I am studying Medical Image Analysis using Deep Learning. Currently I'm looking for a post-doc position in my field.
 
 #### Education
 
@@ -22,16 +22,20 @@ Hi, I am Jing, a PhD in [LITIS](http://www.litislab.fr/), [INSA Rouen](https://w
 
 
 #### Scholar activities
-  - 2022年5月22日 
-  - 2022年4月6日
-  - 2020年10月
-  - 2020年5月
-  - 2020年4月
-  - 2019年7月
-  - 2019年4月
-  - 2017年11月
-  - 2017年7月
-  - 2016年6月
+
+  - May, 22th, 2022, Online Seminar (Chinese)，Explainable AI, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
+  - Apr, 06th, 2022, Doctoral thesis defense, [News](https://www.litislab.fr/event/soutenance-these-jing-zhang), Rouen, France
+  - Nov, 30th, 2020, LITIS [QUANTIF team](https://www.litislab.fr/equipe/quantif) Seminar, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai), Rouen, France
+  - Nov, 28th, 2020, Online Seminar (Chinese), [Slides](https://1drv.ms/p/s!ArS4irhKYi7tlRzSKHe64gbHHNzC?e=xfJkF6)
+  - Sep, 26th, 2020, Online Seminar (Chinese), [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVwOZRsVk7UTzC37?e=kYHp7c)
+  - Oct, 07th, 2020, [MICCAI2020](https://www.miccai2020.org/en/) Online conference, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVV5aMtWWwOI2Fx8?e=B7W4xk)
+  - Jun, 26th, 2020, [MIDL2020](https://2020.midl.io/) Online conference, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVjV5rOg3z_fnVrb?e=6woVQ3), [Video](https://1drv.ms/v/s!ArS4irhKYi7tmVcWxHuplpvauJZQ?e=1Vk0Hm), [Teaser](https://1drv.ms/v/s!ArS4irhKYi7tmVaZcqWjV8bOm2NZ?e=CR2cCd)
+  - Apr, 03th, 2020, [ISBI2020](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/index.htm) Online conference, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVlvM0DmwZpBBdx4?e=lJUOAh), [Video](https://1drv.ms/v/s!ArS4irhKYi7tmVp7DCZB_XdmRdik?e=WMojb6)
+  - Jul, 09th, 2019, Jour De Doctorants, [Slide](https://1drv.ms/b/s!ArS4irhKYi7tmVvgQY-YeF5zDNHi?e=VZgo55), Le Havre, France
+  - Apr, 15-19th, 2019, [Deep learning for medical imaging](https://deepimaging2019.sciencesconf.org/), Lyon, France
+  - Nov, 10-17th, 2017, [Sakura Science Exchange Program](https://ssp.jst.go.jp/cn/)，[Iwate University](https://www.iwate-u.ac.jp/), Japon
+  - Aug, 12-15th, 2017, ICIA2017International Conference on Intelligent Agriculture, Changchun, Jilin, China
+  - Jul, 07-08th, 2016, The 3rd Postgraduate Electronic Design Competition, Xi'an, Shaanxi, China
   
 
 ##### Publications
