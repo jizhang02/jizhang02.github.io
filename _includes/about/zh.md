@@ -1,5 +1,5 @@
 #### 个人简介
-Hey，我是张晶，来自中国内蒙古乌海市，是一名博士，所学专业为计算机科学与技术，我的研究方向是基于深度学习的医学图像分析。目前在寻找一个博后的工作。
+Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86%85%E8%92%99%E5%8F%A4?fromtitle=%E5%86%85%E8%92%99&fromid=12011244)[乌海市](https://baike.baidu.com/item/%E4%B9%8C%E6%B5%B7/740819)，是一名博士，所学专业为计算机科学与技术，我的研究方向是基于深度学习的医学图像分析。目前在寻找一个博后的工作。
 
 #### 教育经历
  
@@ -33,7 +33,8 @@ Hey，我是张晶，来自中国内蒙古乌海市，是一名博士，所学�
   - 2017年7月，ICIA2017智能农业国际学术会议，长春，吉林，中国
   - 2016年6月，陕西省第三届研究生电子设计竞赛，西安，陕西，中国
   
-##### 学术成果
+#### 学术成果
+- [Segmentation-Based vs. Regression-Based Biomarker Estimation: A Case Study of Fetus Head Circumference Assessment from Ultrasound Images](https://www.mdpi.com/2313-433X/8/2/23). 2022
 - [Explainability for Regression CNN in Fetal Head Circumference Estimation from Ultrasound Images](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_8). 2020
 - [Direct estimation of fetal head circumference from ultrasound images based on regression CNN](https://openreview.net/forum?id=RwYqA6AjS). 2020
 - [Kappa Loss for Skin Lesion Segmentation in Fully Convolutional Network](https://ieeexplore.ieee.org/abstract/document/9098404). 2020
