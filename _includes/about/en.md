@@ -38,8 +38,8 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
   - Jul, 07-08th, 2016, The 3rd Postgraduate Electronic Design Competition, Xi'an, Shaanxi, China
   
 
-##### Publications
-
+#### Publications
+- [Segmentation-Based vs. Regression-Based Biomarker Estimation: A Case Study of Fetus Head Circumference Assessment from Ultrasound Images](https://www.mdpi.com/2313-433X/8/2/23). 2022
 - [Explainability for Regression CNN in Fetal Head Circumference Estimation from Ultrasound Images](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_8). 2020
 - [Direct estimation of fetal head circumference from ultrasound images based on regression CNN](https://openreview.net/forum?id=RwYqA6AjS). 2020
 - [Kappa Loss for Skin Lesion Segmentation in Fully Convolutional Network](https://ieeexplore.ieee.org/abstract/document/9098404). 2020
