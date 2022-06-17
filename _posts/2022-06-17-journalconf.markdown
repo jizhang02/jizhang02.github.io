@@ -12,8 +12,7 @@ tags:
 ---
 
 
-In this article, the author organize the journals and conferences about medical imaging and computer vision.     
-Any supplementary is welcome!
+In this article, the author organize the journals and conferences about medical imaging and computer vision. Any supplementary is welcome!
 
 | Journal |IF| Conference  |Highlights|
 | :----:  | ---- | :----:  | ---- | 
