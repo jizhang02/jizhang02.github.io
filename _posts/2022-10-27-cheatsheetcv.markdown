@@ -71,5 +71,4 @@ In this article, the author records some commands and codes under Ubuntu, Python
       radian                  (radian)    弧度
       steradian               (steradian) 球面度
 * 运行程序前设置环境变量 `sudo vim /home/jing/.bashrc`
-* 
 
