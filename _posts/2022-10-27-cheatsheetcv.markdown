@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Cheatsheet on Ubuntu, Python, Codes"
+title:      "Cheatsheet on CS"
 subtitle:   "常用命令速查表"
 date:       2022-10-27
 author:     "Jing"
