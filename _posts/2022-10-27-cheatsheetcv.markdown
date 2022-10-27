@@ -13,7 +13,7 @@ tags:
 ---
 
 
-#### In this article, the author records some commands and codes under Ubuntu, Python, Anaconda and some specific applications. Some sentences are mixed with Chinese language for one's own convienience. It will be updated from time to time.
+In this article, the author records some commands and codes under Ubuntu, Python, Anaconda and some specific applications. Some sentences are mixed with Chinese language for one's own convienience. It will be updated from time to time.
 
 
 ####  Pytorch
