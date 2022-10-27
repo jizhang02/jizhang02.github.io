@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cheatsheet on Ubuntu, Python, Codes"
 subtitle:   "常用命令速查表"
-date:       2022-10-27 10:11:20
+date:       2022-10-27
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
@@ -13,7 +13,7 @@ tags:
 ---
 
 
-In this article, the author records some commands and codes under Ubuntu, Python, Anaconda and some specific applications. Some sentences are mixed with Chinese language for one's own convienience. It will be updated from time to time.
+#### In this article, the author records some commands and codes under Ubuntu, Python, Anaconda and some specific applications. Some sentences are mixed with Chinese language for one's own convienience. It will be updated from time to time.
 
 
 ####  Pytorch
