@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cheatsheet on Ubuntu, Python, Codes"
 subtitle:   "常用命令速查表"
-date:       2022-10-27 10:11:00
+date:       2022-10-27 10:11:20
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
