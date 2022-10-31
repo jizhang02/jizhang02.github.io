@@ -90,7 +90,7 @@ service-worker: true
 
 
 # Friends
-Links: [
+friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
