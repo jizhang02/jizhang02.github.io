@@ -97,28 +97,28 @@ Links: [
     # },{
     #    title: "哔哩哔哩",
     #    href: "https://www.bilibili.com/"
-    #},{
-     #   title: "李子柒",
-      #  href: "https://www.weibo.com/mianyangdanshen?is_hot=1"
-    #},{
-     #   title: "阿木爷爷",
-      #  href: "https://www.ixigua.com/home/54200533861/"
-    #},{
+    # },{
+    #   title: "李子柒",
+    #  href: "https://www.weibo.com/mianyangdanshen?is_hot=1"
+    # },{
+    #   title: "阿木爷爷",
+    #  href: "https://www.ixigua.com/home/54200533861/"
+    # },{
         title: "LaTIM",
         href: "https://latim.univ-brest.fr/"
-    #},{
+    },{
         title: "LITIS",
-        href: "https://www.insa-rouen.fr/en/recherche/laboratoires/litis"
+        href: "https://www.litislab.fr/"
     },{
         title: "NWAFU",
         href: "https://en.nwsuaf.edu.cn/"
-   # },{
-   ##     title: "David's Game",
+    # },{
+    #    title: "David's Game",
     #    href: "https://www.ruoyaowu.com/"
-   # },{
+    # },{
     #    title: "DHong Say",
     #    href: "http://dhong.co"
-   # },{
+    # },{
     #    title: "尹峰以为",
     #    href: "http://ingf.github.io/"
     }
