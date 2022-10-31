@@ -90,23 +90,23 @@ service-worker: true
 
 
 # Friends
-friends: [
+Links: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "哔哩哔哩",
-        href: "https://www.bilibili.com/"
-    },{
-        title: "李子柒",
-        href: "https://www.weibo.com/mianyangdanshen?is_hot=1"
-    },{
-        title: "阿木爷爷",
-        href: "https://www.ixigua.com/home/54200533861/"
-    },{
-        title: "张佳玮",
-        href: "https://www.zhihu.com/people/zhang-jia-wei"
-    },{
+    #    title: "哔哩哔哩",
+    #    href: "https://www.bilibili.com/"
+    #},{
+     #   title: "李子柒",
+      #  href: "https://www.weibo.com/mianyangdanshen?is_hot=1"
+    #},{
+     #   title: "阿木爷爷",
+      #  href: "https://www.ixigua.com/home/54200533861/"
+    #},{
+        title: "LaTIM",
+        href: "https://latim.univ-brest.fr/"
+    #},{
         title: "LITIS",
         href: "https://www.insa-rouen.fr/en/recherche/laboratoires/litis"
     },{
