@@ -1,6 +1,13 @@
 
 #### Who am I?
-Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner Mongolia](https://en.wikipedia.org/wiki/Inner_Mongolia), China. I'm  PhD from [LITIS](http://www.litislab.fr/), [INSA Rouen](https://www.insa-rouen.fr/), France. I previously studied in at [NWAFU](https://www.nwsuaf.edu.cn/), China. Now I am studying Medical Image Analysis using Deep Learning. Currently I'm looking for a post-doc position in my field.
+Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner Mongolia](https://en.wikipedia.org/wiki/Inner_Mongolia), China. I'm  PhD from [LITIS](http://www.litislab.fr/), [INSA Rouen](https://www.insa-rouen.fr/), France. I previously studied in at [NWAFU](https://www.nwsuaf.edu.cn/), China. Now I am studying Medical Image Analysis using Deep Learning. 
+
+#### Work
+- Oct. 2022 - Now: Brest, Bretagne, France
+   + Place: [UBO](https://nouveau.univ-brest.fr/en), [LaTIM](https://latim.univ-brest.fr/) lab, team ACTION
+   + Position: Post-doc
+   + Head: Julien Bert
+   
 
 #### Education
 
