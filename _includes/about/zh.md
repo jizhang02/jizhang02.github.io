@@ -1,5 +1,11 @@
 #### 个人简介
-Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86%85%E8%92%99%E5%8F%A4?fromtitle=%E5%86%85%E8%92%99&fromid=12011244)[乌海市](https://baike.baidu.com/item/%E4%B9%8C%E6%B5%B7/740819)，是一名博士，所学专业为计算机科学与技术，我的研究方向是基于深度学习的医学图像分析。目前在寻找一个博后的工作。
+Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86%85%E8%92%99%E5%8F%A4?fromtitle=%E5%86%85%E8%92%99&fromid=12011244)[乌海市](https://baike.baidu.com/item/%E4%B9%8C%E6%B5%B7/740819)，是一名博士，所学专业为计算机科学与技术，我的研究方向是基于深度学习的医学图像分析。
+
+#### 工作经历
+- 2022年10月-至今，法国，布列塔尼，布雷斯特
+   + 单位：西布列塔尼大学，[LaTIM](https://latim.univ-brest.fr/)实验室，ACTION团队
+   + 职位：博士后
+   + 负责人：Julien Bert
 
 #### 教育经历
  
