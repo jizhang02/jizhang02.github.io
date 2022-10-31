@@ -3,7 +3,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
 
 #### 工作经历
 - 2022年10月-至今，法国，布列塔尼，布雷斯特
-   + 单位：西布列塔尼大学，[LaTIM](https://latim.univ-brest.fr/)实验室，ACTION团队
+   + 单位：[西布列塔尼大学](https://nouveau.univ-brest.fr/en)，[LaTIM](https://latim.univ-brest.fr/)实验室，ACTION团队
    + 职位：博士后
    + 负责人：Julien Bert
 
