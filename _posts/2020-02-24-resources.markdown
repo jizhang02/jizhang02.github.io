@@ -73,5 +73,25 @@ Recording worldwide, take your event to the next level with streaming & highligh
 Snipaste is a simple but powerful snipping tool, and also allows you to pin the screenshot back onto the screen.
 * [uTools](https://u.tools/)
 uTools 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。
-
-
+* [Anydesk](https://anydesk.com/en)
+A remote connection tool. Access any device at any time. From anywhere. Always secure and fast.
+* [Slack](https://slack.com/)
+Slack is an instant messaging program.
+* [Discord](https://discord.com/)
+Discord is a VoIP and instant messaging social platform. 
+* [Gist](https://gist.github.com/)
+GitHub Gist: instantly share code, notes, and snippets.
+* [ResearchGate](https://www.researchgate.net/)
+Discover scientific knowledge and stay connected to the world of science.
+* [DeepL](https://www.deepl.com/en/translator)
+DeepL Translate: The world's most accurate translator
+* [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+Video Conferencing, Meetings, Calling
+* [Zoom](https://zoom.us/)
+Zoom: One platform to connect
+* [Outlook](https://outlook.live.com)
+Free personal email and calendar from Microsoft
+* [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
+Personal Cloud Storage, can open office documents online.
+* [Zotero](https://www.zotero.org/)
+Your personal research assistant. Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
