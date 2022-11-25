@@ -11,8 +11,9 @@ tags:
     - Github
 ---
 
-> 这篇文章转载自[Vocabulary Sentence in Paper](https://github.com/jizhang02/Vocabulary-Sentence-in-Paper)
+> 这篇文章转载自[Vocabulary Sentence in Paper](https://github.com/jizhang02/Vocabulary-in-Compurter-Science-Paper/)
 
+👉 please see the [glossary](https://github.com/jizhang02/Vocabulary-in-Compurter-Science-Paper/blob/b762d0e1e57b42722a793817d43e4b8c44e91b0b/glossary.md) 
 
 
 ## 意义和目的
