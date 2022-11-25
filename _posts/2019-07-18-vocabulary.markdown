@@ -11,7 +11,7 @@ tags:
     - Github
 ---
 
-> 这篇文章转载自[Vocabulary Sentence in Paper](https://github.com/Ahgni/Vocabulary-Sentence-in-Paper)
+> 这篇文章转载自[Vocabulary Sentence in Paper](https://github.com/jizhang02/Vocabulary-Sentence-in-Paper)
 
 
 
