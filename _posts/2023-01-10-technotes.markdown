@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "tech notes on CS"
+title:      "Tech notes on CS"
 subtitle:   "技术笔记"
 date:       2023-01-10
 author:     "Jing"
