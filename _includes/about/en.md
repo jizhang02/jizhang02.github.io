@@ -54,4 +54,8 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 - [Key techniques of L-system parallelization](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=SJSJ201905028&v=7d893uLcWt6KJdc8HDk3p5CPzFGMCxY4t2PJxn38wzxr0Z%25mmd2BS2fFQPxS%25mmd2BbHdtatFw). 2019 (Chinese)
 - [Illumination Distribution Model of Apple Tree Canopy Based on Random Forest Regression Algorithm](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=NYJX201905025&v=QcZ51qEUI0cOLeHOuT8hlsHGW222Q7t3%25mmd2FsPPpck8dDCIi8u5cnupmx8PObX5dqBj). 2019 (Chinese)
 
-
+#### Technical reports
+- []()
+- []()
+- []()
+- []()
