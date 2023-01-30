@@ -49,7 +49,4 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
 - [Illumination Distribution Model of Apple Tree Canopy Based on Random Forest Regression Algorithm](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=NYJX201905025&v=QcZ51qEUI0cOLeHOuT8hlsHGW222Q7t3%25mmd2FsPPpck8dDCIi8u5cnupmx8PObX5dqBj). 2019
 
 #### 技术报告
-- []()
-- []()
-- []()
-- []()
+- [博士期间的技术报告](https://1drv.ms/u/s!ArS4irhKYi7tmXcUQsqgcDCRW2YU?e=RPRNMq)
