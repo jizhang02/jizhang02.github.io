@@ -55,7 +55,4 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 - [Illumination Distribution Model of Apple Tree Canopy Based on Random Forest Regression Algorithm](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=NYJX201905025&v=QcZ51qEUI0cOLeHOuT8hlsHGW222Q7t3%25mmd2FsPPpck8dDCIi8u5cnupmx8PObX5dqBj). 2019 (Chinese)
 
 #### Technical reports
-- []()
-- []()
-- []()
-- []()
+- [technical reports during PhD](https://1drv.ms/u/s!ArS4irhKYi7tmXcUQsqgcDCRW2YU?e=RPRNMq)
