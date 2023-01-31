@@ -34,7 +34,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
   - 2020年6月，[MIDL2020](https://2020.midl.io/) 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVjV5rOg3z_fnVrb?e=6woVQ3)，[视频](https://1drv.ms/v/s!ArS4irhKYi7tmVcWxHuplpvauJZQ?e=1Vk0Hm)，[Teaser](https://1drv.ms/v/s!ArS4irhKYi7tmVaZcqWjV8bOm2NZ?e=CR2cCd)
   - 2020年4月，[ISBI2020](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/index.htm) 线上会议，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVlvM0DmwZpBBdx4?e=lJUOAh)，[视频](https://1drv.ms/v/s!ArS4irhKYi7tmVp7DCZB_XdmRdik?e=WMojb6)
   - 2019年7月，博士生日，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVvgQY-YeF5zDNHi?e=VZgo55)，Le Havre，法国
-  - 2019年4月，[基于深度学习的医学影像春令营](https://deepimaging2019.sciencesconf.org/)，里昂，法国
+  - 2019年4月，[基于深度学习的医学影像春令营](https://deepimaging2019.sciencesconf.org/)，[总结](https://1drv.ms/w/s!ArS4irhKYi7tmgZVDizdo_OJEOxW?e=YaOmUf)，里昂，法国
   - 2017年11月，[日本樱花科技项目](https://ssp.jst.go.jp/cn/)，[岩手大学](https://www.iwate-u.ac.jp/)，日本
   - 2017年7月，ICIA2017智能农业国际学术会议，长春，吉林，中国
   - 2016年6月，陕西省第三届研究生电子设计竞赛，西安，陕西，中国
