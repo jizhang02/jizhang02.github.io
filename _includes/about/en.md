@@ -39,7 +39,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
   - Jun, 26th, 2020, [MIDL2020](https://2020.midl.io/) Online conference, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVjV5rOg3z_fnVrb?e=6woVQ3), [Video](https://1drv.ms/v/s!ArS4irhKYi7tmVcWxHuplpvauJZQ?e=1Vk0Hm), [Teaser](https://1drv.ms/v/s!ArS4irhKYi7tmVaZcqWjV8bOm2NZ?e=CR2cCd)
   - Apr, 03th, 2020, [ISBI2020](https://biomedicalimaging.org/2020/wp-content/uploads/static-html-to-wp/data/dff0d41695bbae509355435cd32ecf5d/index.htm) Online conference, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVlvM0DmwZpBBdx4?e=lJUOAh), [Video](https://1drv.ms/v/s!ArS4irhKYi7tmVp7DCZB_XdmRdik?e=WMojb6)
   - Jul, 09th, 2019, Jour Des Doctorants, [Slide](https://1drv.ms/b/s!ArS4irhKYi7tmVvgQY-YeF5zDNHi?e=VZgo55), Le Havre, France
-  - Apr, 15-19th, 2019, [Deep learning for medical imaging](https://deepimaging2019.sciencesconf.org/), Lyon, France
+  - Apr, 15-19th, 2019, [Deep learning for medical imaging](https://deepimaging2019.sciencesconf.org/), [Summary](https://1drv.ms/w/s!ArS4irhKYi7tmgZVDizdo_OJEOxW?e=YaOmUf), Lyon, France.
   - Nov, 10-17th, 2017, [Sakura Science Exchange Program](https://ssp.jst.go.jp/cn/)，[Iwate University](https://www.iwate-u.ac.jp/), Japon
   - Aug, 12-15th, 2017, ICIA2017International Conference on Intelligent Agriculture, Changchun, Jilin, China
   - Jul, 07-08th, 2016, The 3rd Postgraduate Electronic Design Competition, Xi'an, Shaanxi, China
