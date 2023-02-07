@@ -1,23 +1,24 @@
 ---
 layout:     post
-title:      "Recruitment Information in Computer Science and AI "
-subtitle:   "计算机人工智能方向招聘信息"
+title:      "Information in Computer Science and AI "
+subtitle:   "计算机人工智能信息"
 date:       2020-02-26 15:00:00
-author:     "Ahgni"
+author:     "Jing"
 header-img: "img/post-bg.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
     - Computer Science
     - AI
-    - Job
+    - Info
 ---
 
 
-> 这篇博客收集了一些以计算机科学与技术为主的招聘信息，希望能对你有所帮助。 ;) <br><br>
+这篇博客收集了一些以计算机科学与技术为主的一些企业，研究所和高校信息，希望能对你有所帮助。 ;) <br><br>
+This blog has collected some information about some companies, institutes and universities focusing on computer science and technology.
 
 
-## 博士后招聘
+## 实验室
 * [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm)， 北京，Beijing
 * [鹏程实验室](http://www.pcl.ac.cn/)， 深圳，Shenzhen
 * [深圳湾实验室](https://www.szbl.ac.cn/index.aspx)， 深圳，Shenzhen
