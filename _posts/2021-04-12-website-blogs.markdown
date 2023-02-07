@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Very insightful blogs in various areas."
+title:      "Collections for Knowledge."
 subtitle: "分享信息和知识的博客集锦"
 date:       2021-04-12 16:03:00
 author:     "Jing"
