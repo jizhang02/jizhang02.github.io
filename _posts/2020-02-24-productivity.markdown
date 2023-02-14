@@ -34,8 +34,8 @@ Leave a comment if you know some awesome resources.
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
     * [Conference Partner](https://www.myhuiban.com/), conferences and journals information.
-    * [Top Computer Science conference](http://www.guide2research.com/topconf/), Top Conferences Ranking for Computer Science & Electronics.
-    * [SlidesLive](https://library.slideslive.com/), recording worldwide, take your event to the next level with streaming & highlight videos.
+    * [Top Computer Science conference](http://www.guide2research.com/topconf/), Top Conferences Ranking.
+    * [SlidesLive](https://library.slideslive.com/), slides, videos.
 
 
 * Literature website
