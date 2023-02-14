@@ -26,9 +26,11 @@ Leave a comment if you know some awesome resources.
     * [Overleaf](https://www.overleaf.com/), a online LaTeX editor. You can share your work with other colleages.
     * [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
     * [Tables Generator](https://www.tablesgenerator.com/), a latex table generator.
+    * [Online PDF tool](https://www.ilovepdf.com/)
     * [Draw.io](https://app.diagrams.net/), online drawing tool.
     * [Speechnotes](https://speechnotes.co/), speech-enabled online notepad.
     * [DeepL Translate](https://www.deepl.com/en/translator)
+    * [Cambridge dictionary](https://dictionary.cambridge.org/us/dictionary/english/)
     * [ChatGPT](https://chat.openai.com/chat), knows everything.
 
 * Conference info    
@@ -36,12 +38,14 @@ Leave a comment if you know some awesome resources.
     * [Conference Partner](https://www.myhuiban.com/), conferences and journals information.
     * [Top Computer Science conference](http://www.guide2research.com/topconf/), Top Conferences Ranking.
     * [SlidesLive](https://library.slideslive.com/), slides, videos.
+    * [AI Conference Deadline](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
 
 
 * Literature website
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
     * [Papers with code](https://paperswithcode.com/) 
     * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barries in the way of science. 
+    * [Google Scholar](https://scholar.google.com/)
     * [Zotero](https://www.zotero.org/), personal research assistant.
     * [ResearchGate](https://www.researchgate.net/)
 
@@ -51,20 +55,55 @@ Leave a comment if you know some awesome resources.
     * [Machine Learning Summer Schools](http://mlss.cc/index.html)
     * [W3Schools Online Web Tutorials](https://www.w3schools.com/)
     * [OpenCV Tutorials](https://github.com/JimmyHHua/opencv_tutorials) 
+    * [Google Machine Learning Education](https://developers.google.com/machine-learning?hl=en)
+    * [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)
+    * [Geometric Deep Learning](https://geometricdeeplearning.com/)
+    * [Immersive linear algebra](http://immersivemath.com/ila/index.html)
+    * [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
 
+* Open Courses
+    * [Courses of Harvard University](https://pll.harvard.edu/catalog)
+    * [Courses of Stanford University](https://online.stanford.edu/)
+    * [Courses of MIT](https://ocw.mit.edu/)
+    * [MOOC China](https://www.icourse163.org/)
+    * [CrashCourse](https://crashcourse.club/category)
 
+   
 * Blogs
     * [Personnal website by Jack Cui](https://cuijiahua.com/), about Machine learning and Deep learning.
+    * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
     * [Personnal website by Redstone](https://redstonewill.com/), Tutorial on various computer vision and deep learning.
 
 
 * Books
     * [Free programming books](https://github.com/EbookFoundation/free-programming-books), list of Free Learning Resources In Many Languages.
+    * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
+    * [Dive into Deep Learning](https://zh-v2.d2l.ai/)
+    * [Think Python](https://wizardforcel.gitbooks.io/think-python-2e/content/index.html)
+    * [Deep Learning](https://exacity.github.io/deeplearningbook-chinese/)
+    * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+    * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
+    * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+    * [机器学习系统：设计和实现](https://openmlsys.github.io/)
 
 
 * AI playground
     * [Model Zoo](https://modelzoo.co/), discover open source deep learning code and pretrained models.   
     * [Chinese Medical Knowledge Graph](http://cmekg.pcl.ac.cn/), 中文医学知识图谱
+    * [汉语反向词典](https://wantwords.net/)
+    * [识典古籍](https://www.shidianguji.com/)
+    * [Google Dataset Search](https://datasetsearch.research.google.com/)
+    * [Medical Open Network for Artificial Intelligence](https://monai.io/)
+    * [OpenMMLab](https://openmmlab.com/)
+    * [Universal Summarizer](https://labs.kagi.com/ai/sum)
+    * [Discover AI models & code](https://www.catalyzex.com/)
+    * [SoTA of Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+    * [An Interactive Introduction to Artificial Intelligence (AI)](https://okai.brown.edu/index.html)
+    * [Visualizing Data using the Embedding Projector in TensorBoard](https://projector.tensorflow.org/)
+    * [Deep playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=7,2,2,2&seed=0.40403&showTestData=false&discretize=false&percTrainData=50&x=true&y=false&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+    * [Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations](https://fredhohman.com/summit/)
+    * [NeuralDivergence](http://haekyu.com/neural-divergence/)
+    * [Weights & Biases](https://wandb.ai/site)
 
 * SoftwareTools
     * [Snipaste](https://www.snipaste.com/), screenshot
@@ -77,7 +116,13 @@ Leave a comment if you know some awesome resources.
 
 * Code
     * [Gist](https://gist.github.com/), instantly share code, notes, and snippets.
-    * [GitHub](https://www.github.com/), code world.
+    * [GitHub](https://www.github.com/)
+    * [GitLab](https://about.gitlab.com/)
+    * [GitCode](https://gitcode.net/explore/welcome)
+    * [Gitee](https://gitee.com/dashboard)
+    * [Try Python](https://www.w3schools.com/python/trypython.asp?filename=demo_default)
+    * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+    * [DockerHub](https://hub.docker.com/)
 
 
 * Office
