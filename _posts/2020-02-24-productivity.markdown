@@ -107,6 +107,13 @@ Leave a comment if you know some awesome resources.
 
 * SoftwareTools
     * [Snipaste](https://www.snipaste.com/), screenshot
+    * [ImageJ](https://imagej.net/), image processing
+    * [Slicer](https://www.slicer.org/), image processing
+    * [SimpleITK](https://simpleitk.org/), image processing
+    * [Typora](https://typora.io/), md file editing, not free
+    * [VSCode](https://code.visualstudio.com/), code editer
+    * [PyCharm](https://www.jetbrains.com/pycharm/), code editer
+    * [LibreOffice](https://www.libreoffice.org/), office tool
 
 
 * Social media
