@@ -31,7 +31,6 @@ Leave a comment if you know some awesome resources.
     * [Speechnotes](https://speechnotes.co/), speech-enabled online notepad.
     * [DeepL Translate](https://www.deepl.com/en/translator)
     * [Cambridge dictionary](https://dictionary.cambridge.org/us/dictionary/english/)
-    * [ChatGPT](https://chat.openai.com/chat), knows everything.
 
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
@@ -104,6 +103,8 @@ Leave a comment if you know some awesome resources.
     * [Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations](https://fredhohman.com/summit/)
     * [NeuralDivergence](http://haekyu.com/neural-divergence/)
     * [Weights & Biases](https://wandb.ai/site)
+    * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
+
 
 * SoftwareTools
     * [Snipaste](https://www.snipaste.com/), screenshot
