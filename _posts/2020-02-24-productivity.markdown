@@ -47,6 +47,7 @@ Leave a comment if you know some awesome resources.
     * [Google Scholar](https://scholar.google.com/)
     * [Zotero](https://www.zotero.org/), personal research assistant.
     * [ResearchGate](https://www.researchgate.net/)
+    * [Aminer](https://www.aminer.cn/)
 
    
 * Tutorials
