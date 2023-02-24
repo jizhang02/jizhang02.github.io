@@ -41,6 +41,7 @@ Leave a comment if you know some awesome resources.
 
 
 * Literature website
+    * [Semantic Scholar](https://www.semanticscholar.org/), a free, AI-powered research tool for scientific literature.
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
     * [Papers with code](https://paperswithcode.com/) 
     * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barries in the way of science. 
