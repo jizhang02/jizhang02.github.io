@@ -27,6 +27,7 @@ Leave a comment if you know some awesome resources.
     * [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
     * [Tables Generator](https://www.tablesgenerator.com/), a latex table generator.
     * [Online PDF tool](https://www.ilovepdf.com/)
+    * [PDF resizer](https://pdfresizer.com/), to crop pdf files.
     * [Draw.io](https://app.diagrams.net/), online drawing tool.
     * [Speechnotes](https://speechnotes.co/), speech-enabled online notepad.
     * [DeepL Translate](https://www.deepl.com/en/translator)
