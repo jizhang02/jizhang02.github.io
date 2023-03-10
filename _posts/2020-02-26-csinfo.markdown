@@ -83,6 +83,9 @@ This blog has collected some information about some companies, institutes and un
 * [王研](https://faculty.ecnu.edu.cn/_s15/wy2_19241/main.psp), East China Normal University, China.    
 * [屈小波](https://csrc.xmu.edu.cn/xiaobo/index_cn.html), Xiamen University, China.
 * [李宏毅](https://speech.ee.ntu.edu.tw/~hylee/index.php), National Taiwan University, Taiwan.
+* [李响](https://xiangli-shaun.github.io/), Instructor in Investigation, Massachusetts General Hospital and Harvard Medical School, USA.
+* [闫平昆](https://dial.rpi.edu/people/pingkun-yan), Rensselaer Polytechnic Institute, USA.
+* [刘天明](https://cobweb.cs.uga.edu/~tliu/), University of Georgia, USA.
 
 ## Companies
 * [柏视医疗](https://www.pvmedtech.com/index.html)，广州，Guangzhou
