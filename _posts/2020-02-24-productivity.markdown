@@ -27,11 +27,11 @@ Leave a comment if you know some awesome resources.
     * [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
     * [Tables Generator](https://www.tablesgenerator.com/), a latex table generator.
     * [Online PDF tool](https://www.ilovepdf.com/)
+    * [PDF resizer](https://pdfresizer.com/), to crop pdf files.
     * [Draw.io](https://app.diagrams.net/), online drawing tool.
     * [Speechnotes](https://speechnotes.co/), speech-enabled online notepad.
     * [DeepL Translate](https://www.deepl.com/en/translator)
     * [Cambridge dictionary](https://dictionary.cambridge.org/us/dictionary/english/)
-    * [ChatGPT](https://chat.openai.com/chat), knows everything.
 
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
@@ -42,12 +42,14 @@ Leave a comment if you know some awesome resources.
 
 
 * Literature website
+    * [Semantic Scholar](https://www.semanticscholar.org/), a free, AI-powered research tool for scientific literature.
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
     * [Papers with code](https://paperswithcode.com/) 
     * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barries in the way of science. 
     * [Google Scholar](https://scholar.google.com/)
     * [Zotero](https://www.zotero.org/), personal research assistant.
     * [ResearchGate](https://www.researchgate.net/)
+    * [Aminer](https://www.aminer.cn/)
 
    
 * Tutorials
@@ -104,6 +106,8 @@ Leave a comment if you know some awesome resources.
     * [Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations](https://fredhohman.com/summit/)
     * [NeuralDivergence](http://haekyu.com/neural-divergence/)
     * [Weights & Biases](https://wandb.ai/site)
+    * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
+
 
 * SoftwareTools
     * [Snipaste](https://www.snipaste.com/), screenshot

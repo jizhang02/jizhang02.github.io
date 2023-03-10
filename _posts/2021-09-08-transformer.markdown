@@ -27,7 +27,7 @@ This post is an introduction to the Transformer, in terms of its origin, applica
 ## ![#FA6800](https://via.placeholder.com/60/FA6800/000000?text=2021) Vision Transformer 2021
 ⭐ It uses Transformer (encoder part) to do the image classification task. It split the image into small patches as input, and record the position infomation of each patch. It performs well if pretrained on large datasets (more than 100 million). Short for ViT.     
 📄 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929), 2021
-## ![#0050EF](https://via.placeholder.com/60/0050EF/FFFFFF?text=2021) Vision Transformer 2021
+## ![#0050EF](https://via.placeholder.com/60/0050EF/FFFFFF?text=2021) Vision Transformer in segmentation 2021
 ⭐ It first uses Transformer to do the image segmentation task. At the same time, it combines the CNN in encoder part to better restore the low level information, in decoder part, it also uses CNN.    
 📄 [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306), 2021-02-08    
 📄 [Medical Transformer: Gated Axial-Attention for Medical Image Segmentation](https://arxiv.org/abs/2102.10662), 2021-02-21   
@@ -43,4 +43,7 @@ This post is an introduction to the Transformer, in terms of its origin, applica
 📄 [nnFormer: Interleaved Transformer for Volumetric Segmentation](https://arxiv.org/abs/2109.03201), 2021-09-07    
 📄 [MISSFormer: An Effective Medical Image Segmentation Transformer](https://arxiv.org/abs/2109.07162v1), 2021-09-15              
 📄 [Transformer-Unet: Raw Image Processing with Unet](https://arxiv.org/abs/2109.08417), 2021-09-17     
+📄 [VT-UNet: A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation](https://arxiv.org/pdf/2111.13300.pdf), 2021-11-26         
+📄 [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/pdf/2301.03505.pdf), 2023-01-10, 63 pages!      
+
 👉 Acknowledgements: [Wang Shusen](https://youtu.be/aButdUV0dxI)
