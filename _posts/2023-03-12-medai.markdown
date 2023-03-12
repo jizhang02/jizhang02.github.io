@@ -15,4 +15,4 @@ tags:
 
 ### Medical tasks profile with AI
 
-![MedAI profile](https://github.com/jizhang02/Figure-Factory/blob/6a1015bd3b2bd1f8b77d002c03391ef8233baa3e/Fig_CS/medai.png)
+![MedAI profile](https://github.com/jizhang02/Figure-Factory/blob/6a1015bd3b2bd1f8b77d002c03391ef8233baa3e/Fig_CS/medai.png “medai”)
