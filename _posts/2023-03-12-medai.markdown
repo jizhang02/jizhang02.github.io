@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Medical tasks with AI"
+subtitle:   "人工智能赋能的医学任务"
+date:       2023-03-12
+author:     "Jing"
+header-img: "img/post-bg.jpg"
+tags:
+    - Computer Science
+    - Medical tasks
+    - AI
+
+---
+
+
+### Medical tasks profile with AI
+
+![MedAI profile](https://github.com/jizhang02/Figure-Factory/blob/6a1015bd3b2bd1f8b77d002c03391ef8233baa3e/Fig_CS/medai.png)
