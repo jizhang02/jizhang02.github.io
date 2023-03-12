@@ -107,6 +107,7 @@ Leave a comment if you know some awesome resources.
     * [NeuralDivergence](http://haekyu.com/neural-divergence/)
     * [Weights & Biases](https://wandb.ai/site)
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
+    * [Chat with any PDF](https://www.chatpdf.com/)
 
 
 * SoftwareTools
@@ -118,6 +119,15 @@ Leave a comment if you know some awesome resources.
     * [VSCode](https://code.visualstudio.com/), code editer
     * [PyCharm](https://www.jetbrains.com/pycharm/), code editer
     * [LibreOffice](https://www.libreoffice.org/), office tool
+
+* Mind maps online
+    * [Canva](https://www.canva.com/graphs/mind-maps/)
+    * [MindMeister](https://www.mindmeister.com/)
+    * [MindMup](https://www.mindmup.com/)
+    * [Miro mind map](https://miro.com/mind-map/)
+    * [Coggle](https://coggle.it/)
+    * [GitMind](https://gitmind.com/)
+    * [mindmaps](https://www.mindmaps.app/)
 
 
 * Social media
