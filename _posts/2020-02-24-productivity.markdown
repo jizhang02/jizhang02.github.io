@@ -87,6 +87,7 @@ Leave a comment if you know some awesome resources.
     * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
     * [机器学习系统：设计和实现](https://openmlsys.github.io/)
+    * [深度强化学习](https://deepreinforcementlearningbook.org/assets/pdfs/%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0(%E4%B8%AD%E6%96%87%E7%89%88-%E5%BD%A9%E8%89%B2%E5%8E%8B%E7%BC%A9).pdf)
 
 
 * AI playground
