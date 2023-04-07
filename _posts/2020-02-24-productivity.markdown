@@ -32,6 +32,7 @@ Leave a comment if you know some awesome resources.
     * [Speechnotes](https://speechnotes.co/), speech-enabled online notepad.
     * [DeepL Translate](https://www.deepl.com/en/translator)
     * [Cambridge dictionary](https://dictionary.cambridge.org/us/dictionary/english/)
+    * [Typst](https://typst.app/), alternative to LaTeX.
 
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
