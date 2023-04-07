@@ -111,6 +111,7 @@ Leave a comment if you know some awesome resources.
     * [Weights & Biases](https://wandb.ai/site)
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
     * [Chat with any PDF](https://www.chatpdf.com/)
+    * [Segment Anything](https://segment-anything.com/)
 
 
 * SoftwareTools
