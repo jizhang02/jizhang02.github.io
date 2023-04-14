@@ -82,6 +82,7 @@ Leave a comment if you know some awesome resources.
     * [Free programming books](https://github.com/EbookFoundation/free-programming-books), list of Free Learning Resources In Many Languages.
     * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [Dive into Deep Learning](https://zh-v2.d2l.ai/)
+    * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
     * [Think Python](https://wizardforcel.gitbooks.io/think-python-2e/content/index.html)
     * [Deep Learning (Chinese)](https://exacity.github.io/deeplearningbook-chinese/)
     * [Deep Learning](https://www.deeplearningbook.org/)
