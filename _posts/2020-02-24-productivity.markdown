@@ -114,6 +114,7 @@ Leave a comment if you know some awesome resources.
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
     * [Chat with any PDF](https://www.chatpdf.com/)
     * [Segment Anything](https://segment-anything.com/)
+    * [SciSpace](https://typeset.io/), search the largest scientific corpus in the world.
 
 
 * SoftwareTools
@@ -157,6 +158,7 @@ Leave a comment if you know some awesome resources.
     * [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage), personal Cloud Storage, can open office documents online.
     * [Outlook](https://outlook.live.com), personal email and calendar from Microsoft
     * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+    * [Edge](https://www.microsoft.com/en-us/edge?exp=e01&ocid=ORSEARCH_Bing&form=MA13FJ), Edge browser.
     * [Zoom](https://zoom.us/)
     * [Anydesk](https://anydesk.com/en), a remote connection tool. 
 
