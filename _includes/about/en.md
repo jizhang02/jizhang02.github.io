@@ -42,7 +42,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
   - Apr, 15-19th, 2019, [Deep learning for medical imaging](https://deepimaging2019.sciencesconf.org/), [Summary](https://1drv.ms/w/s!ArS4irhKYi7tmgZVDizdo_OJEOxW?e=YaOmUf), Lyon, France.
   - Nov, 10-17th, 2017, [Sakura Science Exchange Program](https://ssp.jst.go.jp/cn/)，[Iwate University](https://www.iwate-u.ac.jp/), Japon
   - Aug, 12-15th, 2017, ICIA2017International Conference on Intelligent Agriculture, Changchun, Jilin, China
-  - Jul, 07-08th, 2016, The 3rd Postgraduate Electronic Design Competition, Xi'an, Shaanxi, China
+  - Jul, 07-08th, 2016, The 3rd prize in Postgraduate Electronic Design Competition, Xi'an, Shaanxi, China
   
 
 #### Publications
