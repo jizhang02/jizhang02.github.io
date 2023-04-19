@@ -29,7 +29,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
-
+  - Apr, 18th, 2023, 4th place in ISBI2023 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis#news), team leader [Yihao Li](https://blog.csdn.net/qq_38736504?type=blog)
   - May, 22th, 2022, Online Seminar (Chinese)，Explainable AI, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
   - Apr, 06th, 2022, Doctoral thesis defense, [News](https://www.litislab.fr/event/soutenance-these-jing-zhang), Rouen, France
   - Nov, 30th, 2020, LITIS [QUANTIF team](https://www.litislab.fr/equipe/quantif) Seminar, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai), Rouen, France
