@@ -38,7 +38,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
   - 2019年4月，[基于深度学习的医学影像春令营](https://deepimaging2019.sciencesconf.org/)，[总结](https://1drv.ms/w/s!ArS4irhKYi7tmgZVDizdo_OJEOxW?e=YaOmUf)，里昂，法国
   - 2017年11月，[日本樱花科技项目](https://ssp.jst.go.jp/cn/)，[岩手大学](https://www.iwate-u.ac.jp/)，日本
   - 2017年7月，ICIA2017智能农业国际学术会议，长春，吉林，中国
-  - 2016年6月，陕西省第三届研究生电子设计竞赛，西安，陕西，中国
+  - 2016年6月，陕西省第三届研究生电子设计竞赛三等奖，西安，陕西，中国
   
 #### 学术成果
 - 2022 [Segmentation-Based vs. Regression-Based Biomarker Estimation: A Case Study of Fetus Head Circumference Assessment from Ultrasound Images](https://www.mdpi.com/2313-433X/8/2/23). [`code`](https://github.com/jizhang02/HC-reg-seg)
