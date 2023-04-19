@@ -25,6 +25,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
 #### 学术活动
+  - 2023年4月18日，参与ISBI2023竞赛 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis)，队长[Yihao Li](https://blog.csdn.net/qq_38736504?type=blog)
   - 2022年5月22日，中文线上研讨会，可解释的人工智能，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
   - 2022年4月6日，博士论文答辩，[News](https://www.litislab.fr/event/soutenance-these-jing-zhang)，鲁昂，法国
   - 2020年11月30日，LITIS [QUANTIF团队](https://www.litislab.fr/equipe/quantif)学术研讨会，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai)，鲁昂，法国
