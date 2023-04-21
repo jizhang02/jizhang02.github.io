@@ -86,6 +86,7 @@ This blog has collected some information about some companies, institutes and un
 * [李响](https://xiangli-shaun.github.io/), Instructor in Investigation, Massachusetts General Hospital and Harvard Medical School, USA.
 * [闫平昆](https://dial.rpi.edu/people/pingkun-yan), Rensselaer Polytechnic Institute, USA.
 * [刘天明](https://cobweb.cs.uga.edu/~tliu/), University of Georgia, USA.
+* [CITI](https://citi-imr.sjtu.edu.cn/index.html), Shanghai Jiaotong University, China.
 
 ## Companies
 * [柏视医疗](https://www.pvmedtech.com/index.html)，广州，Guangzhou
