@@ -29,7 +29,8 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
-
+  - Apr, 25th, 2023, [Gate Scientific Meeting 2023](https://indico.in2p3.fr/event/28828/), Kraków, Poland
+  - Apr, 18th, 2023, The 4th place in ISBI2023 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis#news), team leader [Yihao Li](https://blog.csdn.net/qq_38736504?type=blog)
   - May, 22th, 2022, Online Seminar (Chinese)，Explainable AI, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
   - Apr, 06th, 2022, Doctoral thesis defense, [News](https://www.litislab.fr/event/soutenance-these-jing-zhang), Rouen, France
   - Nov, 30th, 2020, LITIS [QUANTIF team](https://www.litislab.fr/equipe/quantif) Seminar, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai), Rouen, France
@@ -42,7 +43,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
   - Apr, 15-19th, 2019, [Deep learning for medical imaging](https://deepimaging2019.sciencesconf.org/), [Summary](https://1drv.ms/w/s!ArS4irhKYi7tmgZVDizdo_OJEOxW?e=YaOmUf), Lyon, France.
   - Nov, 10-17th, 2017, [Sakura Science Exchange Program](https://ssp.jst.go.jp/cn/)，[Iwate University](https://www.iwate-u.ac.jp/), Japon
   - Aug, 12-15th, 2017, ICIA2017International Conference on Intelligent Agriculture, Changchun, Jilin, China
-  - Jul, 07-08th, 2016, The 3rd Postgraduate Electronic Design Competition, Xi'an, Shaanxi, China
+  - Jul, 07-08th, 2016, The 3rd prize in Postgraduate Electronic Design Competition, Xi'an, Shaanxi, China
   
 
 #### Publications

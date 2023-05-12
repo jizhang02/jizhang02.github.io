@@ -32,6 +32,7 @@ Leave a comment if you know some awesome resources.
     * [Speechnotes](https://speechnotes.co/), speech-enabled online notepad.
     * [DeepL Translate](https://www.deepl.com/en/translator)
     * [Cambridge dictionary](https://dictionary.cambridge.org/us/dictionary/english/)
+    * [Typst](https://typst.app/), alternative to LaTeX.
 
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
@@ -81,6 +82,7 @@ Leave a comment if you know some awesome resources.
     * [Free programming books](https://github.com/EbookFoundation/free-programming-books), list of Free Learning Resources In Many Languages.
     * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [Dive into Deep Learning](https://zh-v2.d2l.ai/)
+    * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
     * [Think Python](https://wizardforcel.gitbooks.io/think-python-2e/content/index.html)
     * [Deep Learning (Chinese)](https://exacity.github.io/deeplearningbook-chinese/)
     * [Deep Learning](https://www.deeplearningbook.org/)
@@ -111,6 +113,8 @@ Leave a comment if you know some awesome resources.
     * [Weights & Biases](https://wandb.ai/site)
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
     * [Chat with any PDF](https://www.chatpdf.com/)
+    * [Segment Anything](https://segment-anything.com/)
+    * [SciSpace](https://typeset.io/), search the largest scientific corpus in the world.
 
 
 * SoftwareTools
@@ -154,6 +158,7 @@ Leave a comment if you know some awesome resources.
     * [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage), personal Cloud Storage, can open office documents online.
     * [Outlook](https://outlook.live.com), personal email and calendar from Microsoft
     * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+    * [Edge](https://www.microsoft.com/en-us/edge?exp=e01&ocid=ORSEARCH_Bing&form=MA13FJ), Edge browser.
     * [Zoom](https://zoom.us/)
     * [Anydesk](https://anydesk.com/en), a remote connection tool. 
 

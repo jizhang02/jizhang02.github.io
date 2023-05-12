@@ -25,6 +25,8 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
 #### 学术活动
+  - 2023年4月25日，[Gate Scientific Meeting 2023](https://indico.in2p3.fr/event/28828/)，克拉科夫，波兰
+  - 2023年4月18日，ISBI2023竞赛 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis) 获得第四名，队长[Yihao Li](https://blog.csdn.net/qq_38736504?type=blog)
   - 2022年5月22日，中文线上研讨会，可解释的人工智能，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
   - 2022年4月6日，博士论文答辩，[News](https://www.litislab.fr/event/soutenance-these-jing-zhang)，鲁昂，法国
   - 2020年11月30日，LITIS [QUANTIF团队](https://www.litislab.fr/equipe/quantif)学术研讨会，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai)，鲁昂，法国
@@ -37,7 +39,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
   - 2019年4月，[基于深度学习的医学影像春令营](https://deepimaging2019.sciencesconf.org/)，[总结](https://1drv.ms/w/s!ArS4irhKYi7tmgZVDizdo_OJEOxW?e=YaOmUf)，里昂，法国
   - 2017年11月，[日本樱花科技项目](https://ssp.jst.go.jp/cn/)，[岩手大学](https://www.iwate-u.ac.jp/)，日本
   - 2017年7月，ICIA2017智能农业国际学术会议，长春，吉林，中国
-  - 2016年6月，陕西省第三届研究生电子设计竞赛，西安，陕西，中国
+  - 2016年6月，陕西省第三届研究生电子设计竞赛三等奖，西安，陕西，中国
   
 #### 学术成果
 - 2022 [Segmentation-Based vs. Regression-Based Biomarker Estimation: A Case Study of Fetus Head Circumference Assessment from Ultrasound Images](https://www.mdpi.com/2313-433X/8/2/23). [`code`](https://github.com/jizhang02/HC-reg-seg)
