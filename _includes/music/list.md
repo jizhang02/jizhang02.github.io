@@ -19,10 +19,10 @@
 ## Chinese songs
 
  
-🔹 《明天更漫长(Tomorrow will be longer)》in elbum 《黑梦(Black dream)》🪨, 1994, Wei Dou. [Click to hear](https://www.youtube.com/watch?v=rQcQWC70a9w).    
+🔹 《明天更漫长(Tomorrow will be longer)》in elbum 《黑梦(Black dream)》🪨, 1994, Wei Dou.  [![YouTube Video Likes](https://img.shields.io/youtube/likes/rQcQWC70a9w?style=social)](https://www.youtube.com/watch?v=rQcQWC70a9w)    
 🌟 ‘过去的辉煌不再重要，明天更漫长 (The glory of the past is no longer important, tomorrow will be longer)’.     
 <br>
-🔹 《中国人(Chinese people)》in elbum 《爱如此神奇(Love is so amazing)》, 1997, Andy Lau. It was created in 1997 to celebrate the return of Hong Kong to China. [Click to hear](https://www.youtube.com/watch?v=dZUVGtSouCc).    
+🔹 《中国人(Chinese people)》in elbum 《爱如此神奇(Love is so amazing)》, 1997, Andy Lau. It was created in 1997 to celebrate the return of Hong Kong to China. [![YouTube Video Likes](https://img.shields.io/youtube/likes/dZUVGtSouCc?style=social)](https://www.youtube.com/watch?v=dZUVGtSouCc)    
 
 ## Non-Chinese songs
 
