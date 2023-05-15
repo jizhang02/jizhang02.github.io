@@ -18,6 +18,11 @@
 
 ## Chinese songs
 
+| Name | Artist | Elbum | Year | Link |
+| ------- | -------| ------- | ------- | ------- |
+| 明天更漫长(Tomorrow will be longer) | Wei Dou| 黑梦(Black dream) |1994| [![YouTube Video Likes](https://img.shields.io/youtube/likes/rQcQWC70a9w?style=social)](https://www.youtube.com/watch?v=rQcQWC70a9w)     |
+
+
  
 🔹 《明天更漫长(Tomorrow will be longer)》in elbum 《黑梦(Black dream)》🪨, 1994, Wei Dou.  [![YouTube Video Likes](https://img.shields.io/youtube/likes/rQcQWC70a9w?style=social)](https://www.youtube.com/watch?v=rQcQWC70a9w)    
 🌟 ‘过去的辉煌不再重要，明天更漫长 (The glory of the past is no longer important, tomorrow will be longer)’.     
