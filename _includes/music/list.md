@@ -22,4 +22,13 @@
 
 ## Non-Chinese songs
 
+| Song's name | Artist | Elbum | Link |
+|------- | :-------:| :-------: | :-------: |
+| Someone like you | Adele| 21, 2011| [![YouTube Video Likes](https://img.shields.io/youtube/likes/hLQl3WQQoQ0?style=social)](https://www.youtube.com/watch?v=hLQl3WQQoQ0)     |
+
+
 ## Music with only instruments
+| Song's name | Artist | Elbum | Link |
+|------- | :-------:| :-------: | :-------: |
+| Zorba's Dance | Mikis Theodorakis| 1964| [![YouTube Video Likes](https://img.shields.io/youtube/likes/kG12C1oX5Eo?style=social)](https://www.youtube.com/watch?v=kG12C1oX5Eo)     |
+| Friendships | Pascal Letoublon| 2017| [![YouTube Video Likes](https://img.shields.io/youtube/likes/mPmoojB54xI?style=social)](https://www.youtube.com/watch?v=mPmoojB54xI)     |
