@@ -63,6 +63,8 @@ Leave a comment if you know some awesome resources.
     * [Geometric Deep Learning](https://geometricdeeplearning.com/)
     * [Immersive linear algebra](http://immersivemath.com/ila/index.html)
     * [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
+    * [W3Schools](https://www.w3schools.com/)
+    * [菜鸟教程](https://www.runoob.com/)
 
 * Open Courses
     * [Courses of Harvard University](https://pll.harvard.edu/catalog)
@@ -92,6 +94,7 @@ Leave a comment if you know some awesome resources.
     * [机器学习系统：设计和实现](https://openmlsys.github.io/)
     * [深度强化学习](https://deepreinforcementlearningbook.org/assets/pdfs/%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0(%E4%B8%AD%E6%96%87%E7%89%88-%E5%BD%A9%E8%89%B2%E5%8E%8B%E7%BC%A9).pdf)
     * [C语言教程](https://wangdoc.com/clang/intro)
+    * [书栈网](https://www.bookstack.cn/)
 
 
 * AI playground
