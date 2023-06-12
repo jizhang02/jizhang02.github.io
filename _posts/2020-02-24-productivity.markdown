@@ -83,6 +83,8 @@ Leave a comment if you know some awesome resources.
     * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
     * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+    * [Fundamentals of Machine Learning and Deep Learning in Medicine](https://link.springer.com/book/10.1007/978-3-031-19502-0)
+    * [Fundamentals of Nuclear Medicine Dosimetry](https://link.springer.com/book/10.1007/978-0-387-74579-4)
     * [Deep Learning (中文)](https://exacity.github.io/deeplearningbook-chinese/)
     * [机器学习系统：设计和实现](https://openmlsys.github.io/)
     * [深度强化学习](https://deepreinforcementlearningbook.org/assets/pdfs/%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0(%E4%B8%AD%E6%96%87%E7%89%88-%E5%BD%A9%E8%89%B2%E5%8E%8B%E7%BC%A9).pdf)
