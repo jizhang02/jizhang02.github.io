@@ -74,26 +74,23 @@ Leave a comment if you know some awesome resources.
     * [CrashCourse](https://crashcourse.club/category)
 
    
-* Blogs
-    * [Personnal website by Jack Cui](https://cuijiahua.com/), about Machine learning and Deep learning.
-    * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
-    * [Personnal website by Redstone](https://redstonewill.com/), Tutorial on various computer vision and deep learning.
-
-
 * Books
     * [Free programming books](https://github.com/EbookFoundation/free-programming-books), list of Free Learning Resources In Many Languages.
-    * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [Dive into Deep Learning](https://zh-v2.d2l.ai/)
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
     * [Think Python](https://wizardforcel.gitbooks.io/think-python-2e/content/index.html)
-    * [Deep Learning (Chinese)](https://exacity.github.io/deeplearningbook-chinese/)
     * [Deep Learning](https://www.deeplearningbook.org/)
     * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
     * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+    * [Deep Learning (中文)](https://exacity.github.io/deeplearningbook-chinese/)
     * [机器学习系统：设计和实现](https://openmlsys.github.io/)
     * [深度强化学习](https://deepreinforcementlearningbook.org/assets/pdfs/%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0(%E4%B8%AD%E6%96%87%E7%89%88-%E5%BD%A9%E8%89%B2%E5%8E%8B%E7%BC%A9).pdf)
     * [C语言教程](https://wangdoc.com/clang/intro)
+    * [深度学习中的数学](https://m.ituring.com.cn/book/2593)
+    * [深度学习入门：基于Python的理论与实现](https://m.ituring.com.cn/book/1921)
+    * [白话机器学习算法](https://m.ituring.com.cn/book/2618)
+    * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [书栈网](https://www.bookstack.cn/)
 
 
@@ -141,11 +138,6 @@ Leave a comment if you know some awesome resources.
     * [mindmaps](https://www.mindmaps.app/)
 
 
-* Social media
-    * [Slack](https://slack.com/)
-    * [Discord](https://discord.com/)
-
-
 * Code
     * [Gist](https://gist.github.com/), instantly share code, notes, and snippets.
     * [GitHub](https://www.github.com/)
@@ -165,5 +157,13 @@ Leave a comment if you know some awesome resources.
     * [Edge](https://www.microsoft.com/en-us/edge?exp=e01&ocid=ORSEARCH_Bing&form=MA13FJ), Edge browser.
     * [Zoom](https://zoom.us/)
     * [Anydesk](https://anydesk.com/en), a remote connection tool. 
+* Blogs
+    * [Personnal website by Jack Cui](https://cuijiahua.com/), about Machine learning and Deep learning.
+    * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
+    * [Personnal website by Redstone](https://redstonewill.com/), Tutorial on various computer vision and deep learning.
+
+* Social media
+    * [Slack](https://slack.com/)
+    * [Discord](https://discord.com/)
 
    
