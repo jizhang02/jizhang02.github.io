@@ -94,6 +94,7 @@ Leave a comment if you know some awesome resources.
     * [白话机器学习算法](https://m.ituring.com.cn/book/2618)
     * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [书栈网](https://www.bookstack.cn/)
+    * [Z-library](https://singlelogin.re/)
 
 
 * AI playground
