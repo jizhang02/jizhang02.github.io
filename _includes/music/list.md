@@ -25,6 +25,7 @@
 
 | Song's name | Artist | Elbum | Link |
 |------- | :-------:| :-------: | :-------: |
+| The Sound Of Silence | Simon & Garfunkel| Wednesday Morning, 3 A.M., 1964| [![YouTube Video Likes](https://img.shields.io/youtube/likes/DCtouot15cA?style=social)](https://www.youtube.com/watch?v=DCtouot15cA)     |
 | Someone like you | Adele| 21, 2011| [![YouTube Video Likes](https://img.shields.io/youtube/likes/hLQl3WQQoQ0?style=social)](https://www.youtube.com/watch?v=hLQl3WQQoQ0)     |
 
 
