@@ -13,6 +13,7 @@
 
 | Song's name | Artist | Elbum | Link |
 |------- | :-------:| :-------: | :-------: |
+| 人世间-A Lifelong Journey | 雷佳-Jia Lei| A Lifelong Journey, 2022| [![YouTube Video Likes](https://img.shields.io/youtube/likes/o1tludi1YeU?style=social)](https://www.youtube.com/watch?v=o1tludi1YeU)     |
 | 富士山下-Sorrow Is Meaningless | 陈奕迅-Eason Chan| What'S Going On...?, 2006| [![YouTube Video Likes](https://img.shields.io/youtube/likes/ghnT1uOwfrY?style=social)](https://www.youtube.com/watch?v=ghnT1uOwfrY)     |
 | 稻香-Rice Field | 周杰伦-Jay Chou| 魔杰座-Capricorn, 2008| [![YouTube Video Likes](https://img.shields.io/youtube/likes/sHD_z90ZKV0?style=social)](https://www.youtube.com/watch?v=sHD_z90ZKV0)     |
 | 真的爱你-Truly Love You | Beyond| Beyond IV, 1989| [![YouTube Video Likes](https://img.shields.io/youtube/likes/tjCHafQIhFk?style=social)](https://www.youtube.com/watch?v=tjCHafQIhFk)     |
@@ -33,7 +34,7 @@
 
 | Song's name | Artist | Elbum | Link |
 |------- | :-------:| :-------: | :-------: |
-| Whisper | Max Richter| 2018| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Vt6FoLPVam4?style=social)](https://www.youtube.com/watch?v=Vt6FoLPVam4)     |
+| Whisper | Max Richter| My brilliant friend, 2018| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Vt6FoLPVam4?style=social)](https://www.youtube.com/watch?v=Vt6FoLPVam4)     |
 | Westworld Theme | Ramin Djawadi| 2016| [![YouTube Video Likes](https://img.shields.io/youtube/likes/rYelEUVQ50g?style=social)](https://www.youtube.com/watch?v=rYelEUVQ50g)     |
 | Game of Thrones Theme | Ramin Djawadi| 2011| [![YouTube Video Likes](https://img.shields.io/youtube/likes/s7L2PVdrb_8?style=social)](https://www.youtube.com/watch?v=s7L2PVdrb_8)     |
 | Zorba's Dance | Mikis Theodorakis| 1964| [![YouTube Video Likes](https://img.shields.io/youtube/likes/kG12C1oX5Eo?style=social)](https://www.youtube.com/watch?v=kG12C1oX5Eo)     |
