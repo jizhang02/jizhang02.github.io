@@ -33,6 +33,9 @@
 
 | Song's name | Artist | Elbum | Link |
 |------- | :-------:| :-------: | :-------: |
+| Whisper | Max Richter| 2018| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Vt6FoLPVam4?style=social)](https://www.youtube.com/watch?v=Vt6FoLPVam4)     |
+| Westworld Theme | Ramin Djawadi| 2016| [![YouTube Video Likes](https://img.shields.io/youtube/likes/rYelEUVQ50g?style=social)](https://www.youtube.com/watch?v=rYelEUVQ50g)     |
+| Game of Thrones Theme | Ramin Djawadi| 2011| [![YouTube Video Likes](https://img.shields.io/youtube/likes/s7L2PVdrb_8?style=social)](https://www.youtube.com/watch?v=s7L2PVdrb_8)     |
 | Zorba's Dance | Mikis Theodorakis| 1964| [![YouTube Video Likes](https://img.shields.io/youtube/likes/kG12C1oX5Eo?style=social)](https://www.youtube.com/watch?v=kG12C1oX5Eo)     |
 | Friendships | Pascal Letoublon| 2017| [![YouTube Video Likes](https://img.shields.io/youtube/likes/mPmoojB54xI?style=social)](https://www.youtube.com/watch?v=mPmoojB54xI)     |
 
