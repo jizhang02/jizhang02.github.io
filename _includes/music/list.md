@@ -14,6 +14,7 @@
 | Song's name | Artist | Elbum-Year | Link |
 |------- | :-------:| :-------: | :-------: |
 | 人世间-A Lifelong Journey | 雷佳-Jia Lei| A Lifelong Journey, 2022| [![YouTube Video Likes](https://img.shields.io/youtube/likes/o1tludi1YeU?style=social)](https://www.youtube.com/watch?v=o1tludi1YeU)     |
+| 传说-Legend | 梅艳芳-Anita Mui | 千年女王-Queen Millennia, 1983| [![YouTube Video Likes](https://img.shields.io/youtube/likes/i3jue987XNk?style=social)](https://www.youtube.com/watch?v=i3jue987XNk)     |
 | 富士山下-Sorrow Is Meaningless | 陈奕迅-Eason Chan| What'S Going On...?, 2006| [![YouTube Video Likes](https://img.shields.io/youtube/likes/ghnT1uOwfrY?style=social)](https://www.youtube.com/watch?v=ghnT1uOwfrY)     |
 | 稻香-Rice Field | 周杰伦-Jay Chou| 魔杰座-Capricorn, 2008| [![YouTube Video Likes](https://img.shields.io/youtube/likes/sHD_z90ZKV0?style=social)](https://www.youtube.com/watch?v=sHD_z90ZKV0)     |
 | 真的爱你-Truly Love You | Beyond| Beyond IV, 1989| [![YouTube Video Likes](https://img.shields.io/youtube/likes/tjCHafQIhFk?style=social)](https://www.youtube.com/watch?v=tjCHafQIhFk)     |
