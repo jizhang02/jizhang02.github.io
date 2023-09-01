@@ -116,10 +116,13 @@ Leave a comment if you know some awesome resources.
     * [NeuralDivergence](http://haekyu.com/neural-divergence/)
     * [Weights & Biases](https://wandb.ai/site)
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
+    * [Bard](https://bard.google.com/)
+    * [Bing Chat](https://www.bing.com/search?form=NTPCHT&showconv=1&sendquery=1&q=bing)
     * [Chat with any PDF](https://www.chatpdf.com/)
     * [Segment Anything](https://segment-anything.com/)
     * [Ask-Anything](https://ask.opengvlab.com/), multifunctional video question answering tool
     * [SciSpace](https://typeset.io/), search the largest scientific corpus in the world.
+    * [Elicit](https://elicit.org/), ask a research question.
 
 
 * SoftwareTools
