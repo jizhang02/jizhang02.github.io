@@ -32,4 +32,7 @@ In this article, the author organize the journals and conferences about medical 
 |[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)|5.1|[EMBS](https://embc.embs.org/2022/)||
 |[Biocybernetics and Biomedical Engineering](https://www.sciencedirect.com/journal/biocybernetics-and-biomedical-engineering)|6.4|||
 |[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)|7.5|||
+|[European Journal of Nuclear Medicine and Molecular Imaging](https://www.springer.com/journal/259)|8.7|||
+|[Scientific Reports](https://www.nature.com/srep/)|4.6|||
+|[IEEE Transactions on Radiation and Plasma Medical Sciences](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433213)|4.4|||
 
