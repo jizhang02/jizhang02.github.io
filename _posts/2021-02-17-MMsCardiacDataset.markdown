@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      "MMs Cardiac Dataset with only ED and ES"
 subtitle:   "心脏数据集"
@@ -5,11 +6,9 @@ date:       2022-02-17
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
+    - Medical Imaging
 
-    - Computer Science
-        - Medical imaging
-
-
+---
 
 # MMs-Cardiac-Dataset-with-only-ED-and-ES
 
@@ -72,7 +71,6 @@ The pixelsize can be obtained by `itk_img.GetSpacing()`
 
 ---
 ### Download
-You can download the preprocessed data from one of the below links:    
+You can download the preprocessed data from the link below:    
 [Dropbox](https://www.dropbox.com/s/ywz2oruzgqvbaza/M%26Ms_EDES.zip?dl=0)    
-[Baiduyun](https://pan.baidu.com/s/1qNGrvvp1EzeZ9HQVBVobxQ) Extraction Code: MMss
 
