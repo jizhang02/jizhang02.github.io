@@ -71,7 +71,6 @@ The pixelsize can be obtained by `itk_img.GetSpacing()`
 
 ---
 ### Download
-You can download the preprocessed data from one of the below links:    
+You can download the preprocessed data from the link below:    
 [Dropbox](https://www.dropbox.com/s/ywz2oruzgqvbaza/M%26Ms_EDES.zip?dl=0)    
-[Baiduyun](https://pan.baidu.com/s/1qNGrvvp1EzeZ9HQVBVobxQ) Extraction Code: MMss
 
