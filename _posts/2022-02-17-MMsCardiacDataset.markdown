@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      "MMs Cardiac Dataset with only ED and ES"
 subtitle:   "心脏数据集"
@@ -5,11 +6,9 @@ date:       2022-02-17
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
+    - Medical Imaging
 
-    - Computer Science
-        - Medical imaging
-
-
+---
 
 # MMs-Cardiac-Dataset-with-only-ED-and-ES
 
