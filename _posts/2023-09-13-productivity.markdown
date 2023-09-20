@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
-date:       2020-02-24 11:47:00
+date:       2023-09-20 16:41:00
 author:     "Jing Zhang"
 header-img: "img/post-bg.jpg"
 tags:
@@ -43,15 +43,19 @@ Leave a comment if you know some awesome resources.
     * [AI Conference Deadline](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
 
 
-* Literature website
+* Literature helpers
     * [Semantic Scholar](https://www.semanticscholar.org/), a free, AI-powered research tool for scientific literature.
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
     * [Papers with code](https://paperswithcode.com/) 
-    * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barries in the way of science. 
+    * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barriers in the way of science. 
     * [Google Scholar](https://scholar.google.com/)
     * [Zotero](https://www.zotero.org/), personal research assistant.
     * [ResearchGate](https://www.researchgate.net/)
     * [Aminer](https://www.aminer.cn/)
+    * [ResearchRabbit](https://researchrabbitapp.com/home), “citation-based literature mapping tool” available online.
+    * [EasyScholar](https://www.easyscholar.cc/), browser add-on, 显示各种文献排名，并且提供翻译、文献收藏功能，助力科研.
+    * [X-MOL学术平台](https://www.x-mol.com/), 化学类网址导航, 化学软件和数据库导航.
+    * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 提供了包括专辑式文献管理, 论文元信息自动提取, 全文翻译等在内的论文阅读辅助功能.
 
    
 * Tutorials
@@ -123,6 +127,7 @@ Leave a comment if you know some awesome resources.
     * [Ask-Anything](https://ask.opengvlab.com/), multifunctional video question answering tool
     * [SciSpace](https://typeset.io/), search the largest scientific corpus in the world.
     * [Elicit](https://elicit.org/), ask a research question.
+    
 
 
 * SoftwareTools
