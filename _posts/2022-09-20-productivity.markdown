@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
-date:       2023-09-20
+date:       2022-09-20
 author:     "Jing Zhang"
 header-img: "img/post-bg.jpg"
 tags:
@@ -57,7 +57,7 @@ Leave a comment if you know some awesome resources.
     * [X-MOL学术平台](https://www.x-mol.com/), 化学类网址导航, 化学软件和数据库导航.
     * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 提供了包括专辑式文献管理, 论文元信息自动提取, 全文翻译等在内的论文阅读辅助功能.
 
-   
+
 * Tutorials
     * [CVPR 2020 Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
     * [Machine Learning Summer Schools](http://mlss.cc/index.html)
@@ -78,7 +78,7 @@ Leave a comment if you know some awesome resources.
     * [MOOC China](https://www.icourse163.org/)
     * [CrashCourse](https://crashcourse.club/category)
 
-   
+
 * Books
     * [Free programming books](https://github.com/EbookFoundation/free-programming-books), list of Free Learning Resources In Many Languages.
     * [Dive into Deep Learning](https://zh-v2.d2l.ai/)
