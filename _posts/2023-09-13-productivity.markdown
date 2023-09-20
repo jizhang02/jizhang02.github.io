@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
-date:       2023-09-20 16:41:00
+date:       2023-09-20
 author:     "Jing Zhang"
 header-img: "img/post-bg.jpg"
 tags:
