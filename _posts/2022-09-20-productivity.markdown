@@ -53,9 +53,9 @@ Leave a comment if you know some awesome resources.
     * [ResearchGate](https://www.researchgate.net/)
     * [Aminer](https://www.aminer.cn/)
     * [ResearchRabbit](https://researchrabbitapp.com/home), “citation-based literature mapping tool” available online.
-    * [EasyScholar](https://www.easyscholar.cc/), browser add-on, 显示各种文献排名，并且提供翻译、文献收藏功能，助力科研.
+    * [EasyScholar](https://www.easyscholar.cc/), browser add-on, 显示文献排名，并且提供翻译、文献收藏功能.
     * [X-MOL学术平台](https://www.x-mol.com/), 化学类网址导航, 化学软件和数据库导航.
-    * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 提供了包括专辑式文献管理, 论文元信息自动提取, 全文翻译等在内的论文阅读辅助功能.
+    * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 文献管理, 论文元信息提取, 全文翻译功能.
 
 
 * Tutorials
