@@ -29,8 +29,10 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
+ 
+  - Oct, 15th, 2023, [MICCAI-MMAC2023 Challenge](https://codalab.lisn.upsaclay.fr/competitions/12441) ranked 6th, 2nd, 1st in 3 tasks, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tnH_28ET7CL15OL7z?e=YpxQuB)
   - Apr, 25th, 2023, [Gate Scientific Meeting 2023](https://indico.in2p3.fr/event/28828/), Kraków, Poland
-  - Apr, 18th, 2023, The 4th place in ISBI2023 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis#news), team leader [Yihao Li](https://blog.csdn.net/qq_38736504?type=blog)
+  - Apr, 18th, 2023, The 4th place in ISBI2023 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis#news), [Slides](https://1drv.ms/p/s!ArS4irhKYi7tnH6elVZQff5T3Zd5?e=YJmgep)
   - May, 22th, 2022, Online Seminar (Chinese)，Explainable AI, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
   - Apr, 06th, 2022, Doctoral thesis defense, [News](https://www.litislab.fr/event/soutenance-these-jing-zhang), Rouen, France
   - Nov, 30th, 2020, LITIS [QUANTIF team](https://www.litislab.fr/equipe/quantif) Seminar, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tmV2DvVGjDY4adtEw?e=NMhDai), Rouen, France
