@@ -15,5 +15,5 @@ tags:
 
 ### Medical tasks profile with AI
 
-![MedAIprofile](/img/20230312-medai.png)
-![MedAIprofile](/img/20230525-treatment.jpeg)
+![MedAIprofile](/img/20231021-medai.jpeg)
+
