@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
-date:       2020-02-24 11:47:00
+date:       2022-09-20
 author:     "Jing Zhang"
 header-img: "img/post-bg.jpg"
 tags:
@@ -43,17 +43,21 @@ Leave a comment if you know some awesome resources.
     * [AI Conference Deadline](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
 
 
-* Literature website
+* Literature helpers
     * [Semantic Scholar](https://www.semanticscholar.org/), a free, AI-powered research tool for scientific literature.
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
     * [Papers with code](https://paperswithcode.com/) 
-    * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barries in the way of science. 
+    * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barriers in the way of science. 
     * [Google Scholar](https://scholar.google.com/)
     * [Zotero](https://www.zotero.org/), personal research assistant.
     * [ResearchGate](https://www.researchgate.net/)
     * [Aminer](https://www.aminer.cn/)
+    * [ResearchRabbit](https://researchrabbitapp.com/home), “citation-based literature mapping tool” available online.
+    * [EasyScholar](https://www.easyscholar.cc/), browser add-on, 显示文献排名，并且提供翻译、文献收藏功能.
+    * [X-MOL学术平台](https://www.x-mol.com/), 化学类网址导航, 化学软件和数据库导航.
+    * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 文献管理, 论文元信息提取, 全文翻译功能.
 
-   
+
 * Tutorials
     * [CVPR 2020 Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
     * [Machine Learning Summer Schools](http://mlss.cc/index.html)
@@ -74,7 +78,7 @@ Leave a comment if you know some awesome resources.
     * [MOOC China](https://www.icourse163.org/)
     * [CrashCourse](https://crashcourse.club/category)
 
-   
+
 * Books
     * [Free programming books](https://github.com/EbookFoundation/free-programming-books), list of Free Learning Resources In Many Languages.
     * [Dive into Deep Learning](https://zh-v2.d2l.ai/)
@@ -123,6 +127,7 @@ Leave a comment if you know some awesome resources.
     * [Ask-Anything](https://ask.opengvlab.com/), multifunctional video question answering tool
     * [SciSpace](https://typeset.io/), search the largest scientific corpus in the world.
     * [Elicit](https://elicit.org/), ask a research question.
+    
 
 
 * SoftwareTools

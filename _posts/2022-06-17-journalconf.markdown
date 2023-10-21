@@ -29,5 +29,10 @@ In this article, the author organize the journals and conferences about medical 
 |[Computer Methods in Biomechanics and Biomedical Engineering](https://www.tandfonline.com/journals/gcmb20)|1.763|[MIDL](https://www.midl.io/)|[Paper](https://2022.midl.io/orals.html)|
 |[Machine Learning for Biomedical Imaging](https://www.melba-journal.org/)||[SPIE Medical Imaging](https://spie.org/)|[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/browse/SPIE-Medical-Imaging/2022?webSyncID=47b2cbc5-4c5e-d83e-236b-3496633be23c&sessionGUID=d9c6c446-291c-5283-dcb1-18cc0bcd562e&_ga=2.112407559.2011702394.1655747257-1863397903.1655747257&cm_mc_uid=68212891915016557472566&cm_mc_sid_50300000=96110961655747256664&SSO=1), [Presentations](https://www.spiedigitallibrary.org/conference-presentations)|
 |[Multidisciplinary Digital Publishing Institute-MDPI](https://www.mdpi.com/)||[IPMI](http://ipmi2021.org/past-ipmis/)(every 2 ys)|[Paper](https://link.springer.com/conference/ipmi), [Poster](https://ipmi2021.org/poster-groups/)|
-|||[EMBS](https://embc.embs.org/2022/)||
+|[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)|5.1|[EMBS](https://embc.embs.org/2022/)||
+|[Biocybernetics and Biomedical Engineering](https://www.sciencedirect.com/journal/biocybernetics-and-biomedical-engineering)|6.4|||
+|[Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine)|7.5|||
+|[European Journal of Nuclear Medicine and Molecular Imaging](https://www.springer.com/journal/259)|8.7|||
+|[Scientific Reports](https://www.nature.com/srep/)|4.6|||
+|[IEEE Transactions on Radiation and Plasma Medical Sciences](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433213)|4.4|||
 
