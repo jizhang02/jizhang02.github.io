@@ -97,6 +97,7 @@ Leave a comment if you know some awesome resources.
     * [深度学习中的数学](https://m.ituring.com.cn/book/2593)
     * [深度学习入门：基于Python的理论与实现](https://m.ituring.com.cn/book/1921)
     * [白话机器学习算法](https://m.ituring.com.cn/book/2618)
+    * [LaTeX论文写作教程 (中文版)](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/version-1/chapter-0/tableofcontents.ipynb)
     * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [书栈网](https://www.bookstack.cn/)
     * [Z-library](https://singlelogin.re/)
