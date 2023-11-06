@@ -102,6 +102,7 @@ Leave a comment if you know some awesome resources.
     * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [书栈网](https://www.bookstack.cn/)
     * [Z-library](https://singlelogin.re/)
+    * [Anna’s Archive (annas-archive.gs)](https://annas-archive.gs/)
 
 
 * AI playground
