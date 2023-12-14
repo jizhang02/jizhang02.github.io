@@ -142,6 +142,7 @@ Leave a comment if you know some awesome resources.
     * [VSCode](https://code.visualstudio.com/), code editer
     * [PyCharm](https://www.jetbrains.com/pycharm/), code editer
     * [LibreOffice](https://www.libreoffice.org/), office tool
+    * [3D Viewer](https://3dviewer.net/), online 3D viewer
 
 * Mind maps online
     * [Canva](https://www.canva.com/graphs/mind-maps/)
