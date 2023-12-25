@@ -112,9 +112,9 @@ friends: [
     },{
         title: "NWAFU",
         href: "https://en.nwsuaf.edu.cn/"
-    # },{
-    #    title: "David's Game",
-    #    href: "https://www.ruoyaowu.com/"
+    },{
+        title: "Chinese Text",
+        href: "https://ctext.org/zhs"
     # },{
     #    title: "DHong Say",
     #    href: "http://dhong.co"
