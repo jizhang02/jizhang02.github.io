@@ -12,7 +12,8 @@
 ## Chinese songs
 
 | Song's name | Artist | Elbum-Year | Link |
-|------- | :-------:| :-------: | :-------: |
+|------- | -------| ------- | :-------: |
+| 笼-Cage| 张碧晨 Diamond| 消失的她-Lost in the stars, 2023| [![YouTube Video Likes](https://img.shields.io/youtube/likes/gPqfGpLxVIU?style=social)](https://www.youtube.com/watch?v=gPqfGpLxVIU)     |
 | 大梦-Big dream| 瓦依那/任素汐 Vareihnaz/Suxi Ren| 2023| [![YouTube Video Likes](https://img.shields.io/youtube/likes/EVEgwFnWhSM?style=social)](https://www.youtube.com/watch?v=EVEgwFnWhSM)     |
 | 曾经的你-Once you| 许巍-Wei Xu| 每一刻都是崭新的-Every moment is new, 2004| [![YouTube Video Likes](https://img.shields.io/youtube/likes/OU3kSSMLNvE?style=social)](https://www.youtube.com/watch?v=OU3kSSMLNvE)     |
 | 人世间-A Lifelong Journey | 雷佳-Jia Lei| A Lifelong Journey, 2022| [![YouTube Video Likes](https://img.shields.io/youtube/likes/o1tludi1YeU?style=social)](https://www.youtube.com/watch?v=o1tludi1YeU)     |
@@ -28,7 +29,9 @@
 ## Non-Chinese songs
 
 | Song's name | Artist | Elbum-Year | Link |
-|------- | :-------:| :-------: | :-------: |
+|------- | -------| ------- | :-------: |
+| Waiting For Love |  Avicii,  Simon Aldred |  Stories, 2015| [![YouTube Video Likes](https://img.shields.io/youtube/likes/cHHLHGNpCSA?style=social)](https://www.youtube.com/watch?v=cHHLHGNpCSA)     |
+| Gimme! Gimme! Gimme! |  ABBA | Mamma Mia! , 2008| [![YouTube Video Likes](https://img.shields.io/youtube/likes/XEjLoHdbVeE?style=social)](https://www.youtube.com/watch?v=XEjLoHdbVeE)     |
 | Que sera sera |  Doris Day | The Man Who Knew Too Much, 1955| [![YouTube Video Likes](https://img.shields.io/youtube/likes/CcWbZUgymkw?style=social)](https://www.youtube.com/watch?v=CcWbZUgymkw)     |
 | The Sound Of Silence | Simon & Garfunkel| Wednesday Morning, 3 A.M., 1964| [![YouTube Video Likes](https://img.shields.io/youtube/likes/DCtouot15cA?style=social)](https://www.youtube.com/watch?v=DCtouot15cA)     |
 | Someone like you | Adele| 21, 2011| [![YouTube Video Likes](https://img.shields.io/youtube/likes/hLQl3WQQoQ0?style=social)](https://www.youtube.com/watch?v=hLQl3WQQoQ0)     |
@@ -37,7 +40,7 @@
 ## Music with only instruments
 
 | Song's name | Artist | Elbum-Year | Link |
-|------- | :-------:| :-------: | :-------: |
+|------- | -------| ------- | :-------: |
 | 春节序曲 Spring Festival Ouverture | 李焕之 Huanzhi Li| Spring Festival Suite, 1955| [![YouTube Video Likes](https://img.shields.io/youtube/likes/BmiSku86YVg?style=social)](https://www.youtube.com/watch?v=BmiSku86YVg)     |
 | Whisper | Max Richter| My brilliant friend, 2018| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Vt6FoLPVam4?style=social)](https://www.youtube.com/watch?v=Vt6FoLPVam4)     |
 | Westworld Theme | Ramin Djawadi| 2016| [![YouTube Video Likes](https://img.shields.io/youtube/likes/rYelEUVQ50g?style=social)](https://www.youtube.com/watch?v=rYelEUVQ50g)     |
