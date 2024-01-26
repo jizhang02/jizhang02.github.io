@@ -25,7 +25,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
 #### 学术活动
-  - 2023年10月15日，[MICCAI-MMAC2023 竞赛](https://codalab.lisn.upsaclay.fr/competitions/12441) 三个任务中获得第六，第二，第一. [PPT](https://1drv.ms/b/s!ArS4irhKYi7tnH_28ET7CL15OL7z?e=YpxQuB)
+  - 2023年10月15日，[MICCAI-MMAC2023 竞赛](https://codalab.lisn.upsaclay.fr/competitions/12441) 三个任务中获得第六，第二，第一名. [PPT](https://1drv.ms/b/s!ArS4irhKYi7tnH_28ET7CL15OL7z?e=YpxQuB)
   - 2023年4月25日，[Gate Scientific Meeting 2023](https://indico.in2p3.fr/event/28828/)，克拉科夫，波兰
   - 2023年4月18日，ISBI2023竞赛 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis) 获得第四名，[PPT](https://1drv.ms/p/s!ArS4irhKYi7tnH6elVZQff5T3Zd5?e=YJmgep)
   - 2022年5月22日，中文线上研讨会，可解释的人工智能，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVSZOgt6cBC0ole9?e=n8q4rS) 
@@ -43,6 +43,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
   - 2016年6月，陕西省第三届研究生电子设计竞赛三等奖，西安，陕西，中国
   
 #### 学术成果
+- 2024 [Automated Detection of Myopic Maculopathy in MMAC 2023: Achievements in Classification, Segmentation, and Spherical Equivalent Prediction](https://arxiv.org/abs/2401.03615)). [`code`](https://github.com/jizhang02/MMAC_LaTIM_Solution)
 - 2022 [Segmentation-Based vs. Regression-Based Biomarker Estimation: A Case Study of Fetus Head Circumference Assessment from Ultrasound Images](https://www.mdpi.com/2313-433X/8/2/23). [`code`](https://github.com/jizhang02/HC-reg-seg)
 - 2020 [Explainability for Regression CNN in Fetal Head Circumference Estimation from Ultrasound Images](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_8). [`code`](https://github.com/jizhang02/XAI-reg)
 - 2020 [Direct estimation of fetal head circumference from ultrasound images based on regression CNN](https://openreview.net/forum?id=RwYqA6AjS). [`code`](https://github.com/jizhang02/HC-reg-seg)
