@@ -49,6 +49,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
   
 
 #### Publications
+- 2024 [Automated Detection of Myopic Maculopathy in MMAC 2023: Achievements in Classification, Segmentation, and Spherical Equivalent Prediction](https://arxiv.org/abs/2401.03615)). [`code`](https://github.com/jizhang02/MMAC_LaTIM_Solution)
 - 2022 [Segmentation-Based vs. Regression-Based Biomarker Estimation: A Case Study of Fetus Head Circumference Assessment from Ultrasound Images](https://www.mdpi.com/2313-433X/8/2/23). [`code`](https://github.com/jizhang02/HC-reg-seg)
 - 2020 [Explainability for Regression CNN in Fetal Head Circumference Estimation from Ultrasound Images](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_8). [`code`](https://github.com/jizhang02/XAI-reg)
 - 2020 [Direct estimation of fetal head circumference from ultrasound images based on regression CNN](https://openreview.net/forum?id=RwYqA6AjS). [`code`](https://github.com/jizhang02/HC-reg-seg)
