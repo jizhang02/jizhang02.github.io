@@ -131,6 +131,7 @@ Leave a comment if you know some awesome resources.
     * [SciSpace](https://typeset.io/), search the largest scientific corpus in the world.
     * [Elicit](https://elicit.org/), ask a research question.
     * [MyShell](https://app.myshell.ai/explore), an open ecosystem for AI Native Apps.
+    * [LLM Visualization](https://bbycroft.net/llm), visualization of large language model.
     
 
 
