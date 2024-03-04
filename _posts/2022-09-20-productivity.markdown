@@ -78,6 +78,7 @@ Leave a comment if you know some awesome resources.
     * [Courses of MIT](https://ocw.mit.edu/)
     * [MOOC China](https://www.icourse163.org/)
     * [CrashCourse](https://crashcourse.club/category)
+    * [LLM course]([mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (github.com)](https://github.com/mlabonne/llm-course))
 
 
 * Books
@@ -89,6 +90,7 @@ Leave a comment if you know some awesome resources.
     * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
     * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/)
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+    * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
     * [Fundamentals of Machine Learning and Deep Learning in Medicine](https://link.springer.com/book/10.1007/978-3-031-19502-0)
     * [Fundamentals of Nuclear Medicine Dosimetry](https://link.springer.com/book/10.1007/978-0-387-74579-4)
     * [Deep Learning (中文)](https://exacity.github.io/deeplearningbook-chinese/)
@@ -123,7 +125,7 @@ Leave a comment if you know some awesome resources.
     * [NeuralDivergence](http://haekyu.com/neural-divergence/)
     * [Weights & Biases](https://wandb.ai/site)
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
-    * [Bard](https://bard.google.com/)
+    * [Gemini](https://gemini.google.com/app)
     * [Bing Chat](https://www.bing.com/search?form=NTPCHT&showconv=1&sendquery=1&q=bing)
     * [Chat with any PDF](https://www.chatpdf.com/)
     * [Segment Anything](https://segment-anything.com/)
