@@ -34,6 +34,7 @@ Leave a comment if you know some awesome resources.
     * [Cambridge dictionary](https://dictionary.cambridge.org/us/dictionary/english/)
     * [Typst](https://typst.app/), alternative to LaTeX.
     * [Mathpix](https://snip.mathpix.com/search), convert image to LaTeX code.
+    * [SimpleIcons](https://simpleicons.org/), downloading Icons.
 
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
