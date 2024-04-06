@@ -13,6 +13,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| 破碎的完整-Shattered Fullness| 宋念宇 XiaoYu| 她和她的她-Shards of Her, 2022| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Fx3449cEohg?style=social)](https://www.youtube.com/watch?v=Fx3449cEohg)     |
 | 笼-Cage| 张碧晨 Diamond| 消失的她-Lost in the stars, 2023| [![YouTube Video Likes](https://img.shields.io/youtube/likes/gPqfGpLxVIU?style=social)](https://www.youtube.com/watch?v=gPqfGpLxVIU)     |
 | 大梦-Big dream| 瓦依那/任素汐 Vareihnaz/Suxi Ren| 2023| [![YouTube Video Likes](https://img.shields.io/youtube/likes/EVEgwFnWhSM?style=social)](https://www.youtube.com/watch?v=EVEgwFnWhSM)     |
 | 曾经的你-Once you| 许巍-Wei Xu| 每一刻都是崭新的-Every moment is new, 2004| [![YouTube Video Likes](https://img.shields.io/youtube/likes/OU3kSSMLNvE?style=social)](https://www.youtube.com/watch?v=OU3kSSMLNvE)     |
@@ -30,6 +31,8 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| Zombie |   The Cranberries |  No Need to Argue, 1994| [![YouTube Video Likes](https://img.shields.io/youtube/likes/6Ejga4kJUts?style=social)](https://www.youtube.com/watch?v=6Ejga4kJUts)     |
+| Sweet Dreams (Are Made of This) |  Eurythmics |  Sweet Dreams (Are Made of This), 1983| [![YouTube Video Likes](https://img.shields.io/youtube/likes/qeMFqkcPYcg?style=social)](https://www.youtube.com/watch?v=qeMFqkcPYcg)     |
 | Waiting For Love |  Avicii,  Simon Aldred |  Stories, 2015| [![YouTube Video Likes](https://img.shields.io/youtube/likes/cHHLHGNpCSA?style=social)](https://www.youtube.com/watch?v=cHHLHGNpCSA)     |
 | Gimme! Gimme! Gimme! |  ABBA | Mamma Mia! , 2008| [![YouTube Video Likes](https://img.shields.io/youtube/likes/XEjLoHdbVeE?style=social)](https://www.youtube.com/watch?v=XEjLoHdbVeE)     |
 | Que sera sera |  Doris Day | The Man Who Knew Too Much, 1955| [![YouTube Video Likes](https://img.shields.io/youtube/likes/CcWbZUgymkw?style=social)](https://www.youtube.com/watch?v=CcWbZUgymkw)     |
