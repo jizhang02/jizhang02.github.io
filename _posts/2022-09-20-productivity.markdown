@@ -72,6 +72,7 @@ Leave a comment if you know some awesome resources.
     * [W3Schools](https://www.w3schools.com/)
     * [菜鸟教程](https://www.runoob.com/)
     * [交互式图解人工智能](https://okai.brown.edu/zh/index.html)
+    * [Coding interview university](https://github.com/jwasham/coding-interview-university)
 
 * Open Courses
     * [Courses of Harvard University](https://pll.harvard.edu/catalog)
