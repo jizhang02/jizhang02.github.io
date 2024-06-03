@@ -127,6 +127,7 @@ Leave a comment if you know some awesome resources.
     * [Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations](https://fredhohman.com/summit/)
     * [NeuralDivergence](http://haekyu.com/neural-divergence/)
     * [Weights & Biases](https://wandb.ai/site)
+    * [GAN Lab](https://poloclub.github.io/ganlab/)
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
     * [Gemini](https://gemini.google.com/app)
     * [Bing Chat](https://www.bing.com/search?form=NTPCHT&showconv=1&sendquery=1&q=bing)
