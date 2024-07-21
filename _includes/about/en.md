@@ -30,6 +30,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 #### Scholar activities
  
+  - May, 30th, 2024, [ISBI2024-JustRAIGS Challenge](https://justraigs.grand-challenge.org/justraigs/) ranked 8th in 2 tasks.
   - Oct, 15th, 2023, [MICCAI-MMAC2023 Challenge](https://codalab.lisn.upsaclay.fr/competitions/12441) ranked 6th, 2nd, 1st in 3 tasks, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tnH_28ET7CL15OL7z?e=YpxQuB)
   - Apr, 25th, 2023, [Gate Scientific Meeting 2023](https://indico.in2p3.fr/event/28828/), Kraków, Poland
   - Apr, 18th, 2023, The 4th place in ISBI2023 [APIS Challenge](https://bivl2ab.uis.edu.co/challenges/apis#news), [Slides](https://1drv.ms/p/s!ArS4irhKYi7tnH6elVZQff5T3Zd5?e=YJmgep)
