@@ -74,6 +74,7 @@ Leave a comment if you know some awesome resources.
     * [交互式图解人工智能](https://okai.brown.edu/zh/index.html)
     * [Coding interview university](https://github.com/jwasham/coding-interview-university)
     * [Annotated Research Paper Implementations](https://nn.labml.ai/index.html)
+    * [动手学大模型](https://sjtullm.gitbook.io/dive-into-llms)
 
 * Open Courses
     * [Courses of Harvard University](https://pll.harvard.edu/catalog)
