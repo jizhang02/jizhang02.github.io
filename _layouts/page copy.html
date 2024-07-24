@@ -19,7 +19,7 @@ layout: default
 
 <!-- Main Content -->
 <div class="container">
-    <div class="row">
+	<div class="row">
         {% if site.sidebar == false %}
 <!-- NO SIDEBAR -->
     <!-- PostList Container -->
@@ -38,14 +38,14 @@ layout: default
                     <!-- no hr -->
                     <h5><a href="{{'/tags/' | prepend: site.baseurl }}">FEATURED TAGS</a></h5>
                     <div class="tags">
-                        {% for tag in site.tags %}
+        				{% for tag in site.tags %}
                             {% if tag[1].size > {{site.featured-condition-size}} %}
-                                <a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
+                				<a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
                                     {{ tag[0] }}
                                 </a>
                             {% endif %}
-                        {% endfor %}
-                    </div>
+        				{% endfor %}
+        			</div>
                 </section>
                 {% endif %}
 
@@ -59,27 +59,20 @@ layout: default
                     {% endfor %}
                 </ul>
                 {% endif %}
-                
-                <!-- Calendar -->
-                <hr>
-                <h5>MY CALENDAR</h5>
-                <ul class="list-inline">
-                    <li><a href="https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/b5ec6629-5938-4eb5-ad24-0b4547443e1e/cid-ED2E624AB88AB8B4/index.html" target="_blank">View my Calendar</a></li>
-                </ul>
             </div>
         {% else %}
 
 <!-- USE SIDEBAR -->
     <!-- PostList Container -->
-            <div class="
+    		<div class="
                 col-lg-8 col-lg-offset-1
                 col-md-8 col-md-offset-1
                 col-sm-12
                 col-xs-12
                 postlist-container
             ">
-                {{ content }}
-            </div>
+    			{{ content }}
+    		</div>
     <!-- Sidebar Container -->
             <div class="
                 col-lg-3 col-lg-offset-0
@@ -187,8 +180,8 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-               
-               {% if site.googlescholar_username %}
+			   
+			    {% if site.googlescholar_username %}
                             <li>
                                 <a target="_blank" href="https://scholar.google.com/{{ site.googlescholar_username }}">
                                     <span class="fa-stack fa-lg">
@@ -198,7 +191,7 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-                
+				
                              <li>
                                 <a target="_blank" href="https://myfoto.onrender.com/">
                                     <span class="fa-stack fa-lg">
@@ -220,9 +213,7 @@ layout: default
                     {% endfor %}
                 </ul>
                 {% endif %}
-                
-                <!-- Calendar -->
-                <hr>
-                <h5>MY CALENDAR</h5>
-                <ul class="list-inline">
-                    <li><a href="https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/b5ec6629-5938-4eb5-ad24-
+    		</div>
+        {% endif %}
+	</div>
+</div>
