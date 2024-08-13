@@ -75,6 +75,7 @@ Leave a comment if you know some awesome resources.
     * [Coding interview university](https://github.com/jwasham/coding-interview-university)
     * [Annotated Research Paper Implementations](https://nn.labml.ai/index.html)
     * [动手学大模型](https://sjtullm.gitbook.io/dive-into-llms)
+    * [Project based learning](https://github.com/practical-tutorials/project-based-learning)
 
 * Open Courses
     * [Courses of Harvard University](https://pll.harvard.edu/catalog)
@@ -141,6 +142,7 @@ Leave a comment if you know some awesome resources.
     * [MyShell](https://app.myshell.ai/explore), an open ecosystem for AI Native Apps.
     * [LLM Visualization](https://bbycroft.net/llm), visualization of large language model.
     * [Kimi](https://kimi.moonshot.cn/)
+    * [Transformer Explainer](https://github.com/poloclub/transformer-explainer)
     
 
 
@@ -155,7 +157,7 @@ Leave a comment if you know some awesome resources.
     * [LibreOffice](https://www.libreoffice.org/), office tool
     * [3D Viewer](https://3dviewer.net/), online 3D viewer
 
-* Mind maps online
+* Graphs online
     * [Canva](https://www.canva.com/graphs/mind-maps/)
     * [MindMeister](https://www.mindmeister.com/)
     * [MindMup](https://www.mindmup.com/)
@@ -163,6 +165,8 @@ Leave a comment if you know some awesome resources.
     * [Coggle](https://coggle.it/)
     * [GitMind](https://gitmind.com/)
     * [mindmaps](https://www.mindmaps.app/)
+    * [Mermaid](https://mermaid.js.org/)
+    * [Excalidraw](https://github.com/excalidraw/excalidraw)
 
 
 * Code
