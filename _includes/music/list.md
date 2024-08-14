@@ -31,6 +31,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| Freed from Desire |   Gala |   Come into My Life, 1997| [![YouTube Video Likes](https://img.shields.io/youtube/likes/p3l7fgvrEKM?style=social)](https://www.youtube.com/watch?v=p3l7fgvrEKM)     |
 | Stronger |   Britney Spears |   Oops!... I Did It Again, 2000| [![YouTube Video Likes](https://img.shields.io/youtube/likes/jORl6JYBUyY?style=social)](https://www.youtube.com/watch?v=jORl6JYBUyY)     |
 | Zombie |   The Cranberries |  No Need to Argue, 1994| [![YouTube Video Likes](https://img.shields.io/youtube/likes/6Ejga4kJUts?style=social)](https://www.youtube.com/watch?v=6Ejga4kJUts)     |
 | Sweet Dreams (Are Made of This) |  Eurythmics |  Sweet Dreams (Are Made of This), 1983| [![YouTube Video Likes](https://img.shields.io/youtube/likes/qeMFqkcPYcg?style=social)](https://www.youtube.com/watch?v=qeMFqkcPYcg)     |
