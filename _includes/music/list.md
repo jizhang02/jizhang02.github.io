@@ -13,6 +13,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| 阳光彩虹小白马-Sunshine, Rainbow, White pony| 大张伟 Wowkie Zhang| 2018| [![YouTube Video Likes](https://img.shields.io/youtube/likes/YG4iTGjuoKw?style=social)](https://www.youtube.com/watch?v=YG4iTGjuoKw)     |
 | 破碎的完整-Shattered Fullness| 宋念宇 XiaoYu| 她和她的她-Shards of Her, 2022| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Fx3449cEohg?style=social)](https://www.youtube.com/watch?v=Fx3449cEohg)     |
 | 笼-Cage| 张碧晨 Diamond| 消失的她-Lost in the stars, 2023| [![YouTube Video Likes](https://img.shields.io/youtube/likes/gPqfGpLxVIU?style=social)](https://www.youtube.com/watch?v=gPqfGpLxVIU)     |
 | 大梦-Big dream| 瓦依那/任素汐 Vareihnaz/Suxi Ren| 2023| [![YouTube Video Likes](https://img.shields.io/youtube/likes/EVEgwFnWhSM?style=social)](https://www.youtube.com/watch?v=EVEgwFnWhSM)     |
