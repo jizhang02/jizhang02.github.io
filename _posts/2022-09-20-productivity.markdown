@@ -54,6 +54,7 @@ Leave a comment if you know some awesome resources.
     * [ResearchGate](https://www.researchgate.net/)
     * [Aminer](https://www.aminer.cn/)
     * [ResearchRabbit](https://researchrabbitapp.com/home), “citation-based literature mapping tool” available online.
+    * [AlphaXiv](https://www.alphaxiv.org/), a forum for anyone to comment line-by-line on arXiv papers.
     * [EasyScholar](https://www.easyscholar.cc/), browser add-on, 显示文献排名，并且提供翻译、文献收藏功能.
     * [X-MOL学术平台](https://www.x-mol.com/), 化学类网址导航, 化学软件和数据库导航.
     * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 文献管理, 论文元信息提取, 全文翻译功能.
@@ -188,7 +189,10 @@ Leave a comment if you know some awesome resources.
     * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
     * [Edge](https://www.microsoft.com/en-us/edge?exp=e01&ocid=ORSEARCH_Bing&form=MA13FJ), Edge browser.
     * [Zoom](https://zoom.us/)
-    * [Anydesk](https://anydesk.com/en), a remote connection tool. 
+    * [Anydesk](https://anydesk.com/en), a remote connection tool.
+    * [AnyViewer](https://www.anyviewer.com/), a remote connection tool.
+
+      
 * Blogs
     * [Personnal website by Jack Cui](https://cuijiahua.com/), about Machine learning and Deep learning.
     * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
