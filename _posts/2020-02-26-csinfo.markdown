@@ -18,7 +18,7 @@ tags:
 This blog has collected some information about some companies, institutes and universities focusing on computer science and technology.
 
 
-## Laboratories and scholars
+## Laboratories & Institutions
 * [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm)， 北京，Beijing
 * [鹏程实验室](http://www.pcl.ac.cn/)， 深圳，Shenzhen
 * [深圳湾实验室](https://www.szbl.ac.cn/index.aspx)， 深圳，Shenzhen
@@ -28,48 +28,51 @@ This blog has collected some information about some companies, institutes and un
 * [Litis (Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes)](http://www.litislab.fr/), Rouen, France.
 * [LaTIM (laboratoire de traitement de l’information médicale)](https://latim.univ-brest.fr/), Brest, France.
 * [Creatis(Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé)](https://www.creatis.insa-lyon.fr/site7/en), Lyon, France.
-* [Dr. Wojciech Samek](http://iphome.hhi.de/samek/), Berlin, Germany.
 * [Heatmapping](http://www.heatmapping.org/), This webpage aims to regroup publications and software produced as part of a joint project at Fraunhofer HHI, TU Berlin and SUTD Singapore on developing new method to understand nonlinear predictions of state-of-the-art machine learning models. 
-* [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/), Harvard University, USA.
 * [Smart Medical Imaging](https://www.imagingcdt.com/), London, England.
 * [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/), London, England.
-* [邱锡鹏](https://xpqiu.github.io/index.html), Fudan Universtiy, Shanghai, China.
-* [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), The Chinese University of Hong Kong, Hongkong, China.
 * [MIRACLE](http://miracle.ict.ac.cn/?page_id=2&lang=zh) The Medical Imaging, Robotics, Analytical Computing Laboratory & Engineering (MIRACLE) group, a part of the Key Laboratory of Intelligent Information Processing of the Chinese Academy of Sciences, was established in June 2018. 
-* [Computer Science Rankings](http://csrankings.org/#/index?vision&graph&world) CSRankings is a metrics-based ranking of top computer science institutions around the world.
 * [MUSIC](http://www.music-bme.net/),SHENZHEN UNIVERSITY HEALTH SCIENCE CENTER SCHOOL OF BIOMEDICAL ENGINEERING
 * [CBICA](https://www.med.upenn.edu/cbica/), Center for Biomedical Image Computing & Analytics, University of Pennsylvania, USA.
 * [DeepMind](https://deepmind.com/), London, United Kingdom.
 * [User Interface Research Group, IGARASHI Lab](https://www-ui.is.s.u-tokyo.ac.jp/en/), Tokyo, Japan.
-* [Wang Shusen](http://wangshusen.github.io/index.html), USA. p.s His [tutorial](https://www.youtube.com/channel/UC9qKcEgXHPFP2-ywYoA-E0Q) is very good. 
 * [MIPAV](http://www.mipav.net/), Suzhou, China. Medical Image Processing， Analysis and Visualization, MIPAV. 苏州大学医学影响处理与分析实验室
 * [Key Laboratory of Molecular Imaging, Chinese Academy of Sciences](http://www.3dmed.net/), Beijing, China.中科院分子影像重点实验室    
 * [BMEC](https://bmec.ustc.edu.cn/), Hefei, China. 中科大医学影像中心
 * [BEIJING INSTITUTE OF BIG DATA RESEARCH](http://www.bibdr.org/), Beijing, China. 北京大数据研究院    
-* [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China. 上海人工智能实验室    
+* [Developing Brain Computing Lab](http://liwang.web.unc.edu/), North Carolina, USA. 
+* [MICS](http://www.mics.net.cn/Index/index.html), Medical Imaging Computing Seminar, 医学图像计算青年研讨会.
+* [Artificial Intelligence Doctoral Academy](http://www.i-aida.org/), European projects.
+* [Graph deep learning](https://graphdeeplearning.github.io/), National University of Singapore, Singapore.
+* [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/), Shen Dinggang, Shanghai, China.
+* [CITI](https://citi-imr.sjtu.edu.cn/index.html), Shanghai Jiaotong University, China.
+* [AIM (Institute for Artificial Intelligence in Medicine)](https://aim.nuist.edu.cn/), Nanjing, China.
+
+## Scholars
+* [Dr. Wojciech Samek](http://iphome.hhi.de/samek/), Berlin, Germany.
+* [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/), Harvard University, USA.
+* [邱锡鹏](https://xpqiu.github.io/index.html), Fudan Universtiy, Shanghai, China.
+* [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), The Chinese University of Hong Kong, Hongkong, China.
+* [Computer Science Rankings](http://csrankings.org/#/index?vision&graph&world) CSRankings is a metrics-based ranking of top computer science institutions around the world.
+* [Wang Shusen](http://wangshusen.github.io/index.html), USA. p.s His [tutorial](https://www.youtube.com/channel/UC9qKcEgXHPFP2-ywYoA-E0Q) is very good. 
 * [Artificial Intelligence and Biomedical Image Analysis Lab](https://www.yanglinlab.com/), Hangzhou, China. 杨林实验室-人工智能与生物医学影响实验室
 * [Thierry Denoeux](https://www.hds.utc.fr/~tdenoeux/dokuwiki/en/start), Compiègne, France. Professor in Belief Functions.
 * [Kaiming He](http://kaiminghe.com/), USA.
 * [Zhifan Gao](https://zhifan-gao.github.io/index.html), Sun Yat-sen University, Guangzhou, China. 
 * [杨杰](https://person.zju.edu.cn/jieyang#0), Hangzhou, Zhejiang University, China
-* [Developing Brain Computing Lab](http://liwang.web.unc.edu/), North Carolina, USA. 
 * [Chunhua Shen](https://cshen.github.io/), Adelaide, Australia.
 * [张拳石](http://qszhang.com/),  Shanghai Jiao Tong University, Shanghai, China.
 * [叶初阳](https://chuyangye.wixsite.com/website), Beijing Institute of Technology, Beijing, China.
 * [隋婧](http://people.ucas.ac.cn/~suijing), Chinese Academy of Sciences, Beijing, China.
 * [夏勇](https://teacher.nwpu.edu.cn/yongxia.html), Northwestern Polytechnical University, Xi’an, China.
-* [MICS](http://www.mics.net.cn/Index/index.html), Medical Imaging Computing Seminar, 医学图像计算青年研讨会.
 * [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/), INRIA, France.
-* [Artificial Intelligence Doctoral Academy](http://www.i-aida.org/), European projects.
 * [雷柏英](http://bme.szu.edu.cn/20181/0612/66.html), Shenzhen University Health Science Center, Shenzhen, China.
 * [李霄霄](https://xxlya.github.io/xiaoxiao/), UBC, Canada.    
 * [洪义](https://cs.sjtu.edu.cn/~yihong/), Shanghai Jiao Tong University, Shanghai, China.    
 * [李小萌](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=xiaomeng-li-eexmli#researchinterest), The Chinese University of Hong Kong, Hong Kong, China.
 * [曹国华](https://bme.shanghaitech.edu.cn/2021/0326/c8204a72503/page.htm), ShanghaiTech University， Shanghai, China.
 * [Veronika Cheplygina](https://veronikach.com/), IT University of Copenhagen, Denmark.
-* [Graph deep learning](https://graphdeeplearning.github.io/), National University of Singapore, Singapore.
 * [许永超](https://sites.google.com/view/yongchaoxu/home), Wuhan University, China.
-* [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/), Shen Dinggang, Shanghai, China.
 * [陈浩](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hao-chen-jhc), The Chinese University of Hong Kong, Hong Kong, China.
 * [张帆](https://scholar.harvard.edu/fanzhang), Harvard Medical School and Brigham and Women's Hospital, USA.
 * [李宏明](https://www.med.upenn.edu/cbica/aibil/hli.html), University of Pennsylvania, USA.
@@ -86,10 +89,9 @@ This blog has collected some information about some companies, institutes and un
 * [李响](https://xiangli-shaun.github.io/), Instructor in Investigation, Massachusetts General Hospital and Harvard Medical School, USA.
 * [闫平昆](https://dial.rpi.edu/people/pingkun-yan), Rensselaer Polytechnic Institute, USA.
 * [刘天明](https://cobweb.cs.uga.edu/~tliu/), University of Georgia, USA.
-* [CITI](https://citi-imr.sjtu.edu.cn/index.html), Shanghai Jiaotong University, China.
 * [张轶哲](https://yizhezhang.com/), Nanjing University of Science and Technology, China.
-* [AIM (Institute for Artificial Intelligence in Medicine)](https://aim.nuist.edu.cn/), Nanjing, China.
-## Companies
+
+## AI or Medical Companies
 * [柏视医疗](https://www.pvmedtech.com/index.html)，广州，Guangzhou
 * [腾讯觅影](https://miying.qq.com/official/)，深圳，Shenzhen
 * [商汤](https://www.sensetime.com/cn)，北京，Beijing
@@ -116,34 +118,62 @@ This blog has collected some information about some companies, institutes and un
 * [Intuitive Surgical](https://www.intuitive.com/zh-tw), US
 
 
-## Universities
-### [中国大陆高等学校列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%88%97%E8%A1%A8)
-
-### 内蒙古 Inner Mongolia
-* [内蒙古大学](http://www.imu.edu.cn/info/1032/1340.htm)，呼和浩特，Huhhot
-### 陕西 Shaanxi
-* [西北农林科技大学](https://cie.nwafu.edu.cn/dtytz/tzgg/437370.htm)，杨凌，Yangling
-* [西安交通大学](http://www.aiar.xjtu.edu.cn/info/1005/1484.htm)，西安，Xi'an
-* [西北工业大学](http://renshi.nwpu.edu.cn/info/1261/5539.htm)，西安，Xi'an
-* [西安电子科技大学](https://rsc.xidian.edu.cn/html/zhaopin/jsgw/2020/0218/3178.html)，西安，Xi'an
-* [西安电子科技大学，人工智能学院](http://sai.xidian.edu.cn/info/1008/4482.htm)，西安，Xi'an
-* [长安大学](http://zp.chd.edu.cn/base/frame/recruitNotice.jsp)，西安，Xi'an
-* [陕西师范大学](http://ccs.snnu.edu.cn/info/1162/5714.htm)，西安，Xi'an
-* [西北大学](http://rsc.nwu.edu.cn/home/index/article/mid/459/id/253359.html)，西安，Xi'an
-* [陕西科技大学](http://rsc.www.sust.edu.cn/info/1013/1569.htm)，西安，Xi'an
-### 浙江 Zhejiang
-* [西湖大学](https://www.westlake.edu.cn/)，杭州，Hangzhou
-### 江苏 Jiangsu
-* [徐州医学院-医学信息学院](https://xxxy.xzhmu.edu.cn/index.jsp)，徐州，Xuzhou
-### 广东 Guangdong
-* [中山大学](http://sdcs.sysu.edu.cn/)，广州，Guangzhou
-* [中山大学智能工程学院](http://ise.sysu.edu.cn/rs/rs01/1383196.htm)，广州，Guangzhou
-* [暨南大学](https://xxxy2016.jnu.edu.cn/Category_47/Index.aspx)，广州，Guangzhou
-* [汕头大学](http://job.stu.edu.cn/engage_job/positionDetail.aspx?jobID=827)，汕头，Shantou
-* [华南理工大学](http://www2.scut.edu.cn/hr/2019/0506/c4457a317013/page.htm)，广州，Guangzhou
-* [深圳大学人力资源部](https://hr.szu.edu.cn/rczp1.htm)，深圳，Shenzhen
-### 四川 Sichuan
+## CS, AI or Interdisciplinary colleges
+* [中国科学技术大学人工智能与数据科学学院](https://saids.ustc.edu.cn/main.htm)，合肥，Hefei
+* [中国科学技术大学苏州高等研究院](https://sz.ustc.edu.cn/index.html)，苏州，Suzhou
+* [北京大学人工智能研究院](https://www.ai.pku.edu.cn/index.htm)，北京，Beijing
+* [北京航空航天大学人工智能学院](https://iai.buaa.edu.cn/index.htm)，北京，Beijing
+* [北京理工大学医学技术学院](https://smt.bit.edu.cn/)，北京，Beijing
+* [重庆大学大数据与软件学院](http://www.cse.cqu.edu.cn/index.htm)，重庆，Chongqing
+* [西南大学人工智能学院](http://ai.swu.edu.cn/index.htm)，重庆，Chongqing
+* [贵州大学大数据与信息工程学院](http://eie.gzu.edu.cn/main.htm)，贵州，Guizhou
+* [兰州大学信息科学与工程学院](https://xxxy.lzu.edu.cn/)，兰州，Lanzhou
+* [东南大学人工智能学院](https://ai.seu.edu.cn/)，南京，Nanjing
+* [南京大学人工智能学院](https://ai.nju.edu.cn/main.htm)，南京，Nanjing
+* [南京航空航天大学人工智能学院](https://ai.nuaa.edu.cn/)，南京，Nanjing
+* [南京理工大学计算机科学与工程学院](https://cs.njust.edu.cn/)，南京，Nanjing
+* [南昌大学信息工程学院](http://ie.ncu.edu.cn/)，南昌，Nanchang
+* [东北大学信息科学与工程学院](http://www.ise.neu.edu.cn/main.htm)，沈阳，Shenyang
+* [大连理工大学未来技术学院/人工智能学院](https://futureschool.dlut.edu.cn/index.htm)，大连，Dalian
 * [电子科技大学视觉智能研究中心](https://medialab.uestc.edu.cn/)，成都，Chengdu
 * [电子科技大学智慧医疗实验室](https://faculty.uestc.edu.cn/HiLab/zh_CN/index.htm)，成都，Chengdu
-### 上海 Shanghai
+* [四川大学计算机学院](https://cs.scu.edu.cn/index.htm)，成都，Chengdu
+* [吉林大学人工智能学院](https://sai.jlu.edu.cn/index.htm)，长春，Changchun
+* [哈尔滨工业大学计算学部](https://computing.hit.edu.cn/main.htm)，哈尔滨，Harbin
+* [哈尔滨工程大学计算机科学与技术学院](https://cstc.hrbeu.edu.cn/main.htm)，哈尔滨，Harbin
+* [华中科技大学人工智能与自动化学院](https://aia.hust.edu.cn/)，武汉，Wuhan
+* [武汉大学计算机学院](https://cs.whu.edu.cn/index.htm)，武汉，Wuhan
+* [湖南大学生命医学交叉研究院](https://smyjy.hnu.edu.cn/index.htm)，长沙，Changsha
+* [中南大学计算机学院](https://cse.csu.edu.cn/index.htm)，长沙，Changsha
+* [山东大学人工智能国际联合研究院](https://cfair.sdu.edu.cn/JOIN_US/jrwm.htm)，济南，Jinan
+* [山东大学计算机科学与技术学院](https://www.cs.sdu.edu.cn/index.htm)，青岛，Qingdao
 * [上海科技大学生物医学工程学院](https://bme.shanghaitech.edu.cn/)，上海，Shanghai
+* [东华大学生物与医学工程学院](https://cbm.dhu.edu.cn/)，上海，Shanghai
+* [东华大学计算机科学与技术学院](https://cst.dhu.edu.cn/)，上海，Shanghai
+* [复旦大学大数据学院](https://sds.fudan.edu.cn/main.htm)，上海，Shanghai
+* [同济大学电子与信息工程学院](https://see.tongji.edu.cn/)，上海，Shanghai
+* [太原理工大学计算机科学与技术学院](https://ccst.tyut.edu.cn/index.htm)，山西，Shanxi
+* [南开大学人工智能学院](https://ai.nankai.edu.cn/index.htm)，天津，Tianjin
+* [天津大学智能与计算学部](https://cic.tju.edu.cn/)，天津，Tianjin
+* [西安交通大学人工智能学院](http://www.aiar.xjtu.edu.cn/index.htm)，西安，Xi'an
+* [西北工业大学计算机学院](https://jsj.nwpu.edu.cn/index.htm)，西安，Xi'an
+* [西北工业大学光电与智能研究院](https://iopen.nwpu.edu.cn/index.htm)，西安，Xi'an
+* [西北农林科技大学信息工程学院](https://cie.nwafu.edu.cn/)，杨凌，Yangling
+* [西安电子科技大学人工智能学院](https://sai.xidian.edu.cn/index.htm)，西安，Xi'an
+* [长安大学数据科学与人工智能研究院](https://dsai.chd.edu.cn/index.htm)，西安，Xi'an
+* [陕西科技大学电子信息与人工智能学院](http://dianzhi.www.sust.edu.cn/)，西安，Xi'an
+* [厦门大学信息学院](https://informatics.xmu.edu.cn/)，厦门，Xiamen
+* [西湖大学](https://www.westlake.edu.cn/)，杭州，Hangzhou
+* [宁波东方理工大学](https://www.eitech.edu.cn/)，宁波，Ningbo
+* [徐州医学院-医学信息学院](https://xxxy.xzhmu.edu.cn/index.jsp)，徐州，Xuzhou
+* [中山大学智能工程学院](http://ise.sysu.edu.cn/rs/rs01/1383196.htm)，广州，Guangzhou
+* [中山大学人工智能学院](https://sai.sysu.edu.cn/index.htm)，珠海，Zhuhai
+* [暨南大学智能科学与工程学院](https://sisse.jnu.edu.cn/_s328/main.psp)，珠海，Zhuhai
+* [汕头大学](http://job.stu.edu.cn/engage_job/positionDetail.aspx?jobID=827)，汕头，Shantou
+* [华南理工大学](http://www2.scut.edu.cn/hr/2019/0506/c4457a317013/page.htm)，广州，Guangzhou
+* [深圳大学医学部生物医学工程学院](http://bme.szu.edu.cn/index.html)，深圳，Shenzhen
+* [郑州大学计算机与人工智能学院](http://www7.zzu.edu.cn/csai/)，郑州，Zhengzhou
+
+
+
+🏫 [中国大陆高等学校列表](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%88%97%E8%A1%A8)
