@@ -77,6 +77,7 @@ Leave a comment if you know some awesome resources.
     * [Annotated Research Paper Implementations](https://nn.labml.ai/index.html)
     * [动手学大模型](https://sjtullm.gitbook.io/dive-into-llms)
     * [Project based learning](https://github.com/practical-tutorials/project-based-learning)
+    * [Scientific Python Lectures](https://lectures.scientific-python.org/)
 
 * Open Courses
     * [Courses of Harvard University](https://pll.harvard.edu/catalog)
