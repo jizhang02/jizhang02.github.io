@@ -145,6 +145,7 @@ Leave a comment if you know some awesome resources.
     * [LLM Visualization](https://bbycroft.net/llm), visualization of large language model.
     * [Kimi](https://kimi.moonshot.cn/)
     * [Transformer Explainer](https://github.com/poloclub/transformer-explainer)
+    * [Netron](https://netron.app/), Visualizer for neural network.
     
 
 
