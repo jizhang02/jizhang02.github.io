@@ -37,6 +37,7 @@ This blog has collected some information about some companies, institutes and un
 * [DeepMind](https://deepmind.com/), London, United Kingdom.
 * [User Interface Research Group, IGARASHI Lab](https://www-ui.is.s.u-tokyo.ac.jp/en/), Tokyo, Japan.
 * [MIPAV](http://www.mipav.net/), Suzhou, China. Medical Image Processing， Analysis and Visualization, MIPAV. 苏州大学医学影响处理与分析实验室
+* [苏州医工所](https://sibet.cas.cn/), Suzhou, China.
 * [Key Laboratory of Molecular Imaging, Chinese Academy of Sciences](http://www.3dmed.net/), Beijing, China.中科院分子影像重点实验室    
 * [BMEC](https://bmec.ustc.edu.cn/), Hefei, China. 中科大医学影像中心
 * [BEIJING INSTITUTE OF BIG DATA RESEARCH](http://www.bibdr.org/), Beijing, China. 北京大数据研究院    
