@@ -146,6 +146,10 @@ Leave a comment if you know some awesome resources.
     * [Kimi](https://kimi.moonshot.cn/)
     * [Transformer Explainer](https://github.com/poloclub/transformer-explainer)
     * [Netron](https://netron.app/), Visualizer for neural network.
+    * [AutoKeras](https://autokeras.com/), an AutoML system based on Keras.
+    * [Auto-Sklearn](https://github.com/automl/auto-sklearn/), an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
+    * [Featuretools](https://www.featuretools.com/), an open source python framework for automated feature engineering.
+    * [TPOT2](https://epistasislab.github.io/tpot2/), a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
     
 
 
