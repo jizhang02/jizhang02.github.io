@@ -35,6 +35,8 @@ Leave a comment if you know some awesome resources.
     * [Typst](https://typst.app/), alternative to LaTeX.
     * [Mathpix](https://snip.mathpix.com/search), convert image to LaTeX code.
     * [SimpleIcons](https://simpleicons.org/), downloading Icons.
+    * [Markdonw-badges](https://github.com/Ileriayo/markdown-badges), badges for your personal developer branding, profile, and projects.
+    * [](https://typora.io/), markdown editer.
 
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
