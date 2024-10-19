@@ -13,6 +13,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| 红豆-Red Bean| 王菲 Faye Wong| 唱遊-Sing and Play, 1998| [![YouTube Video Likes](https://img.shields.io/youtube/likes/5wmfXve11rM?style=social)](https://www.youtube.com/watch?v=5wmfXve11rM)     |
 | 阳光彩虹小白马-Sunshine, Rainbow, White pony| 大张伟 Wowkie Zhang| 2018| [![YouTube Video Likes](https://img.shields.io/youtube/likes/YG4iTGjuoKw?style=social)](https://www.youtube.com/watch?v=YG4iTGjuoKw)     |
 | 破碎的完整-Shattered Fullness| 宋念宇 XiaoYu| 她和她的她-Shards of Her, 2022| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Fx3449cEohg?style=social)](https://www.youtube.com/watch?v=Fx3449cEohg)     |
 | 笼-Cage| 张碧晨 Diamond| 消失的她-Lost in the stars, 2023| [![YouTube Video Likes](https://img.shields.io/youtube/likes/gPqfGpLxVIU?style=social)](https://www.youtube.com/watch?v=gPqfGpLxVIU)     |
@@ -48,6 +49,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| Merry Christmas Mr. Lawrence | Sakamoto Ryūichi| Merry Christmas Mr. Lawrence, 1983| [![YouTube Video Likes](https://img.shields.io/youtube/likes/1OZDaRhHHyM?style=social)](https://www.youtube.com/watch?v=1OZDaRhHHyM)     |
 | Serenade No. 13 - 1st Movement | Mozart| 1787| [![YouTube Video Likes](https://img.shields.io/youtube/likes/z4Hfv00eqoI?style=social)](https://www.youtube.com/watch?v=z4Hfv00eqoI)     |
 | Serenade | Schubert| Schwanengesang, 1828| [![YouTube Video Likes](https://img.shields.io/youtube/likes/0bjB-IWEYI0?style=social)](https://www.youtube.com/watch?v=0bjB-IWEYI0)     |
 | 春节序曲 Spring Festival Ouverture | 李焕之 Huanzhi Li| Spring Festival Suite, 1955| [![YouTube Video Likes](https://img.shields.io/youtube/likes/BmiSku86YVg?style=social)](https://www.youtube.com/watch?v=BmiSku86YVg)     |
