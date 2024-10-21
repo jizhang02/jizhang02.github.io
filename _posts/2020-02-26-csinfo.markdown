@@ -39,7 +39,7 @@ This blog has collected some information about some companies, institutes and un
 * [MIPAV](http://www.mipav.net/), Suzhou, China. Medical Image Processing， Analysis and Visualization, MIPAV. 苏州大学医学影响处理与分析实验室
 * [苏州医工所](https://sibet.cas.cn/), Suzhou, China.
 * [Key Laboratory of Molecular Imaging, Chinese Academy of Sciences](http://www.3dmed.net/), Beijing, China.中科院分子影像重点实验室    
-* [BMEC](https://bmec.ustc.edu.cn/), Hefei, China. 中科大医学影像中心
+* [BMEC](https://institution.ustc.edu.cn/bmec/zh_CN/index/694366/list/index.htm), Hefei, China. 中科大医学影像中心
 * [BEIJING INSTITUTE OF BIG DATA RESEARCH](http://www.bibdr.org/), Beijing, China. 北京大数据研究院    
 * [Developing Brain Computing Lab](http://liwang.web.unc.edu/), North Carolina, USA. 
 * [MICS](http://www.mics.net.cn/Index/index.html), Medical Imaging Computing Seminar, 医学图像计算青年研讨会.
