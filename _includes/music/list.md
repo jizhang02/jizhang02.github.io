@@ -13,6 +13,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| 无地自容-Shameful| 黑豹乐队 Heibao| 黑豹-Black Panther, 1991| [![YouTube Video Likes](https://img.shields.io/youtube/likes/9YxjRbs0Gsg?style=social)](https://www.youtube.com/watch?v=9YxjRbs0Gsg)     |
 | 红豆-Red Bean| 王菲 Faye Wong| 唱遊-Sing and Play, 1998| [![YouTube Video Likes](https://img.shields.io/youtube/likes/5wmfXve11rM?style=social)](https://www.youtube.com/watch?v=5wmfXve11rM)     |
 | 阳光彩虹小白马-Sunshine, Rainbow, White pony| 大张伟 Wowkie Zhang| 2018| [![YouTube Video Likes](https://img.shields.io/youtube/likes/YG4iTGjuoKw?style=social)](https://www.youtube.com/watch?v=YG4iTGjuoKw)     |
 | 破碎的完整-Shattered Fullness| 宋念宇 XiaoYu| 她和她的她-Shards of Her, 2022| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Fx3449cEohg?style=social)](https://www.youtube.com/watch?v=Fx3449cEohg)     |
