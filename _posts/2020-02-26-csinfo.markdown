@@ -21,7 +21,7 @@ This blog has collected some information about some companies, institutes and un
 ## Laboratories & Institutions
 * [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm)， 北京，Beijing
 * [鹏程实验室](http://www.pcl.ac.cn/)， 深圳，Shenzhen
-* [深圳湾实验室](https://www.szbl.ac.cn/index.aspx)， 深圳，Shenzhen
+* [深圳湾实验室](https://www.szbl.ac.cn/)， 深圳，Shenzhen
 * [中国西部海外博士后创新示范中心](http://pdc.xjtu.edu.cn/)， 西安，Xi'an
 * [上海人工智能实验室](https://www.shlab.org.cn/)，上海，Shanghai
 * [之江实验室](https://www.zhejianglab.com/)，杭州，Hangzhou    
