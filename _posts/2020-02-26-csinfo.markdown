@@ -48,7 +48,7 @@ This blog has collected some information about some companies, institutes and un
 * [IDEA Lab](http://idea.bme.shanghaitech.edu.cn/), Shen Dinggang, Shanghai, China.
 * [CITI](https://citi-imr.sjtu.edu.cn/index.html), Shanghai Jiaotong University, China.
 * [AIM (Institute for Artificial Intelligence in Medicine)](https://aim.nuist.edu.cn/), Nanjing, China.
-
+* [BIG (Biomedical Imaging Labotory)](https://big.fst.um.edu.mo/), Macau, China.
 ## Scholars
 * [Dr. Wojciech Samek](http://iphome.hhi.de/samek/), Berlin, Germany.
 * [Dr. Hima Lakkaraju](https://himalakkaraju.github.io/), Harvard University, USA.
