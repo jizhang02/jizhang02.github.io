@@ -29,8 +29,9 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
-  - Oct, 10th, 2024,[MICCAI2024-DIAMOND Challenge](https://www.codabench.org/competitions/2333/), [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18), [Certificate](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
-  - Oct, 10th, 2024,[MICCAI2024-MARIO Challenge](https://youvenz.github.io/MARIO_challenge.github.io/) ranked 7th in 2 tasks, [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/ERCkPN5zQx5CkUc6IJuVEgEBhKd2KHxYLSwcvRdylcT7VA?e=XFE3lq), [Certificate](https://drive.google.com/file/d/1nOaO6Tw-pzBRndRL7Unch6XZJm4Axmee/view?usp=sharing)
+  - Oct, 28th, 2024, [IEEE-MIC2024 conference](https://nssmic.ieee.org/2024/), Oral presnetation, Tampa, USA
+  - Oct, 10th, 2024, [MICCAI2024-DIAMOND Challenge](https://www.codabench.org/competitions/2333/), [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18), [Certificate](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
+  - Oct, 10th, 2024, [MICCAI2024-MARIO Challenge](https://youvenz.github.io/MARIO_challenge.github.io/) ranked 7th in 2 tasks, [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/ERCkPN5zQx5CkUc6IJuVEgEBhKd2KHxYLSwcvRdylcT7VA?e=XFE3lq), [Certificate](https://drive.google.com/file/d/1nOaO6Tw-pzBRndRL7Unch6XZJm4Axmee/view?usp=sharing)
   - May, 30th, 2024, [ISBI2024-JustRAIGS Challenge](https://justraigs.grand-challenge.org/justraigs/) ranked 8th in 2 tasks, [Certificate](https://drive.google.com/file/d/1NlQ3fuYqvOumqG_zA7xwitvRLWeFswMa/view?usp=drive_link)
   - Oct, 15th, 2023, [MICCAI-MMAC2023 Challenge](https://codalab.lisn.upsaclay.fr/competitions/12441) ranked 6th, 2nd, 1st in 3 tasks, [Slides](https://1drv.ms/b/s!ArS4irhKYi7tnH_28ET7CL15OL7z?e=YpxQuB), [Certificate1](https://drive.google.com/file/d/1ZrRrEC9yQ_YbafZfxb3jl5W9h8rmT3jh/view?usp=drive_link), [Certificate2](https://drive.google.com/file/d/1pd4jqBjRP15H6eKqQMQNDKnlULNak5UE/view?usp=drive_link)
   - Apr, 25th, 2023, [Gate Scientific Meeting 2023](https://indico.in2p3.fr/event/28828/), Kraków, Poland
