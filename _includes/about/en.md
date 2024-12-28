@@ -29,6 +29,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
+  - Nov, 2024, [GATE10 released](https://github.com/OpenGATE/opengate), Contributed a bit on GitHub
   - Oct, 28th, 2024, [IEEE-MIC2024 conference](https://nssmic.ieee.org/2024/), Oral presnetation, Tampa, USA
   - Oct, 10th, 2024, [MICCAI2024-DIAMOND Challenge](https://www.codabench.org/competitions/2333/), [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18), [Certificate](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
   - Oct, 10th, 2024, [MICCAI2024-MARIO Challenge](https://youvenz.github.io/MARIO_challenge.github.io/) ranked 7th in 2 tasks, [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/ERCkPN5zQx5CkUc6IJuVEgEBhKd2KHxYLSwcvRdylcT7VA?e=XFE3lq), [Certificate](https://drive.google.com/file/d/1nOaO6Tw-pzBRndRL7Unch6XZJm4Axmee/view?usp=sharing)
