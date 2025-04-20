@@ -142,6 +142,7 @@ This blog has collected some information about some companies, institutes and un
 * [吉林大学人工智能学院](https://sai.jlu.edu.cn/index.htm)，长春，Changchun
 * [哈尔滨工业大学计算学部](https://computing.hit.edu.cn/main.htm)，哈尔滨，Harbin
 * [哈尔滨工程大学计算机科学与技术学院](https://cstc.hrbeu.edu.cn/main.htm)，哈尔滨，Harbin
+* [内蒙古大学计算机学院/人工智能学院](https://ccs.imu.edu.cn/)，呼和浩特，Huhhot
 * [华中科技大学人工智能与自动化学院](https://aia.hust.edu.cn/)，武汉，Wuhan
 * [武汉大学计算机学院](https://cs.whu.edu.cn/index.htm)，武汉，Wuhan
 * [湖南大学生命医学交叉研究院](https://smyjy.hnu.edu.cn/index.htm)，长沙，Changsha
