@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "History of operation systoem"
+title:      "A simple histroy of OS"
 subtitle:   "操作系统历史"
 date:       2025-05-04
 author:     "Jing"
@@ -11,7 +11,6 @@ tags:
 ---
 
 
-### History of operation system
 A simple histroy of OS:
 
 ![](/img/history-OS.svg)
