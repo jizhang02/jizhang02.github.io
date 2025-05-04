@@ -12,5 +12,6 @@ tags:
 
 
 ### History of operation system
+A simple histroy of OS:
 
 ![](/img/history-OS.svg)
