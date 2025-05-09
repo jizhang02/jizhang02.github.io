@@ -24,11 +24,11 @@ Leave a comment if you know some awesome resources.
 * Write
 
     * [Overleaf](https://www.overleaf.com/), a online LaTeX editor. You can share your work with other colleages.
+    * [Slager](https://www.slager.link/#/home), a online LaTeX editor in China.
     * [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
     * [Tables Generator](https://www.tablesgenerator.com/), a latex table generator.
     * [Online PDF tool](https://www.ilovepdf.com/)
     * [PDF resizer](https://pdfresizer.com/), to crop pdf files.
-    * [Draw.io](https://app.diagrams.net/), online drawing tool.
     * [Speechnotes](https://speechnotes.co/), speech-enabled online notepad.
     * [DeepL Translate](https://www.deepl.com/en/translator)
     * [Cambridge dictionary](https://dictionary.cambridge.org/us/dictionary/english/)
@@ -36,7 +36,8 @@ Leave a comment if you know some awesome resources.
     * [Mathpix](https://snip.mathpix.com/search), convert image to LaTeX code.
     * [SimpleIcons](https://simpleicons.org/), downloading Icons.
     * [Markdonw-badges](https://github.com/Ileriayo/markdown-badges), badges for your personal developer branding, profile, and projects.
-    * [](https://typora.io/), markdown editer.
+    * [Typora](https://typora.io/), markdown editer.
+    * [Revealjs](https://revealjs.com/), the HTML presentation framework.
 
 * Conference info    
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
@@ -49,6 +50,8 @@ Leave a comment if you know some awesome resources.
 * Literature helpers
     * [Semantic Scholar](https://www.semanticscholar.org/), a free, AI-powered research tool for scientific literature.
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
+    * [Litmaps](https://app.litmaps.com/), find and understand research better.
+    * [PaSa](https://pasa-agent.ai/), paper search agent.
     * [Papers with code](https://paperswithcode.com/) 
     * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barriers in the way of science. 
     * [Google Scholar](https://scholar.google.com/)
@@ -60,6 +63,7 @@ Leave a comment if you know some awesome resources.
     * [EasyScholar](https://www.easyscholar.cc/), browser add-on, 显示文献排名，并且提供翻译、文献收藏功能.
     * [X-MOL学术平台](https://www.x-mol.com/), 化学类网址导航, 化学软件和数据库导航.
     * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 文献管理, 论文元信息提取, 全文翻译功能.
+    * [学术巷子](https://www.xueshuxiangzi.com/redirect), 来自全球的每日最新论文.
 
 
 * Tutorials
@@ -145,6 +149,7 @@ Leave a comment if you know some awesome resources.
     * [Elicit](https://elicit.org/), ask a research question.
     * [MyShell](https://app.myshell.ai/explore), an open ecosystem for AI Native Apps.
     * [LLM Visualization](https://bbycroft.net/llm), visualization of large language model.
+    * [large language models](https://ollama.com/), install large language models.
     * [Kimi](https://kimi.moonshot.cn/)
     * [Transformer Explainer](https://github.com/poloclub/transformer-explainer)
     * [Netron](https://netron.app/), Visualizer for neural network.
@@ -152,6 +157,15 @@ Leave a comment if you know some awesome resources.
     * [Auto-Sklearn](https://github.com/automl/auto-sklearn/), an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
     * [Featuretools](https://www.featuretools.com/), an open source python framework for automated feature engineering.
     * [TPOT2](https://epistasislab.github.io/tpot2/), a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+    * [Arena](https://lmarena.ai/), LLM models ranking.
+    * [Claude](https://claude.ai/new), large language models.
+    * [Grok](https://grok.com), large language models.
+    * [DeepSeek](https://chat.deepseek.com/), large language models.
+    * [NoteLM](https://notebooklm.google.com/), an AI-powered tool designed to help users understand and interact with their documents.
+    * [通义千问](https://www.tongyi.com/qianwen/), large language models.
+    * [Kimi](https://kimi.moonshot.cn/), large language models.
+    * [豆包](https://www.doubao.com/chat/), large language models.
+      
     
 
 
@@ -160,7 +174,6 @@ Leave a comment if you know some awesome resources.
     * [ImageJ](https://imagej.net/), image processing
     * [Slicer](https://www.slicer.org/), image processing
     * [SimpleITK](https://simpleitk.org/), image processing
-    * [Typora](https://typora.io/), md file editing, not free
     * [VSCode](https://code.visualstudio.com/), code editer
     * [PyCharm](https://www.jetbrains.com/pycharm/), code editer
     * [LibreOffice](https://www.libreoffice.org/), office tool
@@ -176,6 +189,8 @@ Leave a comment if you know some awesome resources.
     * [mindmaps](https://www.mindmaps.app/)
     * [Mermaid](https://mermaid.js.org/)
     * [Excalidraw](https://github.com/excalidraw/excalidraw)
+    * [Draw.io](https://app.diagrams.net/), online drawing tool.
+    * [earth](https://earth.nullschool.net/)a project to visualize global weather conditions
 
 
 * Code
@@ -199,6 +214,7 @@ Leave a comment if you know some awesome resources.
     * [Zoom](https://zoom.us/)
     * [Anydesk](https://anydesk.com/en), a remote connection tool.
     * [AnyViewer](https://www.anyviewer.com/), a remote connection tool.
+    * [RustDesk](https://rustdesk.com/), the fast open-source remote access and support software.
 
       
 * Blogs
