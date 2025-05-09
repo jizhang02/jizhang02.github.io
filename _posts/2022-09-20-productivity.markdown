@@ -24,7 +24,7 @@ Leave a comment if you know some awesome resources.
 * Write
 
     * [Overleaf](https://www.overleaf.com/), a online LaTeX editor. You can share your work with other colleages.
-    * [Slager](https://www.slager.link/#/home), a online LaTeX editor in China.
+    * [Slager](https://www.slager.link/#/home), a online LaTeX editor (中文版).
     * [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
     * [Tables Generator](https://www.tablesgenerator.com/), a latex table generator.
     * [Online PDF tool](https://www.ilovepdf.com/)
