@@ -190,7 +190,7 @@ Leave a comment if you know some awesome resources.
     * [Mermaid](https://mermaid.js.org/)
     * [Excalidraw](https://github.com/excalidraw/excalidraw)
     * [Draw.io](https://app.diagrams.net/), online drawing tool.
-    * [earth](https://earth.nullschool.net/)a project to visualize global weather conditions
+    * [earth](https://earth.nullschool.net/), a project to visualize global weather conditions
 
 
 * Code
@@ -221,6 +221,7 @@ Leave a comment if you know some awesome resources.
     * [Personnal website by Jack Cui](https://cuijiahua.com/), about Machine learning and Deep learning.
     * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
     * [Personnal website by Redstone](https://redstonewill.com/), Tutorial on various computer vision and deep learning.
+    * [Lil’Log](https://lilianweng.github.io/), She’s documenting her learning notes in this blog since 2017.
 
 * Social media
     * [Slack](https://slack.com/)
