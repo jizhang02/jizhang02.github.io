@@ -91,7 +91,7 @@ Leave a comment if you know some awesome resources.
     * [Courses of MIT](https://ocw.mit.edu/)
     * [MOOC China](https://www.icourse163.org/)
     * [CrashCourse](https://crashcourse.club/category)
-    * [LLM course]([mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. (github.com)](https://github.com/mlabonne/llm-course))
+    * [LLM course](https://github.com/mlabonne/llm-course)
 
 
 * Books
