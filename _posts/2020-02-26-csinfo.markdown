@@ -176,6 +176,7 @@ This blog has collected some information about some companies, institutes and un
 * [华南理工大学](http://www2.scut.edu.cn/hr/2019/0506/c4457a317013/page.htm)，广州，Guangzhou
 * [大湾区大学](https://www.gbu.edu.cn/)，东莞，Dongguan
 * [深圳大学医学部生物医学工程学院](http://bme.szu.edu.cn/index.html)，深圳，Shenzhen
+* [香港中文大学（深圳）人工智能学院](https://sai.cuhk.edu.cn/)，深圳，Shenzhen
 * [郑州大学计算机与人工智能学院](http://www7.zzu.edu.cn/csai/)，郑州，Zhengzhou
 * [福耀科技大学计算与人工智能学院](https://cs.fyust.edu.cn/index.htm)，福州，Fuzhou
 
