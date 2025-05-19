@@ -121,12 +121,20 @@ This blog has collected some information about some companies, institutes and un
 
 
 ## CS, AI or Interdisciplinary colleges
+* [中国科学院大学人工智能学院](https://ai.ucas.ac.cn/index.php/zh-cn/)，北京，Beijing
 * [中国科学技术大学人工智能与数据科学学院](https://saids.ustc.edu.cn/main.htm)，合肥，Hefei
 * [中国科学技术大学苏州高等研究院](https://sz.ustc.edu.cn/index.html)，苏州，Suzhou
-* [北京大学人工智能研究院](https://www.ai.pku.edu.cn/index.htm)，北京，Beijing
+* [北京大学人工智能学院](https://collegeai.tsinghua.edu.cn/)，北京，Beijing
+* [清华大学人工智能学院](https://www.ai.pku.edu.cn/index.htm)，北京，Beijing
 * [北京航空航天大学人工智能学院](https://iai.buaa.edu.cn/index.htm)，北京，Beijing
+* [北京邮电大学人工智能学院](https://ai.bupt.edu.cn/index.htm)，北京，Beijing
+* [北京科技大学人工智能研究院](https://ai.ustb.edu.cn/index.htm)，北京，Beijing
+* [中国人民大学高瓴人工智能学院](http://ai.ruc.edu.cn/index.htm)，北京，Beijing
 * [北京理工大学医学技术学院](https://smt.bit.edu.cn/)，北京，Beijing
+* [北京理工大学人工智能学院](https://smt.bit.edu.cn/)，北京，Beijing
+* [北京交通大学自动化与智能学院](https://ai.bjtu.edu.cn/index.htm)，北京，Beijing
 * [重庆大学大数据与软件学院](http://www.cse.cqu.edu.cn/index.htm)，重庆，Chongqing
+* [重庆邮电大学人工智能学院](https://ai.cqupt.edu.cn/index.htm)，重庆，Chongqing
 * [西南大学人工智能学院](http://ai.swu.edu.cn/index.htm)，重庆，Chongqing
 * [贵州大学大数据与信息工程学院](http://eie.gzu.edu.cn/main.htm)，贵州，Guizhou
 * [兰州大学信息科学与工程学院](https://xxxy.lzu.edu.cn/)，兰州，Lanzhou
@@ -134,6 +142,8 @@ This blog has collected some information about some companies, institutes and un
 * [南京大学人工智能学院](https://ai.nju.edu.cn/main.htm)，南京，Nanjing
 * [南京航空航天大学人工智能学院](https://ai.nuaa.edu.cn/)，南京，Nanjing
 * [南京理工大学计算机科学与工程学院](https://cs.njust.edu.cn/)，南京，Nanjing
+* [南京邮电大学人工智能学院](https://coa.njupt.edu.cn/main.htm)，南京，Nanjing
+* [苏州大学人工智能研究院](https://iai.suda.edu.cn/main.htm)，苏州，Suzhou
 * [南昌大学信息工程学院](http://ie.ncu.edu.cn/)，南昌，Nanchang
 * [东北大学信息科学与工程学院](http://www.ise.neu.edu.cn/main.htm)，沈阳，Shenyang
 * [大连理工大学未来技术学院/人工智能学院](https://futureschool.dlut.edu.cn/index.htm)，大连，Dalian
@@ -142,18 +152,21 @@ This blog has collected some information about some companies, institutes and un
 * [四川大学计算机学院](https://cs.scu.edu.cn/index.htm)，成都，Chengdu
 * [吉林大学人工智能学院](https://sai.jlu.edu.cn/index.htm)，长春，Changchun
 * [哈尔滨工业大学计算学部](https://computing.hit.edu.cn/main.htm)，哈尔滨，Harbin
+* [哈尔滨工业大学人工智能研究院](https://ai.hit.edu.cn/main.htm)，哈尔滨，Harbin
 * [哈尔滨工程大学计算机科学与技术学院](https://cstc.hrbeu.edu.cn/main.htm)，哈尔滨，Harbin
 * [内蒙古大学计算机学院/人工智能学院](https://ccs.imu.edu.cn/)，呼和浩特，Huhhot
 * [华中科技大学人工智能与自动化学院](https://aia.hust.edu.cn/)，武汉，Wuhan
 * [武汉大学计算机学院](https://cs.whu.edu.cn/index.htm)，武汉，Wuhan
 * [湖南大学生命医学交叉研究院](https://smyjy.hnu.edu.cn/index.htm)，长沙，Changsha
 * [中南大学计算机学院](https://cse.csu.edu.cn/index.htm)，长沙，Changsha
+* [湖南工业大学人工智能学院](https://ai.hut.edu.cn/index.htm)，长沙，Changsha
 * [山东大学人工智能国际联合研究院](https://cfair.sdu.edu.cn/JOIN_US/jrwm.htm)，济南，Jinan
 * [山东大学计算机科学与技术学院](https://www.cs.sdu.edu.cn/index.htm)，青岛，Qingdao
 * [上海科技大学生物医学工程学院](https://bme.shanghaitech.edu.cn/)，上海，Shanghai
 * [东华大学生物与医学工程学院](https://cbm.dhu.edu.cn/)，上海，Shanghai
 * [东华大学计算机科学与技术学院](https://cst.dhu.edu.cn/)，上海，Shanghai
 * [复旦大学大数据学院](https://sds.fudan.edu.cn/main.htm)，上海，Shanghai
+* [上海交通大学人工智能学院](https://soai.sjtu.edu.cn/)，上海，Shanghai
 * [同济大学电子与信息工程学院](https://see.tongji.edu.cn/)，上海，Shanghai
 * [太原理工大学计算机科学与技术学院](https://ccst.tyut.edu.cn/index.htm)，山西，Shanxi
 * [南开大学人工智能学院](https://ai.nankai.edu.cn/index.htm)，天津，Tianjin
