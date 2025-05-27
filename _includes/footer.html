@@ -1,5 +1,7 @@
 <!-- Footer -->
 <footer>
+<!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -24,16 +26,16 @@
                         </a>
                     </li>
                     {% endif %}
-<!-- Font Awesome CDN -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+
                     
                     {% if site.researchgate_username %}
                     <li>
                         <a href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-circle fa-stack-2x" style="color: #00bfa5;"></i>
                                 <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
                             </span>
+
                         </a>
                     </li>
                     {% endif %}
@@ -44,7 +46,7 @@
                         <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fab  fa-stack-1x fa-inverse">知</i>
+                                <i class="fab fa-zhihu fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
@@ -62,7 +64,7 @@
                         <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                                <i class="fab fa-weibo fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
@@ -84,7 +86,7 @@
                         <a target="_blank" href="https://github.com/{{ site.github_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
@@ -94,7 +96,7 @@
                         <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
@@ -104,7 +106,7 @@
                         <a target="_blank" href="https://scholar.google.com/{{ site.googlescholar_username }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-graduation-cap fa-stack-1x fa-inverse"></i>
+                                <i class="fab fa-google-scholar fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
