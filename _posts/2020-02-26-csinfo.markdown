@@ -200,6 +200,7 @@ This blog has collected some information about some companies, institutes and un
 * [暨南大学智能科学与工程学院](https://sisse.jnu.edu.cn/_s328/main.psp)，珠海，Zhuhai
 * [汕头大学](http://job.stu.edu.cn/engage_job/positionDetail.aspx?jobID=827)，汕头，Shantou
 * [华南理工大学](http://www2.scut.edu.cn/hr/2019/0506/c4457a317013/page.htm)，广州，Guangzhou
+* [华南师范大学](http://ai.scnu.edu.cn/)，佛山，Foshan
 * [大湾区大学](https://www.gbu.edu.cn/)，东莞，Dongguan
 * [深圳大学医学部生物医学工程学院](http://bme.szu.edu.cn/index.html)，深圳，Shenzhen
 * [深圳大学计算机与软件学院](https://csse.szu.edu.cn/)，深圳，Shenzhen
