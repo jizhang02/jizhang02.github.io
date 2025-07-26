@@ -29,6 +29,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
+  - Jul, 2025, [RISE-MICCAI Summer School](https://summer.rise-miccai.org/)，[Notes](https://github.com/jizhang02/Code-Note/tree/8844a9288bf0ab9fb6e6fa0ce92ed3ddd0432ca0/Summer-School_RISE_MICCAI_2025), online
   - Nov, 2024, [GATE10 released](https://github.com/OpenGATE/opengate), Contributed a bit on GitHub
   - Oct, 28th, 2024, [IEEE-MIC2024 conference](https://nssmic.ieee.org/2024/), Oral presnetation, Tampa, USA
   - Oct, 10th, 2024, [MICCAI2024-DIAMOND Challenge](https://www.codabench.org/competitions/2333/), [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18), [Certificate](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
