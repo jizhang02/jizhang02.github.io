@@ -25,6 +25,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
 #### 学术活动
+  - 2025年7月，[RISE-MICCAI Summer School](https://summer.rise-miccai.org/)，[笔记](https://github.com/jizhang02/Code-Note/tree/8844a9288bf0ab9fb6e6fa0ce92ed3ddd0432ca0/Summer-School_RISE_MICCAI_2025)，线上
   - 2024年11月，[GATE10 发布了](https://github.com/OpenGATE/opengate), 在GitHub上贡献了一部分工作
   - 2024年10月28日，[IEEE-MIC2024 会议](https://nssmic.ieee.org/2024/)，口头报告，坦帕，美国
   - 2024年10月10日，[MICCAI2024-DIAMOND 竞赛](https://www.codabench.org/competitions/2333/)，[视频](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18)，[证书](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
