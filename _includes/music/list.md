@@ -13,6 +13,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| 百年孤寂-Hundred Years of Solitude| 王菲-Faye Wong| 只爱陌生人-Only Love Strangers, 1999| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Id1zD5o4IrA?style=social)](https://www.youtube.com/watch?v=Id1zD5o4IrA&list=RDId1zD5o4IrA&start_radio=1)     |
 | 万水千山总是情-Love and Passion| 汪明荃-Ming Chuen Wang| 1982| [![YouTube Video Likes](https://img.shields.io/youtube/likes/wSjmke3JX40?style=social)](https://www.youtube.com/watch?v=wSjmke3JX40)     |
 | 如愿-As Wished| 王菲-Faye Wong| 2021| [![YouTube Video Likes](https://img.shields.io/youtube/likes/6fV2dRqJHvw?style=social)](https://www.youtube.com/watch?v=6fV2dRqJHvw)     |
 | 无地自容-Shameful| 黑豹乐队 Heibao band| 黑豹-Black Panther, 1991| [![YouTube Video Likes](https://img.shields.io/youtube/likes/9YxjRbs0Gsg?style=social)](https://www.youtube.com/watch?v=9YxjRbs0Gsg)     |
