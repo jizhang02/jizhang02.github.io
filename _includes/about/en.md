@@ -29,10 +29,11 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
+  - Nov, 2025, [IEEE-MIC2025 conference](https://nssmic.ieee.org/2025/), poster presnetation, Yokohama, Japan
   - Aug, 2025, Co-mentored four interns.
   - Jul, 2025, [RISE-MICCAI Summer School](https://summer.rise-miccai.org/)，[Notes](https://github.com/jizhang02/Code-Note/tree/8844a9288bf0ab9fb6e6fa0ce92ed3ddd0432ca0/Summer-School_RISE_MICCAI_2025), online
   - Nov, 2024, [GATE10 released](https://github.com/OpenGATE/opengate), Contributed a bit on GitHub
-  - Oct, 28th, 2024, [IEEE-MIC2024 conference](https://nssmic.ieee.org/2024/), Oral presnetation, Tampa, USA
+  - Oct, 28th, 2024, [IEEE-MIC2024 conference](https://nssmic.ieee.org/2024/), oral presnetation, Tampa, USA
   - Oct, 10th, 2024, [MICCAI2024-DIAMOND Challenge](https://www.codabench.org/competitions/2333/), [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18), [Certificate](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
   - Oct, 10th, 2024, [MICCAI2024-MARIO Challenge](https://youvenz.github.io/MARIO_challenge.github.io/) ranked 7th in 2 tasks, [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/ERCkPN5zQx5CkUc6IJuVEgEBhKd2KHxYLSwcvRdylcT7VA?e=XFE3lq), [Certificate](https://drive.google.com/file/d/1nOaO6Tw-pzBRndRL7Unch6XZJm4Axmee/view?usp=sharing)
   - May, 30th, 2024, [ISBI2024-JustRAIGS Challenge](https://justraigs.grand-challenge.org/justraigs/) ranked 8th in 2 tasks, [Certificate](https://drive.google.com/file/d/1NlQ3fuYqvOumqG_zA7xwitvRLWeFswMa/view?usp=drive_link)
