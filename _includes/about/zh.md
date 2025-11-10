@@ -2,7 +2,7 @@
 Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86%85%E8%92%99%E5%8F%A4?fromtitle=%E5%86%85%E8%92%99&fromid=12011244)[乌海市](https://baike.baidu.com/item/%E4%B9%8C%E6%B5%B7/740819)，是一名博士，所学专业为计算机科学与技术，我的研究方向是基于深度学习的医学图像分析。
 
 #### 工作经历
-- 2022年10月-至今，法国，布列塔尼，布雷斯特
+- 2022年10月-2025年10月，法国，布列塔尼，布雷斯特
    + 单位：[西布列塔尼大学](https://nouveau.univ-brest.fr/en)，[LaTIM](https://latim.univ-brest.fr/)实验室，ACTION团队
    + 职位：博士后
    + 负责人：Julien Bert
@@ -25,6 +25,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
 #### 学术活动
+  - 2025年11月，[IEEE-MIC2025 会议](https://nssmic.ieee.org/2025/)，海报报告，横滨，日本
   - 2025年8月，合作指导了4名实习生
   - 2025年7月，[RISE-MICCAI Summer School](https://summer.rise-miccai.org/)，[笔记](https://github.com/jizhang02/Code-Note/tree/8844a9288bf0ab9fb6e6fa0ce92ed3ddd0432ca0/Summer-School_RISE_MICCAI_2025)，线上
   - 2024年11月，[GATE10 发布了](https://github.com/OpenGATE/opengate), 在GitHub上贡献了一部分工作
