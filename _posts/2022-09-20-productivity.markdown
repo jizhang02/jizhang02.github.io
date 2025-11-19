@@ -150,7 +150,6 @@ Leave a comment if you know some awesome resources.
     * [MyShell](https://app.myshell.ai/explore), an open ecosystem for AI Native Apps.
     * [LLM Visualization](https://bbycroft.net/llm), visualization of large language model.
     * [large language models](https://ollama.com/), install large language models.
-    * [Kimi](https://kimi.moonshot.cn/)
     * [Transformer Explainer](https://github.com/poloclub/transformer-explainer)
     * [Netron](https://netron.app/), Visualizer for neural network.
     * [AutoKeras](https://autokeras.com/), an AutoML system based on Keras.
@@ -223,8 +222,10 @@ Leave a comment if you know some awesome resources.
     * [Personnal website by Redstone](https://redstonewill.com/), Tutorial on various computer vision and deep learning.
     * [Lil’Log](https://lilianweng.github.io/), She’s documenting her learning notes in this blog since 2017.
 
-* Social media
-    * [Slack](https://slack.com/)
-    * [Discord](https://discord.com/)
+* Misc
+    * [Slack](https://slack.com/), social media
+    * [Discord](https://discord.com/), social media
+    * [Radio Garden](https://radio.garden/), radio on earth
+    * [Phet](https://phet.colorado.edu/), education
 
    
