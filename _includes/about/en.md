@@ -3,7 +3,13 @@
 Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner Mongolia](https://en.wikipedia.org/wiki/Inner_Mongolia), China. Now I am studying Medical Image Analysis using Deep Learning. 
 
 #### Work
-- Oct. 2022 - Now: Brest, Bretagne, France
+
+- Dec. 2025-，Paris, France
+   + Place：[Sorbonne University](https://www.sorbonne-universite.fr/en)，[LIB](https://www.lib.upmc.fr/en/) lab, team iCV
+   + Position：Post-doc
+   + Head：Nadjia Kachenoura
+     
+- Oct. 2022 - Oct. 2025: Brest, Bretagne, France
    + Place: [UBO](https://nouveau.univ-brest.fr/en), [LaTIM](https://latim.univ-brest.fr/) lab, team ACTION
    + Position: Post-doc
    + Head: Julien Bert
