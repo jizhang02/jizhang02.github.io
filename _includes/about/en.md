@@ -7,12 +7,12 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 - Dec. 2025-，Paris, France
    + Place：[Sorbonne University](https://www.sorbonne-universite.fr/en)，[LIB](https://www.lib.upmc.fr/en/) lab, team iCV
    + Position：Post-doc
-   + Head：Nadjia Kachenoura
+   + Head：[Nadjia Kachenoura](https://www.lib.upmc.fr/en/member-page/?pers_id=68)
      
 - Oct. 2022 - Oct. 2025: Brest, Bretagne, France
    + Place: [UBO](https://nouveau.univ-brest.fr/en), [LaTIM](https://latim.univ-brest.fr/) lab, team ACTION
    + Position: Post-doc
-   + Head: Julien Bert
+   + Head: [Julien Bert](https://www.linkedin.com/in/julien-bert-818a63130/)
    
 
 #### Education
