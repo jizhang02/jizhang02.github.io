@@ -5,12 +5,12 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
 - 2025年12月-，法国，巴黎
    + 单位：[索邦大学](https://www.sorbonne-universite.fr/en)，[LIB](https://www.lib.upmc.fr/en/)实验室，iCV团队
    + 职位：博士后研究员
-   + 负责人：Nadjia Kachenoura
+   + 负责人：[Nadjia Kachenoura](https://www.lib.upmc.fr/en/member-page/?pers_id=68)
      
 - 2022年10月-2025年10月，法国，布列塔尼，布雷斯特
    + 单位：[西布列塔尼大学](https://nouveau.univ-brest.fr/en)，[LaTIM](https://latim.univ-brest.fr/)实验室，ACTION团队
    + 职位：博士后研究员
-   + 负责人：Julien Bert
+   + 负责人：[Julien Bert](https://www.linkedin.com/in/julien-bert-818a63130/)
 
 #### 教育经历
  
