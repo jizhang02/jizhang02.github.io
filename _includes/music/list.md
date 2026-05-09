@@ -38,6 +38,7 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
+| The Conflict of the Mind |  AURORA |   What Happened to the Heart? 2024| [![YouTube Video Likes](https://img.shields.io/youtube/likes/7TF91Zk8L5w?style=social)](https://www.youtube.com/watch?v=7TF91Zk8L5w)     |
 | Telephone |   Lady Gaga |   The Fame Monster, 2009| [![YouTube Video Likes](https://img.shields.io/youtube/likes/Zwnvgz3ey78?style=social)](https://www.youtube.com/watch?v=Zwnvgz3ey78)     |
 | The End of the World |   Skeeter Davis |   Skeeter Davis Sings The End of the World, 1962| [![YouTube Video Likes](https://img.shields.io/youtube/likes/fOCIuEOxpSY?style=social)](https://www.youtube.com/watch?v=fOCIuEOxpSY)     |
 | Freed from Desire |   Gala |   Come into My Life, 1997| [![YouTube Video Likes](https://img.shields.io/youtube/likes/p3l7fgvrEKM?style=social)](https://www.youtube.com/watch?v=p3l7fgvrEKM)     |
