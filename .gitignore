@@ -5,3 +5,7 @@ npm-debug.log
 */.DS_Store
 */*/.DS_Store
 *.sh
+
+# Generated local YouTube statistics
+_data/youtube_likes.json
+__pycache__/
