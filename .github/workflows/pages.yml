@@ -1,10 +1,8 @@
-name: Update music likes and deploy Pages
+name: Deploy Pages
 
 on:
   push:
     branches: [master]
-  schedule:
-    - cron: '23 5 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,31 +23,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Restore previous counts
-        uses: actions/cache/restore@v4
-        with:
-          path: _data/youtube_likes.json
-          key: youtube-likes-v1-${{ github.run_id }}-${{ github.run_attempt }}
-          restore-keys: youtube-likes-v1-
-      - name: Test updater
-        run: python -m unittest discover -s scripts -p 'test_*.py'
-      - name: Fetch current counts
-        id: update
-        continue-on-error: true
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python scripts/update_youtube_likes.py
-      - name: Save successful counts
-        if: steps.update.outcome == 'success'
-        uses: actions/cache/save@v4
-        with:
-          path: _data/youtube_likes.json
-          key: youtube-likes-v1-${{ github.run_id }}-${{ github.run_attempt }}
-      - name: Render badges (previous counts if the API failed)
-        run: python scripts/update_youtube_likes.py --render-only
       - uses: actions/configure-pages@v5
       - uses: actions/jekyll-build-pages@v1
         with:
@@ -59,8 +32,3 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: Report update failure
-        if: steps.update.outcome == 'failure'
-        run: |
-          echo '::error::The site was deployed with cached counts (or Watch buttons). Check the Fetch current counts step and YOUTUBE_API_KEY secret.'
-          exit 1

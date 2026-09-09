@@ -13,60 +13,60 @@
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
-| 送别-Farewell|Music by  John P. Ordway|Lyrics by 弘一法师(Hongyi), 1935| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/ncliMR6_6ms.svg)](https://www.youtube.com/watch?v=ncliMR6_6ms&list=RDncliMR6_6ms&start_radio=1)     |
-| 百年孤寂-Hundred Years of Solitude| 王菲-Faye Wong| 只爱陌生人-Only Love Strangers, 1999| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/Id1zD5o4IrA.svg)](https://www.youtube.com/watch?v=Id1zD5o4IrA&list=RDId1zD5o4IrA&start_radio=1)     |
-| 万水千山总是情-Love and Passion| 汪明荃-Ming Chuen Wang| 1982| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/wSjmke3JX40.svg)](https://www.youtube.com/watch?v=wSjmke3JX40)     |
-| 如愿-As Wished| 王菲-Faye Wong| 2021| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/6fV2dRqJHvw.svg)](https://www.youtube.com/watch?v=6fV2dRqJHvw)     |
-| 无地自容-Shameful| 黑豹乐队 Heibao band| 黑豹-Black Panther, 1991| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/9YxjRbs0Gsg.svg)](https://www.youtube.com/watch?v=9YxjRbs0Gsg)     |
-| 红豆-Red Bean| 王菲-Faye Wong| 唱遊-Sing and Play, 1998| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/5wmfXve11rM.svg)](https://www.youtube.com/watch?v=5wmfXve11rM)     |
-| 阳光彩虹小白马-Sunshine, Rainbow, White pony| 大张伟-Wowkie Zhang| 2018| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/YG4iTGjuoKw.svg)](https://www.youtube.com/watch?v=YG4iTGjuoKw)     |
-| 破碎的完整-Shattered Fullness| 宋念宇-XiaoYu| 她和她的她-Shards of Her, 2022| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/Fx3449cEohg.svg)](https://www.youtube.com/watch?v=Fx3449cEohg)     |
-| 笼-Cage| 张碧晨-Diamond| 消失的她-Lost in the stars, 2023| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/gPqfGpLxVIU.svg)](https://www.youtube.com/watch?v=gPqfGpLxVIU)     |
-| 大梦-Big dream| 瓦依那/任素汐-Vareihnaz/Suxi Ren| 2023| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/EVEgwFnWhSM.svg)](https://www.youtube.com/watch?v=EVEgwFnWhSM)     |
-| 曾经的你-Once you| 许巍-Wei Xu| 每一刻都是崭新的-Every moment is new, 2004| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/OU3kSSMLNvE.svg)](https://www.youtube.com/watch?v=OU3kSSMLNvE)     |
-| 人世间-A Lifelong Journey | 雷佳-Jia Lei| A Lifelong Journey, 2022| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/o1tludi1YeU.svg)](https://www.youtube.com/watch?v=o1tludi1YeU)     |
-| 传说-Legend | 梅艳芳-Anita Mui | 千年女王-Queen Millennia, 1983| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/i3jue987XNk.svg)](https://www.youtube.com/watch?v=i3jue987XNk)     |
-| 富士山下-Sorrow Is Meaningless | 陈奕迅-Eason Chan| What'S Going On...?, 2006| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/ghnT1uOwfrY.svg)](https://www.youtube.com/watch?v=ghnT1uOwfrY)     |
-| 稻香-Rice Field | 周杰伦-Jay Chou| 魔杰座-Capricorn, 2008| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/sHD_z90ZKV0.svg)](https://www.youtube.com/watch?v=sHD_z90ZKV0)     |
-| 真的爱你-Truly Love You | Beyond| Beyond IV, 1989| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/tjCHafQIhFk.svg)](https://www.youtube.com/watch?v=tjCHafQIhFk)     |
-| 没那么简单-Not that simple | 黄小琥-Tiger Huang| 简单/不简单-Easy/Not easy, 2009| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/rmPHuvQoh0g.svg)](https://www.youtube.com/watch?v=rmPHuvQoh0g)     |
-| 明天更漫长-Tomorrow will be longer | 窦唯-Wei Dou| 黑梦-Black dream, 1994| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/rQcQWC70a9w.svg)](https://www.youtube.com/watch?v=rQcQWC70a9w)     |
-| 中国人-Chinese people | 刘德华-Andy Lau| 爱如此神奇-Love is so amazing, 1997| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/dZUVGtSouCc.svg)](https://www.youtube.com/watch?v=dZUVGtSouCc)       |
+| 送别-Farewell|Music by  John P. Ordway|Lyrics by 弘一法师(Hongyi), 1935| [YouTube ▶](https://www.youtube.com/watch?v=ncliMR6_6ms&list=RDncliMR6_6ms&start_radio=1)     |
+| 百年孤寂-Hundred Years of Solitude| 王菲-Faye Wong| 只爱陌生人-Only Love Strangers, 1999| [YouTube ▶](https://www.youtube.com/watch?v=Id1zD5o4IrA&list=RDId1zD5o4IrA&start_radio=1)     |
+| 万水千山总是情-Love and Passion| 汪明荃-Ming Chuen Wang| 1982| [YouTube ▶](https://www.youtube.com/watch?v=wSjmke3JX40)     |
+| 如愿-As Wished| 王菲-Faye Wong| 2021| [YouTube ▶](https://www.youtube.com/watch?v=6fV2dRqJHvw)     |
+| 无地自容-Shameful| 黑豹乐队 Heibao band| 黑豹-Black Panther, 1991| [YouTube ▶](https://www.youtube.com/watch?v=9YxjRbs0Gsg)     |
+| 红豆-Red Bean| 王菲-Faye Wong| 唱遊-Sing and Play, 1998| [YouTube ▶](https://www.youtube.com/watch?v=5wmfXve11rM)     |
+| 阳光彩虹小白马-Sunshine, Rainbow, White pony| 大张伟-Wowkie Zhang| 2018| [YouTube ▶](https://www.youtube.com/watch?v=YG4iTGjuoKw)     |
+| 破碎的完整-Shattered Fullness| 宋念宇-XiaoYu| 她和她的她-Shards of Her, 2022| [YouTube ▶](https://www.youtube.com/watch?v=Fx3449cEohg)     |
+| 笼-Cage| 张碧晨-Diamond| 消失的她-Lost in the stars, 2023| [YouTube ▶](https://www.youtube.com/watch?v=gPqfGpLxVIU)     |
+| 大梦-Big dream| 瓦依那/任素汐-Vareihnaz/Suxi Ren| 2023| [YouTube ▶](https://www.youtube.com/watch?v=EVEgwFnWhSM)     |
+| 曾经的你-Once you| 许巍-Wei Xu| 每一刻都是崭新的-Every moment is new, 2004| [YouTube ▶](https://www.youtube.com/watch?v=OU3kSSMLNvE)     |
+| 人世间-A Lifelong Journey | 雷佳-Jia Lei| A Lifelong Journey, 2022| [YouTube ▶](https://www.youtube.com/watch?v=o1tludi1YeU)     |
+| 传说-Legend | 梅艳芳-Anita Mui | 千年女王-Queen Millennia, 1983| [YouTube ▶](https://www.youtube.com/watch?v=i3jue987XNk)     |
+| 富士山下-Sorrow Is Meaningless | 陈奕迅-Eason Chan| What'S Going On...?, 2006| [YouTube ▶](https://www.youtube.com/watch?v=ghnT1uOwfrY)     |
+| 稻香-Rice Field | 周杰伦-Jay Chou| 魔杰座-Capricorn, 2008| [YouTube ▶](https://www.youtube.com/watch?v=sHD_z90ZKV0)     |
+| 真的爱你-Truly Love You | Beyond| Beyond IV, 1989| [YouTube ▶](https://www.youtube.com/watch?v=tjCHafQIhFk)     |
+| 没那么简单-Not that simple | 黄小琥-Tiger Huang| 简单/不简单-Easy/Not easy, 2009| [YouTube ▶](https://www.youtube.com/watch?v=rmPHuvQoh0g)     |
+| 明天更漫长-Tomorrow will be longer | 窦唯-Wei Dou| 黑梦-Black dream, 1994| [YouTube ▶](https://www.youtube.com/watch?v=rQcQWC70a9w)     |
+| 中国人-Chinese people | 刘德华-Andy Lau| 爱如此神奇-Love is so amazing, 1997| [YouTube ▶](https://www.youtube.com/watch?v=dZUVGtSouCc)       |
  
 
 ## Non-Chinese songs
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
-| The Conflict of the Mind |  AURORA |   What Happened to the Heart? 2024| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/7TF91Zk8L5w.svg)](https://www.youtube.com/watch?v=7TF91Zk8L5w)     |
-| Telephone |   Lady Gaga |   The Fame Monster, 2009| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/Zwnvgz3ey78.svg)](https://www.youtube.com/watch?v=Zwnvgz3ey78)     |
-| The End of the World |   Skeeter Davis |   Skeeter Davis Sings The End of the World, 1962| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/fOCIuEOxpSY.svg)](https://www.youtube.com/watch?v=fOCIuEOxpSY)     |
-| Freed from Desire |   Gala |   Come into My Life, 1997| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/p3l7fgvrEKM.svg)](https://www.youtube.com/watch?v=p3l7fgvrEKM)     |
-| Stronger |   Britney Spears |   Oops!... I Did It Again, 2000| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/jORl6JYBUyY.svg)](https://www.youtube.com/watch?v=jORl6JYBUyY)     |
-| Zombie |   The Cranberries |  No Need to Argue, 1994| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/6Ejga4kJUts.svg)](https://www.youtube.com/watch?v=6Ejga4kJUts)     |
-| Sweet Dreams (Are Made of This) |  Eurythmics |  Sweet Dreams (Are Made of This), 1983| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/qeMFqkcPYcg.svg)](https://www.youtube.com/watch?v=qeMFqkcPYcg)     |
-| Waiting For Love |  Avicii,  Simon Aldred |  Stories, 2015| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/cHHLHGNpCSA.svg)](https://www.youtube.com/watch?v=cHHLHGNpCSA)     |
-| Gimme! Gimme! Gimme! |  ABBA | Mamma Mia! , 2008| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/XEjLoHdbVeE.svg)](https://www.youtube.com/watch?v=XEjLoHdbVeE)     |
-| Que sera sera |  Doris Day | The Man Who Knew Too Much, 1955| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/CcWbZUgymkw.svg)](https://www.youtube.com/watch?v=CcWbZUgymkw)     |
-| The Sound Of Silence | Simon & Garfunkel| Wednesday Morning, 3 A.M., 1964| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/DCtouot15cA.svg)](https://www.youtube.com/watch?v=DCtouot15cA)     |
-| Someone like you | Adele| 21, 2011| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/hLQl3WQQoQ0.svg)](https://www.youtube.com/watch?v=hLQl3WQQoQ0)     |
+| The Conflict of the Mind |  AURORA |   What Happened to the Heart? 2024| [YouTube ▶](https://www.youtube.com/watch?v=7TF91Zk8L5w)     |
+| Telephone |   Lady Gaga |   The Fame Monster, 2009| [YouTube ▶](https://www.youtube.com/watch?v=Zwnvgz3ey78)     |
+| The End of the World |   Skeeter Davis |   Skeeter Davis Sings The End of the World, 1962| [YouTube ▶](https://www.youtube.com/watch?v=fOCIuEOxpSY)     |
+| Freed from Desire |   Gala |   Come into My Life, 1997| [YouTube ▶](https://www.youtube.com/watch?v=p3l7fgvrEKM)     |
+| Stronger |   Britney Spears |   Oops!... I Did It Again, 2000| [YouTube ▶](https://www.youtube.com/watch?v=jORl6JYBUyY)     |
+| Zombie |   The Cranberries |  No Need to Argue, 1994| [YouTube ▶](https://www.youtube.com/watch?v=6Ejga4kJUts)     |
+| Sweet Dreams (Are Made of This) |  Eurythmics |  Sweet Dreams (Are Made of This), 1983| [YouTube ▶](https://www.youtube.com/watch?v=qeMFqkcPYcg)     |
+| Waiting For Love |  Avicii,  Simon Aldred |  Stories, 2015| [YouTube ▶](https://www.youtube.com/watch?v=cHHLHGNpCSA)     |
+| Gimme! Gimme! Gimme! |  ABBA | Mamma Mia! , 2008| [YouTube ▶](https://www.youtube.com/watch?v=XEjLoHdbVeE)     |
+| Que sera sera |  Doris Day | The Man Who Knew Too Much, 1955| [YouTube ▶](https://www.youtube.com/watch?v=CcWbZUgymkw)     |
+| The Sound Of Silence | Simon & Garfunkel| Wednesday Morning, 3 A.M., 1964| [YouTube ▶](https://www.youtube.com/watch?v=DCtouot15cA)     |
+| Someone like you | Adele| 21, 2011| [YouTube ▶](https://www.youtube.com/watch?v=hLQl3WQQoQ0)     |
 
 
 ## Music with only instruments
 
 | Song's name | Artist | Elbum-Year | Link |
 |------- | -------| ------- | :-------: |
-| 月亮代表我的心 The moon represents my heart|邓丽君-Teresa Teng (Singer), Kenny G (Saxphone)| I'm in the Mood For Love...The Most Romantic Melodies of All Time, 2006| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/XvLZHcUHfJ4.svg)](https://www.youtube.com/watch?v=XvLZHcUHfJ4)     |
-| Merry Christmas Mr. Lawrence | Sakamoto Ryūichi| Merry Christmas Mr. Lawrence, 1983| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/1OZDaRhHHyM.svg)](https://www.youtube.com/watch?v=1OZDaRhHHyM)     |
-| Serenade No. 13 - 1st Movement | Mozart| 1787| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/z4Hfv00eqoI.svg)](https://www.youtube.com/watch?v=z4Hfv00eqoI)     |
-| Serenade | Schubert| Schwanengesang, 1828| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/0bjB-IWEYI0.svg)](https://www.youtube.com/watch?v=0bjB-IWEYI0)     |
-| 春节序曲 Spring Festival Ouverture | 李焕之-Huanzhi Li| Spring Festival Suite, 1955| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/BmiSku86YVg.svg)](https://www.youtube.com/watch?v=BmiSku86YVg)     |
-| Whisper | Max Richter| My brilliant friend, 2018| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/Vt6FoLPVam4.svg)](https://www.youtube.com/watch?v=Vt6FoLPVam4)     |
-| Westworld Theme | Ramin Djawadi| 2016| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/rYelEUVQ50g.svg)](https://www.youtube.com/watch?v=rYelEUVQ50g)     |
-| Game of Thrones Theme | Ramin Djawadi| 2011| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/s7L2PVdrb_8.svg)](https://www.youtube.com/watch?v=s7L2PVdrb_8)     |
-| Zorba's Dance | Mikis Theodorakis| 1964| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/kG12C1oX5Eo.svg)](https://www.youtube.com/watch?v=kG12C1oX5Eo)     |
-| Friendships | Pascal Letoublon| 2017| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/mPmoojB54xI.svg)](https://www.youtube.com/watch?v=mPmoojB54xI)     |
-| Four seasons | Antonio Vivaldi| 1720| [![YouTube Video Likes]({{ site.baseurl }}/img/youtube-likes/GRxofEmo3HA.svg)](https://www.youtube.com/watch?v=GRxofEmo3HA)     |
+| 月亮代表我的心 The moon represents my heart|邓丽君-Teresa Teng (Singer), Kenny G (Saxphone)| I'm in the Mood For Love...The Most Romantic Melodies of All Time, 2006| [YouTube ▶](https://www.youtube.com/watch?v=XvLZHcUHfJ4)     |
+| Merry Christmas Mr. Lawrence | Sakamoto Ryūichi| Merry Christmas Mr. Lawrence, 1983| [YouTube ▶](https://www.youtube.com/watch?v=1OZDaRhHHyM)     |
+| Serenade No. 13 - 1st Movement | Mozart| 1787| [YouTube ▶](https://www.youtube.com/watch?v=z4Hfv00eqoI)     |
+| Serenade | Schubert| Schwanengesang, 1828| [YouTube ▶](https://www.youtube.com/watch?v=0bjB-IWEYI0)     |
+| 春节序曲 Spring Festival Ouverture | 李焕之-Huanzhi Li| Spring Festival Suite, 1955| [YouTube ▶](https://www.youtube.com/watch?v=BmiSku86YVg)     |
+| Whisper | Max Richter| My brilliant friend, 2018| [YouTube ▶](https://www.youtube.com/watch?v=Vt6FoLPVam4)     |
+| Westworld Theme | Ramin Djawadi| 2016| [YouTube ▶](https://www.youtube.com/watch?v=rYelEUVQ50g)     |
+| Game of Thrones Theme | Ramin Djawadi| 2011| [YouTube ▶](https://www.youtube.com/watch?v=s7L2PVdrb_8)     |
+| Zorba's Dance | Mikis Theodorakis| 1964| [YouTube ▶](https://www.youtube.com/watch?v=kG12C1oX5Eo)     |
+| Friendships | Pascal Letoublon| 2017| [YouTube ▶](https://www.youtube.com/watch?v=mPmoojB54xI)     |
+| Four seasons | Antonio Vivaldi| 1720| [YouTube ▶](https://www.youtube.com/watch?v=GRxofEmo3HA)     |
 
 
 
