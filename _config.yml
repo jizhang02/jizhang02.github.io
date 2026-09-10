@@ -120,8 +120,17 @@ friends: [
         title: "Chinese Poem",
         href: "https://awesome-poetry.top/huajianji/"
     },{
-        title: "Chinese color",
+        title: "Chinese Color",
         href: "https://colors.ichuantong.cn/"
+    },{
+        title: "Chinese Food",
+        href: "https://howtocook.aiursoft.com/"
+    },{
+        title: "Chinese Encyclopedia",
+        href: "https://www.zgbk.com/"
+    },{
+        title: "Chinese Historical Figures",
+        href: "https://inindex.com/biog"
     # },{
     #    title: "DHong Say",
     #    href: "http://dhong.co"
