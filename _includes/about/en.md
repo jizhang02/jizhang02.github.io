@@ -35,6 +35,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
+  - Sep, 2026, [CinC2026 conference](https://cinc2026.org/), poster presnetation, Madrid, Spain
   - Nov, 2025, [IEEE-MIC2025 conference](https://nssmic.ieee.org/2025/), poster presnetation, Yokohama, Japan
   - Aug, 2025, Co-mentored four interns.
   - Jul, 2025, [RISE-MICCAI Summer School](https://summer.rise-miccai.org/)，[Notes](https://github.com/jizhang02/Code-Note/tree/8844a9288bf0ab9fb6e6fa0ce92ed3ddd0432ca0/Summer-School_RISE_MICCAI_2025), online
