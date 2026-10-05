@@ -10,7 +10,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
    + Head：[Nadjia Kachenoura](https://www.lib.upmc.fr/en/member-page/?pers_id=68)
      
 - Oct. 2022 - Oct. 2025: Brest, Bretagne, France
-   + Place: [UBO](https://nouveau.univ-brest.fr/en), [LaTIM](https://latim.univ-brest.fr/) lab, team ACTION
+   + Place: [University of Western Brittany](https://nouveau.univ-brest.fr/en), [LaTIM](https://latim.univ-brest.fr/) lab, team ACTION
    + Position: Post-doc
    + Head: [Julien Bert](https://www.linkedin.com/in/julien-bert-818a63130/)
    
