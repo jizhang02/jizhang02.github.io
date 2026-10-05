@@ -56,7 +56,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
   - 2017年7月，ICIA2017智能农业国际学术会议，长春，吉林，中国
   - 2016年6月，陕西省第三届研究生电子设计竞赛三等奖，西安，陕西，中国
   
-#### 学术成果
+#### 代表性的学术成果
 - 2026 [Semi-supervised learning for dose prediction in targeted radionuclide therapy: a synthetic data study](https://iopscience.iop.org/article/10.1088/1361-6560/ae36df/pdf)). [`code`](https://github.com/jizhang02/SemiDose)
 - 2024 [Automated Detection of Myopic Maculopathy in MMAC 2023: Achievements in Classification, Segmentation, and Spherical Equivalent Prediction](https://arxiv.org/abs/2401.03615)). [`code`](https://github.com/jizhang02/MMAC_LaTIM_Solution)
 - 2022 [Segmentation-Based vs. Regression-Based Biomarker Estimation: A Case Study of Fetus Head Circumference Assessment from Ultrasound Images](https://www.mdpi.com/2313-433X/8/2/23). [`code`](https://github.com/jizhang02/HC-reg-seg)
