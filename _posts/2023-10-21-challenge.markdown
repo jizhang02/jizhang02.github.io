@@ -8,7 +8,7 @@ header-img: "img/post-bg.jpg"
 tags:
     - Computer Science
     - Challenge
-    - AI
+    - Artificial Intelligence
 
 ---
 
