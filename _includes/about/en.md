@@ -35,12 +35,12 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
 
 
 #### Scholar activities
-  - Sep, 2026, [CinC2026 conference](https://cinc2026.org/), poster presnetation, Madrid, Spain
-  - Nov, 2025, [IEEE-MIC2025 conference](https://nssmic.ieee.org/2025/), poster presnetation, Yokohama, Japan
+  - Sep, 2026, [CinC2026 conference](https://cinc2026.org/), [Poster](https://1drv.ms/b/c/ed2e624ab88ab8b4/IQBGl4kknbpoSqMDALPQjm_4AW37gyHCeMesofWCoJgxaZA?e=mz8n84), Madrid, Spain
+  - Nov, 2025, [IEEE-MIC2025 conference](https://nssmic.ieee.org/2025/), [Poster](https://1drv.ms/b/c/ed2e624ab88ab8b4/IQCF0ZI_8BarTav_HZ6U11MZAanAuBL488WB_YA9Frai6n0?e=HfkPDt), Yokohama, Japan
   - Aug, 2025, Co-mentored four interns.
   - Jul, 2025, [RISE-MICCAI Summer School](https://summer.rise-miccai.org/)，[Notes](https://github.com/jizhang02/Code-Note/tree/8844a9288bf0ab9fb6e6fa0ce92ed3ddd0432ca0/Summer-School_RISE_MICCAI_2025), online
   - Nov, 2024, [GATE10 released](https://github.com/OpenGATE/opengate), Contributed a bit on GitHub
-  - Oct, 28th, 2024, [IEEE-MIC2024 conference](https://nssmic.ieee.org/2024/), oral presnetation, Tampa, USA
+  - Oct, 28th, 2024, [IEEE-MIC2024 conference](https://nssmic.ieee.org/2024/), [PPT](https://1drv.ms/p/c/ed2e624ab88ab8b4/IQA8LhtG66grRrzBnPUD5DTLAR-SRTfjQPSxok_YrpMwcwM?e=XUUedg), Tampa, USA
   - Oct, 10th, 2024, [MICCAI2024-DIAMOND Challenge](https://www.codabench.org/competitions/2333/), [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18), [Certificate](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
   - Oct, 10th, 2024, [MICCAI2024-MARIO Challenge](https://youvenz.github.io/MARIO_challenge.github.io/) ranked 7th in 2 tasks, [Video](https://1drv.ms/v/c/ed2e624ab88ab8b4/ERCkPN5zQx5CkUc6IJuVEgEBhKd2KHxYLSwcvRdylcT7VA?e=XFE3lq), [Certificate](https://drive.google.com/file/d/1nOaO6Tw-pzBRndRL7Unch6XZJm4Axmee/view?usp=sharing)
   - May, 30th, 2024, [ISBI2024-JustRAIGS Challenge](https://justraigs.grand-challenge.org/justraigs/) ranked 8th in 2 tasks, [Certificate](https://drive.google.com/file/d/1NlQ3fuYqvOumqG_zA7xwitvRLWeFswMa/view?usp=drive_link)

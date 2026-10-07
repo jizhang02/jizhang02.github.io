@@ -30,12 +30,12 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
 #### 学术活动
-  - 2026年9月，[CinC2026 会议](https://cinc2026.org/)，海报报告，马德里，西班牙
-  - 2025年11月，[IEEE-MIC2025 会议](https://nssmic.ieee.org/2025/)，海报报告，横滨，日本
+  - 2026年9月，[CinC2026 会议](https://cinc2026.org/)，[Poster](https://1drv.ms/b/c/ed2e624ab88ab8b4/IQBGl4kknbpoSqMDALPQjm_4AW37gyHCeMesofWCoJgxaZA?e=mz8n84)，马德里，西班牙
+  - 2025年11月，[IEEE-MIC2025 会议](https://nssmic.ieee.org/2025/)，[Poster](https://1drv.ms/b/c/ed2e624ab88ab8b4/IQCF0ZI_8BarTav_HZ6U11MZAanAuBL488WB_YA9Frai6n0?e=HfkPDt)，横滨，日本
   - 2025年8月，合作指导了4名实习生
   - 2025年7月，[RISE-MICCAI Summer School](https://summer.rise-miccai.org/)，[笔记](https://github.com/jizhang02/Code-Note/tree/8844a9288bf0ab9fb6e6fa0ce92ed3ddd0432ca0/Summer-School_RISE_MICCAI_2025)，线上
   - 2024年11月，[GATE10 发布了](https://github.com/OpenGATE/opengate), 在GitHub上贡献了一部分工作
-  - 2024年10月28日，[IEEE-MIC2024 会议](https://nssmic.ieee.org/2024/)，口头报告，坦帕，美国
+  - 2024年10月28日，[IEEE-MIC2024 会议](https://nssmic.ieee.org/2024/)，[PPT](https://1drv.ms/p/c/ed2e624ab88ab8b4/IQA8LhtG66grRrzBnPUD5DTLAR-SRTfjQPSxok_YrpMwcwM?e=XUUedg)，坦帕，美国
   - 2024年10月10日，[MICCAI2024-DIAMOND 竞赛](https://www.codabench.org/competitions/2333/)，[视频](https://1drv.ms/v/c/ed2e624ab88ab8b4/EduChtPAOVVJtK_i0PMvoPIBRirWY-ztuaRbPgedTCRiEw?e=gBEH18)，[证书](https://drive.google.com/file/d/1YzKm_qFpkl_tnTFDoijwtjnuOZjllypN/view?usp=sharing)
   - 2024年10月10日，[MICCAI2024-MARIO 竞赛](https://youvenz.github.io/MARIO_challenge.github.io/) 2个任务中综合排名第7，[视频](https://1drv.ms/v/c/ed2e624ab88ab8b4/ERCkPN5zQx5CkUc6IJuVEgEBhKd2KHxYLSwcvRdylcT7VA?e=XFE3lq)，[证书](https://drive.google.com/file/d/1nOaO6Tw-pzBRndRL7Unch6XZJm4Axmee/view?usp=sharing)
   - 2024年5月30日，[ISBI2024-JustRAIGS 竞赛](https://justraigs.grand-challenge.org/justraigs/) 2个任务中综合排名第8，[证书](https://drive.google.com/file/d/1NlQ3fuYqvOumqG_zA7xwitvRLWeFswMa/view?usp=drive_link)
