@@ -2,7 +2,6 @@
 .research-notes-page .container { width: calc(100% - 64px); max-width: 1320px; }
 .research-notes-page .post-heading { max-width: 1000px; }
 .research-notes-page .post-updated { display: block; margin-top: 8px; }
-.research-notes-page article { background: #f6f8fa; }
 .research-notes-page .research-notes-content { padding-top: 36px; padding-bottom: 36px; }
 .research-notes-content { color: #243447; line-height: 1.85; }
 .research-notes-content > p, .research-notes-content > blockquote { max-width: 900px; }
