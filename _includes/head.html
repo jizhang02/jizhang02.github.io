@@ -25,6 +25,9 @@
     <link rel="stylesheet" href="{{ "/css/hux-blog.min.css" | prepend: site.baseurl }}">
 
     <!-- Pygments Github CSS -->
+    {% if page.research-notes %}
+    <link rel="stylesheet" href="{{ '/css/research-notes.css' | prepend: site.baseurl }}">
+    {% endif %}
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
 
     <!-- Custom Fonts -->
