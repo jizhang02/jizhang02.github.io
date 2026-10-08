@@ -41,6 +41,9 @@ layout: default
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
                     <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    {% if page.last_updated %}
+                    <span class="meta post-updated">Last updated: <time datetime="{{ page.last_updated | date: '%Y-%m-%d' }}">{{ page.last_updated | date: "%B %-d, %Y" }}</time></span>
+                    {% endif %}
                 </div>
             </div>
         </div>
