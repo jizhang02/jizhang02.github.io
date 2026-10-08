@@ -25,6 +25,7 @@ A growing collection of papers, code, tools, datasets, and ideas in medical rese
 
 | Resource | Year | Topic | What it offers | Type | Last accessed |
 | :--- | :---: | :--- | :--- | :--- | :---: |
+| [MICCAI Open Source Papers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) | 2019–2026 | Medical image analysis; MICCAI | Collection of MICCAI papers with links to open-source code and dataset information. | Literature, Code | 2026-10-08 |
 | [LION](https://github.com/ENHANCE-PET/LION) | 2026 | PET; tumor segmentation | Automated lesion segmentation for FDG and PSMA PET scans. | Paper, Code | 2026-10-08 |
 | [The Virtual Heart](https://thevirtualheart.com/) | 2024 | Cardiac anatomy; medical education | Interactive 3D heart visualization and cardiac murmur education. | Web Platform | 2026-10-08 |
 
