@@ -2,7 +2,7 @@
 layout:     post
 title:      "Medical Research, Tools, and Ideas"
 subtitle:   "医学研究笔记"
-date:       2026-10-08
+date:       2023-01-10
 last_updated: 2026-10-08
 author:     "Jing"
 header-img: "img/post-bg.jpg"
