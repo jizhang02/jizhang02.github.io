@@ -36,6 +36,10 @@
 .research-notes-content .resource-offer[open] summary span { display: block; }
 .research-notes-content .resource-offer[open] summary::after { content: "收起解读"; }
 .research-notes-content .resource-offer > div { margin-top: 12px; }
+.research-notes-content .resource-offer p { margin: 0 0 12px; }
+.research-notes-content .resource-offer ul { padding-left: 22px; margin: 12px 0; }
+.research-notes-content .resource-offer li { margin-bottom: 10px; }
+.research-notes-content .notes-index td { vertical-align: top; }
 .research-notes-content pre { max-height: 520px; overflow: auto; border-radius: 10px; }
 @media (max-width: 767px) {
   .research-notes-page .container { width: 100%; }
