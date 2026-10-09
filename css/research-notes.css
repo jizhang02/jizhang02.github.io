@@ -30,6 +30,12 @@
 .research-notes-content details { clear: both; margin-top: 22px; border-top: 1px solid #e5ecef; padding-top: 16px; }
 .research-notes-content summary { cursor: pointer; font-weight: 600; color: #087e8b; }
 .research-notes-content details ul { margin-top: 14px; }
+.research-notes-content .notes-index .resource-offer { margin: 0; padding: 0; border: 0; }
+.research-notes-content .resource-offer summary span { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
+.research-notes-content .resource-offer summary::after { content: "展开解读"; display: block; font-size: 12px; font-weight: 400; }
+.research-notes-content .resource-offer[open] summary span { display: block; }
+.research-notes-content .resource-offer[open] summary::after { content: "收起解读"; }
+.research-notes-content .resource-offer > div { margin-top: 12px; }
 .research-notes-content pre { max-height: 520px; overflow: auto; border-radius: 10px; }
 @media (max-width: 767px) {
   .research-notes-page .container { width: 100%; }
