@@ -32,9 +32,9 @@
 .research-notes-content details ul { margin-top: 14px; }
 .research-notes-content .notes-index .resource-offer { margin: 0; padding: 0; border: 0; }
 .research-notes-content .resource-offer summary span { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
-.research-notes-content .resource-offer summary::after { content: "展开解读"; display: block; font-size: 12px; font-weight: 400; }
+.research-notes-content .resource-offer summary::after { content: "＋"; display: block; font-size: 18px; font-weight: 400; line-height: 1.4; }
 .research-notes-content .resource-offer[open] summary span { display: block; }
-.research-notes-content .resource-offer[open] summary::after { content: "收起解读"; }
+.research-notes-content .resource-offer[open] summary::after { content: "−"; }
 .research-notes-content .resource-offer > div { margin-top: 12px; }
 .research-notes-content .resource-offer p { margin: 0 0 12px; }
 .research-notes-content .resource-offer ul { padding-left: 22px; margin: 12px 0; }
