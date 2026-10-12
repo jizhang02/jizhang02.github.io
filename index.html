@@ -16,11 +16,7 @@ description: "顺其自然，随遇而安"
         {% endif %}
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-        {% if post.last_updated %}
-        <br>
-        Updated by Jing on {{ post.last_updated | date: "%B %-d, %Y" }}
-        {% endif %}
+        Posted on {{ post.date | date: "%B %-d, %Y" }}{% if post.last_updated %}, updated on {{ post.last_updated | date: "%B %-d, %Y" }}{% endif %}
     </p>
 </div>
 <hr>
