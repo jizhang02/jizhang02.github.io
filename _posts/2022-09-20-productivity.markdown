@@ -3,6 +3,7 @@ layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
 date:       2022-09-20
+last_updated: 2026-10-12
 author:     "Jing Zhang"
 header-img: "img/post-bg.jpg"
 tags:
@@ -15,13 +16,31 @@ tags:
 
 
 
+## Categories
+
+- [Write](#write)
+- [Conference info](#conference-info)
+- [Literature helpers](#literature-helpers)
+- [Tutorials](#tutorials)
+- [Open Courses](#open-courses)
+- [Books](#books)
+- [AI playground](#ai-playground)
+- [SoftwareTools](#software-tools)
+- [Graphs online](#graphs-online)
+- [Code](#code)
+- [Office](#office)
+- [Blogs](#blogs)
+- [Misc](#misc)
+
 ## Say something
+
+*Last updated: {{ page.last_updated | date: "%Y-%m-%d" }}*
 
 The reason why I wrote this article is because I think everything should be sharable so that people can make progress. 
 
 Leave a comment if you know some awesome resources.
 
-* Write
+* <a id="write"></a>Write
 
     * [Overleaf](https://www.overleaf.com/), a online LaTeX editor. You can share your work with other colleages.
     * [Slager](https://www.slager.link/#/home), a online LaTeX editor (中文版).
@@ -38,21 +57,24 @@ Leave a comment if you know some awesome resources.
     * [Markdonw-badges](https://github.com/Ileriayo/markdown-badges), badges for your personal developer branding, profile, and projects.
     * [Typora](https://typora.io/), markdown editer.
     * [Revealjs](https://revealjs.com/), the HTML presentation framework.
+    * [Simplenote](https://simplenote.com/), cross-platform notes with Markdown support.
+    * [Code Paste](https://codepaste.top/), copy syntax-highlighted code into documents and slides.
 
-* Conference info    
+* <a id="conference-info"></a>Conference info
     * [WikiCFP](http://www.wikicfp.com/cfp/), a semantic wiki for Calls For Papers in science and technology fields.
     * [Conference Partner](https://www.myhuiban.com/), conferences and journals information.
     * [Top Computer Science conference](http://www.guide2research.com/topconf/), Top Conferences Ranking.
     * [SlidesLive](https://library.slideslive.com/), slides, videos.
     * [AI Conference Deadline](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
+    * [CCF Deadlines](https://ccfddl.com/), submission deadlines for computer science conferences with CCF rankings.
 
 
-* Literature helpers
+* <a id="literature-helpers"></a>Literature helpers
     * [Semantic Scholar](https://www.semanticscholar.org/), a free, AI-powered research tool for scientific literature.
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
     * [Litmaps](https://app.litmaps.com/), find and understand research better.
+    * [O-DataMap](https://o-datamap.oall.com/), an interactive map for exploring scientific research and experimental data.
     * [PaSa](https://pasa-agent.ai/), paper search agent.
-    * [Papers with code](https://paperswithcode.com/) 
     * [Sci-Hub](http://cmekg.pcl.ac.cn/), to remove all the barriers in the way of science. 
     * [Google Scholar](https://scholar.google.com/)
     * [Zotero](https://www.zotero.org/), personal research assistant.
@@ -63,16 +85,16 @@ Leave a comment if you know some awesome resources.
     * [EasyScholar](https://www.easyscholar.cc/), browser add-on, 显示文献排名，并且提供翻译、文献收藏功能.
     * [X-MOL学术平台](https://www.x-mol.com/), 化学类网址导航, 化学软件和数据库导航.
     * [棵岩阅读](https://www.keyanyuedu.com/), 通过AI技术, 文献管理, 论文元信息提取, 全文翻译功能.
-    * [学术巷子](https://www.xueshuxiangzi.com/redirect), 来自全球的每日最新论文.
+    * [Daily arXiv AI Enhanced](https://dw-dengwei.github.io/daily-arXiv-ai-enhanced/), daily arXiv paper updates with AI-generated summaries.
+    * [科研废物导航](https://yanweb.top/), a directory of research tools and academic resources.
 
 
-* Tutorials
+* <a id="tutorials"></a>Tutorials
     * [CVPR 2020 Tutorials](http://cvpr2020.thecvf.com/program/tutorials)
     * [Machine Learning Summer Schools](http://mlss.cc/index.html)
     * [W3Schools Online Web Tutorials](https://www.w3schools.com/)
     * [OpenCV Tutorials](https://github.com/JimmyHHua/opencv_tutorials) 
     * [Google Machine Learning Education](https://developers.google.com/machine-learning?hl=en)
-    * [Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)
     * [Geometric Deep Learning](https://geometricdeeplearning.com/)
     * [Immersive linear algebra](http://immersivemath.com/ila/index.html)
     * [MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2022/)
@@ -84,17 +106,20 @@ Leave a comment if you know some awesome resources.
     * [动手学大模型](https://sjtullm.gitbook.io/dive-into-llms)
     * [Project based learning](https://github.com/practical-tutorials/project-based-learning)
     * [Scientific Python Lectures](https://lectures.scientific-python.org/)
+    * [Datawhale](https://www.datawhale.cn/home), an open-source community for learning AI and data science.
 
-* Open Courses
+* <a id="open-courses"></a>Open Courses
     * [Courses of Harvard University](https://pll.harvard.edu/catalog)
     * [Courses of Stanford University](https://online.stanford.edu/)
     * [Courses of MIT](https://ocw.mit.edu/)
     * [MOOC China](https://www.icourse163.org/)
+    * [国家高等教育智慧教育平台](https://www.chinaooc.com.cn/), a portal for university courses and educational resources.
+    * [华文慕课](https://www.chinesemooc.org/index.php), Chinese-language MOOCs from Peking University.
     * [CrashCourse](https://crashcourse.club/category)
     * [LLM course](https://github.com/mlabonne/llm-course)
 
 
-* Books
+* <a id="books"></a>Books
     * [Free programming books](https://github.com/EbookFoundation/free-programming-books), list of Free Learning Resources In Many Languages.
     * [Dive into Deep Learning](https://zh-v2.d2l.ai/)
     * [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
@@ -118,11 +143,11 @@ Leave a comment if you know some awesome resources.
     * [电子书制作](https://book.crifan.com/books/ebook_system_gitbook/website/)
     * [书栈网](https://www.bookstack.cn/)
     * [Z-library](https://singlelogin.re/)
-    * [Anna’s Archive (annas-archive.gs)](https://annas-archive.gs/)
 
 
-* AI playground
+* <a id="ai-playground"></a>AI playground
     * [Model Zoo](https://modelzoo.co/), discover open source deep learning code and pretrained models.   
+    * [Kaggle Models](https://www.kaggle.com/models), discover pretrained machine learning models; the destination of TensorFlow Hub.
     * [Chinese Medical Knowledge Graph](http://cmekg.pcl.ac.cn/), 中文医学知识图谱
     * [汉语反向词典](https://wantwords.net/)
     * [识典古籍](https://www.shidianguji.com/)
@@ -131,20 +156,18 @@ Leave a comment if you know some awesome resources.
     * [OpenMMLab](https://openmmlab.com/)
     * [Universal Summarizer](https://labs.kagi.com/ai/sum)
     * [Discover AI models & code](https://www.catalyzex.com/)
-    * [SoTA of Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
     * [An Interactive Introduction to Artificial Intelligence (AI)](https://okai.brown.edu/index.html)
-    * [Visualizing Data using the Embedding Projector in TensorBoard](https://projector.tensorflow.org/)
+    * [Embedding Projector](https://projector.tensorflow.org/), interactive visualization of high-dimensional embeddings.
     * [Deep playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=7,2,2,2&seed=0.40403&showTestData=false&discretize=false&percTrainData=50&x=true&y=false&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
-    * [Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations](https://fredhohman.com/summit/)
-    * [NeuralDivergence](http://haekyu.com/neural-divergence/)
+    * [SUMMIT: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations](https://fredhohman.com/summit/)
     * [Weights & Biases](https://wandb.ai/site)
     * [GAN Lab](https://poloclub.github.io/ganlab/)
     * [ChatGPT](https://chat.openai.com/chat), you can ask anything.
     * [Gemini](https://gemini.google.com/app)
+    * [Google AI Studio](https://aistudio.google.com/prompts/new_chat), a playground for testing Gemini models and prototyping AI applications.
     * [Bing Chat](https://www.bing.com/search?form=NTPCHT&showconv=1&sendquery=1&q=bing)
     * [Chat with any PDF](https://www.chatpdf.com/)
     * [Segment Anything](https://segment-anything.com/)
-    * [Ask-Anything](https://ask.opengvlab.com/), multifunctional video question answering tool
     * [SciSpace](https://typeset.io/), search the largest scientific corpus in the world.
     * [Elicit](https://elicit.org/), ask a research question.
     * [MyShell](https://app.myshell.ai/explore), an open ecosystem for AI Native Apps.
@@ -165,22 +188,21 @@ Leave a comment if you know some awesome resources.
     * [Kimi](https://kimi.moonshot.cn/), large language models.
     * [豆包](https://www.doubao.com/chat/), large language models.
     * [Prism](https://prism.openai.com/), Latex editor with LLM.
-    * [Litewrite](https://litewrite.ai/), Latex editor with LLM.
-      
     
 
 
-* SoftwareTools
+* <a id="software-tools"></a>SoftwareTools
     * [Snipaste](https://www.snipaste.com/), screenshot
     * [ImageJ](https://imagej.net/), image processing
     * [Slicer](https://www.slicer.org/), image processing
     * [SimpleITK](https://simpleitk.org/), image processing
+    * [Keras](https://keras.io/), a deep learning API with guides and code examples.
     * [VSCode](https://code.visualstudio.com/), code editer
     * [PyCharm](https://www.jetbrains.com/pycharm/), code editer
     * [LibreOffice](https://www.libreoffice.org/), office tool
     * [3D Viewer](https://3dviewer.net/), online 3D viewer
 
-* Graphs online
+* <a id="graphs-online"></a>Graphs online
     * [Canva](https://www.canva.com/graphs/mind-maps/)
     * [MindMeister](https://www.mindmeister.com/)
     * [MindMup](https://www.mindmup.com/)
@@ -191,10 +213,12 @@ Leave a comment if you know some awesome resources.
     * [Mermaid](https://mermaid.js.org/)
     * [Excalidraw](https://github.com/excalidraw/excalidraw)
     * [Draw.io](https://app.diagrams.net/), online drawing tool.
+    * [Next AI Draw.io](https://next-ai-drawio.jiang.jp/en), an AI-powered diagram generator.
+    * [Drawnix](https://drawnix.com/), an open-source whiteboard tool for diagrams and mind maps.
     * [earth](https://earth.nullschool.net/), a project to visualize global weather conditions
 
 
-* Code
+* <a id="code"></a>Code
     * [Gist](https://gist.github.com/), instantly share code, notes, and snippets.
     * [GitHub](https://www.github.com/)
     * [GitLab](https://about.gitlab.com/)
@@ -202,29 +226,31 @@ Leave a comment if you know some awesome resources.
     * [Gitee](https://gitee.com/dashboard)
     * [Try Python](https://www.w3schools.com/python/trypython.asp?filename=demo_default)
     * [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+    * [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/_static/lab/index.html), run Jupyter notebooks directly in a web browser.
     * [Binder](https://mybinder.org/) Turn a Git repo into a collection of interactive notebooks
     * [DockerHub](https://hub.docker.com/)
     * [CodeConvertAI](https://www.codeconvert.ai/) e.g. Convert MatLab code to Python
 
 
-* Office
+* <a id="office"></a>Office
     * [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage), personal Cloud Storage, can open office documents online.
     * [Outlook](https://outlook.live.com), personal email and calendar from Microsoft
     * [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
     * [Edge](https://www.microsoft.com/en-us/edge?exp=e01&ocid=ORSEARCH_Bing&form=MA13FJ), Edge browser.
     * [Zoom](https://zoom.us/)
+    * [Jitsi Meet](https://meet.jit.si/), browser-based video meetings for collaboration.
     * [Anydesk](https://anydesk.com/en), a remote connection tool.
     * [AnyViewer](https://www.anyviewer.com/), a remote connection tool.
     * [RustDesk](https://rustdesk.com/), the fast open-source remote access and support software.
 
       
-* Blogs
+* <a id="blogs"></a>Blogs
     * [Personnal website by Jack Cui](https://cuijiahua.com/), about Machine learning and Deep learning.
     * [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
     * [Personnal website by Redstone](https://redstonewill.com/), Tutorial on various computer vision and deep learning.
     * [Lil’Log](https://lilianweng.github.io/), She’s documenting her learning notes in this blog since 2017.
 
-* Misc
+* <a id="misc"></a>Misc
     * [Slack](https://slack.com/), social media
     * [Discord](https://discord.com/), social media
     * [Radio Garden](https://radio.garden/), radio on earth
