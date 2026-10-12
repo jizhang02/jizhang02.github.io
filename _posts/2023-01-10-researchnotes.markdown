@@ -3,7 +3,7 @@ layout:     post
 title:      "Medical Research Notes"
 subtitle:   "医学研究笔记"
 date:       2023-01-10
-last_updated: 2026-10-09
+last_updated: 2026-10-12
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 header-mask: 0.45
@@ -81,6 +81,14 @@ A growing collection of papers, code, tools, datasets, and ideas in medical rese
 <td>Automated lesion segmentation for FDG and PSMA PET scans.</td>
 <td>Paper, Code</td>
 <td>2026-10-08</td>
+</tr>
+<tr>
+<td><a href="https://github.com/YichiZhang98/SAM4MIS">SAM4MIS</a></td>
+<td>2023</td>
+<td><strong>SAM</strong>; segmentation foundation models; medical imaging</td>
+<td><details class="resource-offer"><summary><span>How can SAM-based foundation models generalize to medical images and enable annotation-efficient, interactive 3D segmentation?</span></summary><div><ul><li><strong>SAM 基础介绍：</strong>介绍图像编码器、提示编码器和掩膜解码器如何结合图像与用户提示生成分割，并提供原始论文和医学应用发展时间线。</li><li><strong>SAM 2/3 医学适配：</strong>按时间整理 SAM 2、SAM 3 在医学图像、三维影像和视频中的评估与适配研究，附论文及可用代码链接。</li><li><strong>基础模型 / SAM 医学分割文献：</strong>汇总 SAM 及其他分割基础模型的医学应用，包括零样本评估、微调、提示设计和少标注学习等方向。</li><li><strong>开发与验证数据集：</strong>整理医学基础模型相关数据资源，包括交互式分割基准、M3D 和 SA-Med2D-20M，提供论文与数据入口。</li><li><strong>CVPR 2025 交互式 3D 生物医学分割工作坊：</strong>提供挑战赛及论文入口，关注适应不同解剖结构和成像条件、并通过用户交互逐步改善结果的通用三维分割模型。</li></ul></div></details></td>
+<td>Paper, Code, Dataset</td>
+<td>2026-10-12</td>
 </tr>
 <tr>
 <td><a href="https://github.com/ashemag/human-atlas">Human Atlas</a></td>
