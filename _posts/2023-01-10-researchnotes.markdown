@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Medical Research, Tools, and Ideas"
+title:      "Medical Research Notes"
 subtitle:   "医学研究笔记"
 date:       2023-01-10
 last_updated: 2026-10-09
