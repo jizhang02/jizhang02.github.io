@@ -34,8 +34,6 @@ tags:
 
 ## Say something
 
-*Last updated: {{ page.last_updated | date: "%Y-%m-%d" }}*
-
 The reason why I wrote this article is because I think everything should be sharable so that people can make progress. 
 
 Leave a comment if you know some awesome resources.
@@ -43,7 +41,6 @@ Leave a comment if you know some awesome resources.
 * <a id="write"></a>Write
 
     * [Overleaf](https://www.overleaf.com/), a online LaTeX editor. You can share your work with other colleages.
-    * [Slager](https://www.slager.link/#/home), a online LaTeX editor (中文版).
     * [List of LaTeX mathematical symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
     * [Tables Generator](https://www.tablesgenerator.com/), a latex table generator.
     * [Online PDF tool](https://www.ilovepdf.com/)
