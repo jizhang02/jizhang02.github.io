@@ -59,6 +59,14 @@ A growing collection of papers, code, tools, datasets, and ideas in medical rese
 <td>2026-10-14</td>
 </tr>
 <tr>
+<td><a href="https://github.com/ImprintLab/Medical-SAM-Adapter">Medical SAM Adapter</a></td>
+<td>2023</td>
+<td><strong>Adapter</strong>; parameter-efficient SAM adaptation</td>
+<td><details class="resource-offer"><summary><span>How can lightweight adapters equip SAM with medical knowledge while retaining its pretrained capabilities?</span></summary><div><p><strong>为什么需要 Adapter：</strong>SAM 的自然图像预训练与医学影像存在差异，用户提示能指定目标，却不能直接补足模型的医学领域知识。该方法通过小型可训练适配模块调整内部特征，保留大部分预训练参数，以较低训练成本完成医学适配。</p><ul><li><strong>参数高效微调：</strong>论文报告仅更新约 2% 的参数，并在 17 个医学图像分割任务上评估。</li><li><strong>二维到三维：</strong>Space-Depth Transpose（SD-Trans）帮助二维 SAM 利用三维医学影像信息。</li><li><strong>提示条件适配：</strong>Hyper-Prompting Adapter（HyP-Adpt）将用户提示结合到适配过程。</li></ul><p><strong>时间与资源：</strong>论文于 2023 年首次发布预印本；仓库提供训练与评估代码、示例及预训练 Adapter 入口。Adapter 是参数高效微调的一种方式，并非医学 SAM 必须采用的组件。</p></div></details></td>
+<td>Paper, Code, Model</td>
+<td>2026-10-14</td>
+</tr>
+<tr>
 <td><a href="https://github.com/YichiZhang98/SAM4MIS">SAM4MIS</a></td>
 <td>2023</td>
 <td><strong>SAM</strong>; segmentation foundation models; medical imaging</td>
