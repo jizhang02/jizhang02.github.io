@@ -3,12 +3,12 @@ layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
 date:       2022-09-20
-last_updated: 2026-10-12
+last_updated: 2026-10-27
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
     - Computer Science
-    - Deep Learning
+    - Artificial Intelligence
     - Tools
     - Github
 ---
@@ -67,6 +67,7 @@ Leave a comment if you know some awesome resources.
 
 
 * <a id="literature-helpers"></a>Literature helpers
+    * [OpenAlex](https://openalex.org/), A free, open global database of academic literature and a knowledge graph for scientific research.
     * [Semantic Scholar](https://www.semanticscholar.org/), a free, AI-powered research tool for scientific literature.
     * [Connected Papers](https://www.connectedpapers.com/), papers are connected.
     * [Litmaps](https://app.litmaps.com/), find and understand research better.
@@ -114,6 +115,8 @@ Leave a comment if you know some awesome resources.
     * [华文慕课](https://www.chinesemooc.org/index.php), Chinese-language MOOCs from Peking University.
     * [CrashCourse](https://crashcourse.club/category)
     * [LLM course](https://github.com/mlabonne/llm-course)
+    * [Phet](https://phet.colorado.edu/), interactive simulations for science and math.
+
 
 
 * <a id="books"></a>Books
@@ -184,7 +187,6 @@ Leave a comment if you know some awesome resources.
     * [通义千问](https://www.tongyi.com/qianwen/), large language models.
     * [Kimi](https://kimi.moonshot.cn/), large language models.
     * [豆包](https://www.doubao.com/chat/), large language models.
-    * [Prism](https://prism.openai.com/), Latex editor with LLM.
     
 
 
@@ -251,6 +253,3 @@ Leave a comment if you know some awesome resources.
     * [Slack](https://slack.com/), social media
     * [Discord](https://discord.com/), social media
     * [Radio Garden](https://radio.garden/), radio on earth
-    * [Phet](https://phet.colorado.edu/), education
-
-   
