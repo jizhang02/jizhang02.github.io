@@ -187,6 +187,7 @@ Leave a comment if you know some awesome resources.
     * [通义千问](https://www.tongyi.com/qianwen/), large language models.
     * [Kimi](https://kimi.moonshot.cn/), large language models.
     * [豆包](https://www.doubao.com/chat/), large language models.
+    * [SKILL: diagram-design](https://github.com/cathrynlavery/diagram-design), editorial diagram design for Claude Code, Codex, GitHub Copilot.
     
 
 
