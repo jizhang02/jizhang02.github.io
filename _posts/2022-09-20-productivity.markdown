@@ -3,7 +3,7 @@ layout:     post
 title:      "Resources and tools in scientific research"
 subtitle: "科学研究中实用工具和资源"
 date:       2022-09-20
-last_updated: 2026-10-27
+last_updated: 2026-10-29
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
