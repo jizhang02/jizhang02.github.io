@@ -6,7 +6,6 @@ date:       2021-09-08 17:16:00
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
     - Deep Learning
     - Transformer
 ---

@@ -6,8 +6,8 @@ date:       2026-05-09
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Artificial Intelligence
+    - LLM
+    - Technology History
 
 ---
 

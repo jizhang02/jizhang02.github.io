@@ -6,9 +6,8 @@ date:       2024-10-14
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Foundation Model
-    - Artificial Intelligence
+    - Deep Learning
+    - Foundation Models
 
 ---
 

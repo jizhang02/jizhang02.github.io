@@ -6,9 +6,8 @@ date:       2019-07-18 18:47:00
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - 科技英语
-    - Github
+    - Academic English
+    - Research Resources
 ---
 
 

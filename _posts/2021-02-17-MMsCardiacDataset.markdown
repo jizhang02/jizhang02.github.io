@@ -7,6 +7,8 @@ author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
     - Medical Imaging
+    - Cardiac MRI
+    - Datasets
 
 ---
 

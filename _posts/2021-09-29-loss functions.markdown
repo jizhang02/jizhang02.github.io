@@ -6,9 +6,8 @@ date:       2021-09-29 14:08:00
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
     - Deep Learning
-    - Loss functions
+    - Loss Functions
 ---
 
 ### Let you know the principle of AI models from excellent works

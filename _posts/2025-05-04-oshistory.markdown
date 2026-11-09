@@ -6,7 +6,8 @@ date:       2025-05-04
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
+    - Operating Systems
+    - Technology History
 
 ---
 

@@ -6,8 +6,9 @@ date:       2026-09-02
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Artificial Intelligence
+    - LLM
+    - Multimodal AI
+    - Healthcare
 
 ---
 

@@ -6,9 +6,7 @@ date:       2023-03-12
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Medical tasks
-    - Artificial Intelligence
+    - Medical AI
 
 ---
 

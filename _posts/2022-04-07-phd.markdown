@@ -6,9 +6,8 @@ date:       2022-04-07 14:27:00
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
+    - Doctoral Dissertation
     - Deep Learning
-    - PhD defense
 ---
 
 

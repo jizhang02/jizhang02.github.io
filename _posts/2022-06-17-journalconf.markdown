@@ -7,9 +7,8 @@ last_updated: 2026-10-16
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Deep Learning
-    - Medical imaging
+    - Medical Imaging
+    - Academic Publishing
 ---
 
 

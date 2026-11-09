@@ -9,9 +9,9 @@ header-img: "img/post-bg.jpg"
 header-mask: 0.45
 research-notes: true
 tags:
-    - Medical Image Analysis
-    - Research
-    - notes
+    - Medical Imaging
+    - Research Notes
+    - Research Resources
 
 ---
 

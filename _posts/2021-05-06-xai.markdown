@@ -6,9 +6,8 @@ date:       2021-05-06 11:22:00
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
     - Deep Learning
-    - XAI
+    - Explainable AI
 ---
 
 ### Let you know the principle of AI models from excellent works

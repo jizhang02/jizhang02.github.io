@@ -6,9 +6,8 @@ date:       2023-10-21
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Challenge
     - Artificial Intelligence
+    - Research Challenges
 
 ---
 

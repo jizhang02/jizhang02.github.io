@@ -6,9 +6,9 @@ date:       2022-02-07 18:07:00
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Deep Learning
-    - Optimization
+    - AutoML
+    - Hyperparameter Optimization
+    - Research Tools
 ---
 
 ### A collection of machine learning optimization toolkits.

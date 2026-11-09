@@ -7,10 +7,8 @@ last_updated: 2026-10-29
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
-    - Computer Science
-    - Artificial Intelligence
-    - Tools
-    - Github
+    - Research Tools
+    - Research Resources
 ---
 
 

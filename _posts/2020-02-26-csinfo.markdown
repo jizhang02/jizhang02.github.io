@@ -11,7 +11,7 @@ catalog:    true
 tags:
     - Computer Science
     - Artificial Intelligence
-    - Info
+    - Academic Resources
 ---
 
 
