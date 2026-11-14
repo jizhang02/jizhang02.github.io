@@ -23,7 +23,7 @@ Hi, I am Jing, coming from [Wuhai](https://en.wikipedia.org/wiki/Wuhai), [Inner 
     + Supervisors: [Caroline Petitjean](https://pagesperso.litislab.fr/cpetitjean/), [Samia Ainouz](https://pagesperso.litislab.fr/sainouz/)
   - Mar. 2018-Jun. 2018, [SISU](http://en.shisu.edu.cn/), French training, TEF: B1 level (Paper scores, do not represent the true level)
     + Designated textbook: Reflets
-    + Teachers: Monsieur Wang, Madam Gao, Foreigner teacher: Boris
+    + Teachers: Madam Gao, Monsieur Wang, Foreigner teacher: Boris
   - Sep. 2015-Jun. 2018, NWAFU, CIE, Computer Science, M.Sc.
     + Research area: Computer Graphics; Plant point cloud processing; Ray tracing
     + Thesis: Research on key techniques of illumination model on the canopy of apple trees (in Chinese), [Thesis](https://1drv.ms/b/s!ArS4irhKYi7tmVLdz6QvoJ8pp4Bz?e=Cw8IiT)，[Slides](https://1drv.ms/b/s!ArS4irhKYi7tmVPJDVSdfcvbMTOg?e=cTTgYS)，[Code](https://github.com/jizhang02/Digital-Plants-Illumination-Simulation)
