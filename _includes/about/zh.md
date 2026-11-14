@@ -30,6 +30,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 指导老师：[张宏鸣](https://cie.nwsuaf.edu.cn/szdw/js/2008117820/index.htm)
 
 #### 学术活动
+  - 2026年22月，[ESC Digital & AI Summit](https://www.escardio.org/events/congresses/digital-ai-summit/), [Poster](https://1drv.ms/b/c/ed2e624ab88ab8b4/IQB_00Nqij2tSokovg8kJI5HAbU4HlE0ZYyG2c_2ZpnqU5I?e=aI7jfa), 巴塞尔，瑞士
   - 2026年9月，[CinC2026 会议](https://cinc2026.org/)，[Poster](https://1drv.ms/b/c/ed2e624ab88ab8b4/IQBGl4kknbpoSqMDALPQjm_4AW37gyHCeMesofWCoJgxaZA?e=mz8n84)，马德里，西班牙
   - 2025年11月，[IEEE-MIC2025 会议](https://nssmic.ieee.org/2025/)，[Poster](https://1drv.ms/b/c/ed2e624ab88ab8b4/IQCF0ZI_8BarTav_HZ6U11MZAanAuBL488WB_YA9Frai6n0?e=HfkPDt)，横滨，日本
   - 2025年8月，合作指导了4名实习生
