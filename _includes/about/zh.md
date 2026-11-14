@@ -20,7 +20,7 @@ Hey，我是张晶，来自中国[内蒙古](https://baike.baidu.com/item/%E5%86
     + 导师：[Caroline Petitjean](https://pagesperso.litislab.fr/cpetitjean/), [Samia Ainouz](https://pagesperso.litislab.fr/sainouz/)
  - 2018年3月-2018年6月，上海外国语大学，法语培训，TEF考试B1层次(卷面成绩，不代表真实水平)；
     + 指定教材：走遍法国
-    + 法语老师：Monsieur 王，Madam 高，外教 Boris  
+    + 法语老师：Madam 高，Monsieur 王，外教 Boris  
   - 2015年9月-2018年6月，西北农林科技大学，信息工程学院，计算机科学与技术专业，工学硕士
     + 研究方向：计算机图形学；植物点云处理；光线跟踪
     + 毕业论文：苹果树冠层光照模型关键技术研究，[论文](https://1drv.ms/b/s!ArS4irhKYi7tmVLdz6QvoJ8pp4Bz?e=Cw8IiT)，[PPT](https://1drv.ms/b/s!ArS4irhKYi7tmVPJDVSdfcvbMTOg?e=cTTgYS)，[代码](https://github.com/jizhang02/Digital-Plants-Illumination-Simulation)
