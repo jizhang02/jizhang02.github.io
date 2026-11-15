@@ -3,7 +3,7 @@ layout:     post
 title:      "Journal and Conference on Medical imaging"
 subtitle:   "医学影像领域的期刊和论文"
 date:       2022-06-17 14:36:00
-last_updated: 2026-10-16
+last_updated: 2026-11-15
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
@@ -52,6 +52,9 @@ A collection of journals and conferences in medical imaging, computer vision, an
 - [SPIE Medical Imaging](https://spie.org/)
 - [Information Processing in Medical Imaging (IPMI)](http://ipmi2021.org/past-ipmis/) — every two years
 - [Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2022/)
+- [European Association of Nuclear Medicine (EANM)](https://eanm.org/)
+- [Society of Nuclear Medicine and Molecular Imaging (SNMMI)](https://snmmi.org/AM/)
+- [IEEE NSS/MIC/RTSD](https://ieee-npss.org/conferences/)
 - [Computing in Cardiology (CinC)](https://cinc2026.org/)
 - [European Society of Cardiology Congress (ESC)](https://www.escardio.org/events/congresses/esc-congress)
 
