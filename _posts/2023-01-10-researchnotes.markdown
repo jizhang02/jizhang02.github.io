@@ -3,7 +3,7 @@ layout:     post
 title:      "Medical Research Notes"
 subtitle:   "医学研究笔记"
 date:       2023-01-10
-last_updated: 2026-10-14
+last_updated: 2026-11-15
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 header-mask: 0.45

@@ -51,8 +51,9 @@ This post is an introduction to the Transformer, in terms of its origin, applica
 ## Transformer Evolution at a Glance
 
 ```mermaid
-%%{init: {"flowchart": {"padding": 25, "wrappingWidth": 280}}}%%
+%%{init: {"flowchart": {"padding": 25, "wrappingWidth": 280, "curve": "linear"}}}%%
 flowchart TD
+    classDef default font-size:20px
     accTitle: Transformer evolution from RNN attention to vision and language models
     A["2015 · Attention in RNN translation [1]"] --> B["2016 · Attention within a sequence [2]"]
     B --> C["2017 · Transformer [3]"]

@@ -3,7 +3,7 @@ layout:     post
 title:      "Information in Computer Science and AI "
 subtitle:   "计算机人工智能信息"
 date:       2020-02-26 15:00:00
-last_updated: 2026-10-12
+last_updated: 2026-11-15
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 header-mask: 0.3
