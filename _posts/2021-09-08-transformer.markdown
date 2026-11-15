@@ -3,6 +3,7 @@ layout:     post
 title:      "Transformer's past and present."
 subtitle: "Transformer的前世今生"
 date:       2021-09-08 17:16:00
+last_updated: 2026-11-15
 author:     "Jing"
 header-img: "img/post-bg.jpg"
 tags:
@@ -21,7 +22,7 @@ This post is an introduction to the Transformer, in terms of its origin, applica
 ⭐ Self-Attention model, not limited in sequence to sequence model.   
 📄 [Long Short-Term Memory-Networks for Machine Reading](https://arxiv.org/abs/1601.06733), 2016
 ## ![#6A00FF](https://via.placeholder.com/60/6A00FF/FFFFFF?text=2017) Transformer 2017
-⭐ Attention without RNN, in other words, it consists of Attention and Self-Attention layers only.    
+⭐ Earlier models used attention alongside RNNs. The Transformer dropped the RNN and used attention to connect positions in a sequence. Those positions can represent words in a sentence or, as ViT later showed, patches of an image.    
 📄 [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf), 2017
 ## ![#FA6800](https://via.placeholder.com/60/FA6800/000000?text=2021) Vision Transformer 2021
 ⭐ It uses Transformer (encoder part) to do the image classification task. It split the image into small patches as input, and record the position infomation of each patch. It performs well if pretrained on large datasets (more than 100 million). Short for ViT.     
@@ -46,3 +47,57 @@ This post is an introduction to the Transformer, in terms of its origin, applica
 📄 [Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review](https://arxiv.org/pdf/2301.03505.pdf), 2023-01-10, 63 pages!      
 
 👉 Acknowledgements: [Wang Shusen](https://youtu.be/aButdUV0dxI)
+
+## Transformer Evolution at a Glance
+
+```mermaid
+%%{init: {"flowchart": {"padding": 25, "wrappingWidth": 280}}}%%
+flowchart TD
+    accTitle: Transformer evolution from RNN attention to vision and language models
+    A["2015 · Attention in RNN translation [1]"] --> B["2016 · Attention within a sequence [2]"]
+    B --> C["2017 · Transformer [3]"]
+    C --> V["`🖼️ **Vision Transformers**`"]
+    C --> L["`📝 **Language Transformers**`"]
+    V --> V1["2020–2021 · ViT — image patches as tokens [4]"]
+    L --> L1["2018–2019 · BERT [8], GPT [9], and T5 [10]"]
+    V1 --> V2["2021 · Medical image segmentation [5–7]"]
+    V1 -.-> M["2023 · LLaVA — visual question answering [15]"]
+    L1 -.-> M
+    L1 --> L2["2020 · GPT-3 and in-context learning [11]"]
+    V2 --> V3["2024 · MedSAM — promptable segmentation [14]"]
+    L2 --> L3["2024 · Llama 3 [12] and Mixtral [13]"]
+```
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+
+  const code = document.querySelector('pre > code.language-mermaid, .language-mermaid pre > code');
+  if (code) {
+    const diagram = document.createElement('div');
+    diagram.className = 'mermaid';
+    diagram.textContent = code.textContent;
+    const source = code.closest('.highlighter-rouge') || code.closest('pre');
+    source.replaceWith(diagram);
+
+    mermaid.initialize({ startOnLoad: false });
+    await mermaid.run({ nodes: [diagram] });
+  }
+</script>
+
+## References
+
+1. Bahdanau et al. (2015). [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473).
+2. Cheng et al. (2016). [Long Short-Term Memory-Networks for Machine Reading](https://arxiv.org/abs/1601.06733).
+3. Vaswani et al. (2017). [Attention Is All You Need](https://arxiv.org/abs/1706.03762).
+4. Dosovitskiy et al. (2021). [An Image Is Worth 16×16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929).
+5. Chen et al. (2021). [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://arxiv.org/abs/2102.04306).
+6. Hatamizadeh et al. (2021 preprint). [UNETR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.10504).
+7. Cao et al. (2021 preprint). [Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537).
+8. Devlin et al. (2018 preprint). [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805).
+9. Radford et al. (2018). [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf).
+10. Raffel et al. (2019 preprint). [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683).
+11. Brown et al. (2020). [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165).
+12. Dubey et al. (2024). [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783).
+13. Jiang et al. (2024). [Mixtral of Experts](https://arxiv.org/abs/2401.04088).
+14. Ma et al. (2024). [Segment anything in medical images](https://doi.org/10.1038/s41467-024-44824-z).
+15. Liu et al. (2023). [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485).
