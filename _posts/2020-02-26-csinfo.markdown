@@ -17,19 +17,11 @@ tags:
 
 *Last updated: {{ page.last_updated | date: "%Y-%m-%d" }}*
 
-## Categories
-
-- [Laboratories & Institutions](#laboratories-institutions)
-- [Scholars](#scholars)
-- [AI or Medical Companies](#ai-or-medical-companies)
-- [CS, AI or Interdisciplinary colleges](#cs-ai-or-interdisciplinary-colleges)
-
 这篇博客收集了一些以计算机科学与技术为主的一些企业，研究所和高校信息，希望能对你有所帮助。 ;) <br><br>
 This blog has collected some information about some companies, institutes and universities focusing on computer science and technology.
 
-
 ## Laboratories & Institutions
-{: #laboratories-institutions}
+   
 * [北京大学前沿计算研究中心](https://cfcs.pku.edu.cn/announcement/recruiting/236532.htm)， 北京，Beijing
 * [鹏程实验室](http://www.pcl.ac.cn/)， 深圳，Shenzhen
 * [深圳湾实验室](https://www.szbl.ac.cn/)， 深圳，Shenzhen
@@ -38,6 +30,7 @@ This blog has collected some information about some companies, institutes and un
 * [之江实验室](https://www.zhejianglab.com/)，杭州，Hangzhou    
 * [Litis (Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes)](http://www.litislab.fr/), Rouen, France.
 * [LaTIM (laboratoire de traitement de l’information médicale)](https://latim.univ-brest.fr/), Brest, France.
+* [LIB(Biomedical Imaging Laboratory)](https://www.lib.upmc.fr/en/), Paris, France.
 * [Creatis(Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé)](https://www.creatis.insa-lyon.fr/site7/en), Lyon, France.
 * [Heatmapping](http://www.heatmapping.org/), This webpage aims to regroup publications and software produced as part of a joint project at Fraunhofer HHI, TU Berlin and SUTD Singapore on developing new method to understand nonlinear predictions of state-of-the-art machine learning models. 
 * [Smart Medical Imaging](https://www.imagingcdt.com/), London, England.
@@ -64,7 +57,7 @@ This blog has collected some information about some companies, institutes and un
 * [Artificial Intelligence and Biomedical Image Analysis Lab](https://www.yanglinlab.com/), Hangzhou, China. 杨林实验室-人工智能与生物医学影响实验室
 * [X-ray Systems Lab](https://caoguohua.github.io/index.html), ShanghaiTech University, China.
 * [Pattern Recognition Revisited Lab (PURRLab)](https://purrlab.github.io/), IT University of Copenhagen, Denmark.
-* [Yongchao Xu Research Group](https://sites.google.com/view/yongchaoxu/home), Wuhan University, China.（正式实验室名称未核实）
+* [Yongchao Xu Research Group](https://sites.google.com/view/yongchaoxu/home), Wuhan University, China.
 * [SMART Lab](https://smartx.cse.ust.hk/), The Hong Kong University of Science and Technology, Hong Kong, China.
 * [Fan Zhang Research Group](https://zhangfanmark.github.io/), University of Electronic Science and Technology of China, China.
 * [Artificial Intelligence in Biomedical Imaging Lab (AIBIL)](https://aibil.med.upenn.edu/), University of Pennsylvania, USA.
@@ -88,7 +81,7 @@ This blog has collected some information about some companies, institutes and un
 * [Qi Dou Research Group](https://www.cse.cuhk.edu.hk/~qdou/homepage/team/), The Chinese University of Hong Kong, Hong Kong, China.
 * [Heudiasyc Laboratory (UMR CNRS 7253)](https://www.hds.utc.fr/), Université de Technologie de Compiègne / CNRS, France.
 * [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/person/kaiming-he), Massachusetts Institute of Technology, USA.
-* [Zhifan Gao Research Group](https://zhifan-gao.github.io/), Sun Yat-sen University, China.（个人主页）
+* [Zhifan Gao Research Group](https://zhifan-gao.github.io/), Sun Yat-sen University, China.
 * [YLab](https://ylab.top/), Harvard Medical School / Brigham and Women’s Hospital, USA.
 * [State Key Laboratory of CAD & CG](https://cshen.github.io/), Zhejiang University, China.
 * [Explainable AI Research Group](http://qszhang.com/), Shanghai Jiao Tong University, China.
@@ -102,7 +95,6 @@ This blog has collected some information about some companies, institutes and un
 * [Xiaomeng Li Research Group](https://xmengli.github.io/), The Hong Kong University of Science and Technology, Hong Kong, China.
 
 ## AI or Medical Companies
-{: #ai-or-medical-companies}
 * [柏视医疗](https://www.pvmedtech.com/index.html)，广州，Guangzhou
 * [腾讯觅影](https://miying.qq.com/official/)，深圳，Shenzhen
 * [商汤](https://www.sensetime.com/cn)，北京，Beijing
@@ -132,7 +124,6 @@ This blog has collected some information about some companies, institutes and un
 
 
 ## CS, AI or Interdisciplinary colleges
-{: #cs-ai-or-interdisciplinary-colleges}
 * [Computer Science Rankings](http://csrankings.org/#/index?vision&graph&world) CSRankings is a metrics-based ranking of top computer science institutions around the world.
 * [中国科学院大学人工智能学院](https://ai.ucas.ac.cn/index.php/zh-cn/)，北京，Beijing
 * [中国科学技术大学人工智能与数据科学学院](https://saids.ustc.edu.cn/main.htm)，合肥，Hefei
