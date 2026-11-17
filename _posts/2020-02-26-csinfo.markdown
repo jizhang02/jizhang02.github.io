@@ -15,8 +15,6 @@ tags:
 ---
 
 
-*Last updated: {{ page.last_updated | date: "%Y-%m-%d" }}*
-
 这篇博客收集了一些以计算机科学与技术为主的一些企业，研究所和高校信息，希望能对你有所帮助。 ;) <br><br>
 This blog has collected some information about some companies, institutes and universities focusing on computer science and technology.
 
