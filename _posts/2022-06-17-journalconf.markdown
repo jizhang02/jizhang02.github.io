@@ -60,6 +60,7 @@ A collection of journals and conferences in medical imaging, computer vision, an
 
 ## Publishers & Platforms
 
+👉 [新锐期刊分区表](https://www.xr-scholar.com/) 👈
 
 ### Fully open access publishers
 
